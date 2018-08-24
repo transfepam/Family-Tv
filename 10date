@@ -286,6 +286,67 @@ http://leaderpro.pt:25461/live/Eu/Eu/21405.m3u8
 http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5184.m3u8
 #EXTINF:0 group-title="(US) United States",WWE NETWORK | HD (US)
 http://leaderpro.pt:25461/live/Eu/Eu/21321.m3u8
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",ABC | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4192.m3u8
+#EXTINF:0 group-title="(US) United States",ABC | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5239.m3u8
+#EXTINF:0 group-title="(US) United States",ABC NEWS | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4191.m3u8
+#EXTINF:0 group-title="(US) United States",ABC NEWS | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/873.m3u8
+#EXTINF:0 group-title="(US) United States",AL JAZEERA NEWS ENGLISH | SD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8097.m3u8
+#EXTINF:0 group-title="(US) United States",CBS NEWS | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8098.m3u8
+#EXTINF:0 group-title="(US) United States",CNBC | SD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4183.m3u8
+#EXTINF:0 group-title="(US) United States",CNN | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/876.m3u8
+#EXTINF:0 group-title="(US) United States",FOX BUSINESS | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5233.m3u8
+#EXTINF:0 group-title="(US) United States",FOX NEWS | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4169.m3u8
+#EXTINF:0 group-title="(US) United States",NBCSN | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",ABC | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4192.m3u8
+#EXTINF:0 group-title="(US) United States",ABC | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5239.m3u8
+#EXTINF:0 group-title="(US) United States",ABC NEWS | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4191.m3u8
+#EXTINF:0 group-title="(US) United States",ABC NEWS | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/873.m3u8
+#EXTINF:0 group-title="(US) United States",AL JAZEERA NEWS ENGLISH | SD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8097.m3u8
+#EXTINF:0 group-title="(US) United States",CBS NEWS | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8098.m3u8
+#EXTINF:0 group-title="(US) United States",CNBC | SD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4183.m3u8
+#EXTINF:0 group-title="(US) United States",CNN | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/876.m3u8
+#EXTINF:0 group-title="(US) United States",FOX BUSINESS | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5233.m3u8
+#EXTINF:0 group-title="(US) United States",FOX NEWS | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4169.m3u8
+#EXTINF:0 group-title="(US) United States",NBCSN | HD (US)
+http://ca.stablechannels.tv:25461/live/u5Wu06SKb/vJt1Aq651n/4150.m3u8
 
 #EXTINF:0 group-title="(WW) World Wide",*** AutoIPTV ***
 https://autoiptv.net
@@ -295,139 +356,10 @@ https://autoiptv.net
 https://autoiptv.net/playlists
 #EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net/playlists
 https://autoiptv.net/playlists
-#EXTINF:0 group-title="(WW) World Wide",AR AL AOULA | SD (WW)
-http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/421.m3u8
-#EXTINF:0 group-title="(WW) World Wide",AR FUTURE TV | SD (WW)
-http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/618.m3u8
-#EXTINF:0 group-title="(WW) World Wide",BAHRAIN | SD (WW)
-http://titiroq.xyz:25461/live/123412341234/123412341234/25893.m3u8
-#EXTINF:0 group-title="(WW) World Wide",BAHRAIN | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6650.m3u8
-#EXTINF:0 group-title="(WW) World Wide",CHANNEL | SD (WW)
-http://titiroq.xyz:25461/live/123412341234/123412341234/20656.m3u8
-#EXTINF:0 group-title="(WW) World Wide",CHONGQING | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/6808.m3u8
-#EXTINF:0 group-title="(WW) World Wide",CRO | SD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/170939.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI | SD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/115257.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2889.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI ANIMAL | SD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/115258.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DIGI ANIMAL | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2891.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DISCOVER | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/9767.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DISCOVERY | SD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/36165.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DISCOVERY MULTI-SUB | SD (WW)
-http://titiroq.xyz:25461/live/123412341234/123412341234/22854.m3u8
-#EXTINF:0 group-title="(WW) World Wide",DISCOVERY SV | SD (WW)
-http://109.236.92.197:9090/live/Mecnun1/kHgghnOipf/918.m3u8
-#EXTINF:0 group-title="(WW) World Wide",EX-YU | HD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/30094.m3u8
-#EXTINF:0 group-title="(WW) World Wide",EX-YU | SD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78413.m3u8
-#EXTINF:0 group-title="(WW) World Wide",HARVEST TV USA | SD (WW)
-http://media1.lesea.com:1935/live/leseaorigin.stream/playlist.m3u8
-#EXTINF:0 group-title="(WW) World Wide",HBO 2 | SD (WW)
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:0 group-title="(WW) World Wide",MARKIZA | HD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/135045.m3u8
-#EXTINF:0 group-title="(WW) World Wide",MARKIZA | SD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/148068.m3u8
-#EXTINF:0 group-title="(WW) World Wide",MARKIZA | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12727.m3u8
-#EXTINF:0 group-title="(WW) World Wide",NOVA | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12860.m3u8
-#EXTINF:0 group-title="(WW) World Wide",OSN | SD (WW)
-http://145.239.4.240:31000/live/2101/1012/99.m3u8
-#EXTINF:0 group-title="(WW) World Wide",OSN STAR | SD (WW)
-http://145.239.4.240:31000/live/2101/1012/149.m3u8
-#EXTINF:0 group-title="(WW) World Wide",PRVA | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/13558.m3u8
-#EXTINF:0 group-title="(WW) World Wide",SRB | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/458.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRAVEL | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8053.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRING | HD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/76402.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRT | HD (WW)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/53459.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRT | SD (WW)
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRT | SD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/11817.m3u8
-#EXTINF:0 group-title="(WW) World Wide",TRT BKUP | HD (WW)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/15247.m3u8
-#EXTINF:0 group-title="(WW) World Wide",UK@ AIT | SD (WW)
-http://188.93.238.184:8000/live/chewy/chewy/11884.m3u8
-#EXTINF:0 group-title="(WW) World Wide",UK@ AIT | SD (WW)
-http://izgemma.ddns.net:8000/live/kris/kris/11884.m3u8
-#EXTINF:0 group-title="(WW) World Wide",UK@ CNC | SD (WW)
-http://188.93.238.184:8000/live/chewy/chewy/11853.m3u8
-#EXTINF:0 group-title="(WW) World Wide",UK@ CNC | SD (WW)
-http://izgemma.ddns.net:8000/live/kris/kris/11853.m3u8
-#EXTINF:0 group-title="(WW) World Wide",UK@ HUM | SD (WW)
-http://188.93.238.184:8000/live/chewy/chewy/21855.m3u8
-
-
-
-#EXTINF:0 group-title="(AFR) Africa",https://autoiptv.net
-https://autoiptv.net
-#EXTINF:0 group-title="(AFR) Africa",*** Playlists ***
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(AFR) Africa",https://autoiptv.net/playlists
-https://autoiptv.net/playlists
-#EXTINF:0 group-title="(AFR) Africa",ADOM TV | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/12965.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AF CHANNELS TV AFRIK | SD (AFR)
-http://swar.fannan.se:8000/live/zizo18040/54544452/7988.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AF RTP | SD (AFR)
-http://swar.fannan.se:8000/live/zizo18040/54544452/8010.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AF RTS1 | SD (AFR)
-http://swar.fannan.se:8000/live/zizo18040/54544452/8019.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AF TV CONTINENTAL AFRIK | SD (AFR)
-http://swar.fannan.se:8000/live/zizo18040/54544452/7989.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AF WALF TV | SD (AFR)
-http://iptvtool.es:9977/live/Rivera/Rivera/34640.m3u8
-#EXTINF:0 group-title="(AFR) Africa",AF ZTV | SD (AFR)
-http://swar.fannan.se:8000/live/zizo18040/54544452/8017.m3u8
-#EXTINF:0 group-title="(AFR) Africa",CHAINE NORD-AFRICAINE | SD (AFR)
-http://str81.creacast.com/cna/live.sdp/playlist.m3u8
-#EXTINF:0 group-title="(AFR) Africa",CHANNELS TELEVISION | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/12964.m3u8
-#EXTINF:0 group-title="(AFR) Africa",DABANGA | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/12976.m3u8
-#EXTINF:0 group-title="(AFR) Africa",KALSAN TV | SD (AFR)
-http://swar.fannan.se:8000/live/zizo18040/54544452/10545.m3u8
-#EXTINF:0 group-title="(AFR) Africa",KASSALA | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/8927.m3u8
-#EXTINF:0 group-title="(AFR) Africa",KEDU TV | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/12996.m3u8
-#EXTINF:0 group-title="(AFR) Africa",KNOWLEDGE | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/8910.m3u8
-#EXTINF:0 group-title="(AFR) Africa",OM DORMAN | SD (AFR)
-http://titiroq.xyz:25461/live/Saad55/Saad55/9093.m3u8
-#EXTINF:0 group-title="(AFR) Africa",RTP | SD (AFR)
-http://swar.fannan.se:8000/live/zizo18040/54544452/10541.m3u8
-#EXTINF:0 group-title="(AFR) Africa",STV | SD (AFR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12613.m3u8
-#EXTINF:0 group-title="(AFR) Africa",TELE | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/12987.m3u8
-#EXTINF:0 group-title="(AFR) Africa",TM2 | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/12985.m3u8
-#EXTINF:0 group-title="(AFR) Africa",TPA | SD (AFR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12614.m3u8
-#EXTINF:0 group-title="(AFR) Africa",TV1 | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/13020.m3u8
-#EXTINF:0 group-title="(AFR) Africa",TV2 | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/13019.m3u8
-#EXTINF:0 group-title="(AFR) Africa",TV4 | SD (AFR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/13017.m3u8
-
-
+#EXTINF:0 group-title="(WW) World Wide",UK@ BBC NEWS | SD (WW)
+http://188.93.238.184:8000/live/chewy/chewy/11327.m3u8
+#EXTINF:0 group-title="(WW) World Wide",UK@ NHK NEWS | HD (WW)
+http://188.93.238.184:8000/live/chewy/chewy/11075.m3u8
 #EXTINF:0 group-title="(FR) France",*** AutoIPTV ***
 https://autoiptv.net
 #EXTINF:0 group-title="(FR) France",https://autoiptv.net
@@ -436,539 +368,1035 @@ https://autoiptv.net
 https://autoiptv.net/playlists
 #EXTINF:0 group-title="(FR) France",https://autoiptv.net/playlists
 https://autoiptv.net/playlists
-#EXTINF:0 group-title="(FR) France",13EME RUE | HD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/987.m3u8
-#EXTINF:0 group-title="(FR) France",13EME RUE | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83655.m3u8
-#EXTINF:0 group-title="(FR) France",13EME RUE | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3759.m3u8
-#EXTINF:0 group-title="(FR) France",13EME RUE | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1056.m3u8
-#EXTINF:0 group-title="(FR) France",13EME RUE | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/3.m3u8
-#EXTINF:0 group-title="(FR) France",24 AR | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1929.m3u8
-#EXTINF:0 group-title="(FR) France",24 AR | SD (FR)
-http://tv2iptv.com:8000/live/power/power2018/245.m3u8
-#EXTINF:0 group-title="(FR) France",6 TER | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12013.m3u8
-#EXTINF:0 group-title="(FR) France",6TER | HD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/221.m3u8
-#EXTINF:0 group-title="(FR) France",6TER | HD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/37529.m3u8
-#EXTINF:0 group-title="(FR) France",6TER | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/668.m3u8
-#EXTINF:0 group-title="(FR) France",6TER | HD (FR)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37529.m3u8
-#EXTINF:0 group-title="(FR) France",6TER | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2608.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 1 | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1882.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 10 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83635.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 2 | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1883.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 3 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83642.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 4 | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1885.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 4 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83641.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 5 | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1886.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 5 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83640.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 6 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83639.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 7 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83638.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 8 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83637.m3u8
-#EXTINF:0 group-title="(FR) France",A LA CARTE 9 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83636.m3u8
-#EXTINF:0 group-title="(FR) France",AB 1 | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/414.m3u8
-#EXTINF:0 group-title="(FR) France",AB 1 | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/10356.m3u8
-#EXTINF:0 group-title="(FR) France",AB MOTEUR | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3758.m3u8
-#EXTINF:0 group-title="(FR) France",AB MOTEURS | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/2879.m3u8
-#EXTINF:0 group-title="(FR) France",AB1 | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/228.m3u8
-#EXTINF:0 group-title="(FR) France",ACTION | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/4.m3u8
-#EXTINF:0 group-title="(FR) France",ACTION | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/349.m3u8
-#EXTINF:0 group-title="(FR) France",ANIMAUX | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/400.m3u8
-#EXTINF:0 group-title="(FR) France",ANIMAUX | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/6.m3u8
-#EXTINF:0 group-title="(FR) France",ANIMAUX | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/642.m3u8
-#EXTINF:0 group-title="(FR) France",AR 24 | SD (FR)
-http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/5567.m3u8
-#EXTINF:0 group-title="(FR) France",ARTE | HD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/210.m3u8
-#EXTINF:0 group-title="(FR) France",ARTE | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/801.m3u8
-#EXTINF:0 group-title="(FR) France",ARTE | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83676.m3u8
-#EXTINF:0 group-title="(FR) France",ARTE | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1072.m3u8
-#EXTINF:0 group-title="(FR) France",ARTE | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/420.m3u8
-#EXTINF:0 group-title="(FR) France",BBLACK AFRICA | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18641.m3u8
-#EXTINF:0 group-title="(FR) France",BBLACK CLASSIC | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18642.m3u8
-#EXTINF:0 group-title="(FR) France",BE CURIOUS | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2607.m3u8
-#EXTINF:0 group-title="(FR) France",BEIN MAX 7 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64219.m3u8
-#EXTINF:0 group-title="(FR) France",BEIN MAX 8 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64220.m3u8
-#EXTINF:0 group-title="(FR) France",BERBERE JEUNESSE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/16438.m3u8
-#EXTINF:0 group-title="(FR) France",BERBERE TELEVISION | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3778.m3u8
-#EXTINF:0 group-title="(FR) France",BET | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2620.m3u8
-#EXTINF:0 group-title="(FR) France",BFM TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2763.m3u8
-#EXTINF:0 group-title="(FR) France",BIS TV CHERIE 25 | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/860.m3u8
-#EXTINF:0 group-title="(FR) France",BIS TV MANGAS | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/864.m3u8
-#EXTINF:0 group-title="(FR) France",BIS TV RTL9 | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/866.m3u8
-#EXTINF:0 group-title="(FR) France",BOING | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/285.m3u8
-#EXTINF:0 group-title="(FR) France",BOING | SD (FR)
-http://pro.smartgotv.com:8005/live/mondher/mondher/3641.m3u8
-#EXTINF:0 group-title="(FR) France",BOING | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2623.m3u8
-#EXTINF:0 group-title="(FR) France",BOX OFFICE ADVENTURE | SD (FR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/22623.m3u8
-#EXTINF:0 group-title="(FR) France",BOX OFFICE DRAME | SD (FR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/22617.m3u8
-#EXTINF:0 group-title="(FR) France",BOX OFFICE FILM POLICIER | SD (FR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/22621.m3u8
-#EXTINF:0 group-title="(FR) France",BRAVA | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18648.m3u8
-#EXTINF:0 group-title="(FR) France",BRAVA | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/7034.m3u8
-#EXTINF:0 group-title="(FR) France",BREIZH TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2609.m3u8
-#EXTINF:0 group-title="(FR) France",C STAR | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2764.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83672.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL J | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/13.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 10 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83625.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 11 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83624.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 12 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83623.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 13 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83622.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 15 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83620.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 2 | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/3219.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 3 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83632.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 6 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83629.m3u8
-#EXTINF:0 group-title="(FR) France",CANAL PLAY 8 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83627.m3u8
-#EXTINF:0 group-title="(FR) France",CHASSE & PECHE | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1172.m3u8
-#EXTINF:0 group-title="(FR) France",CHASSE & PECHE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12522.m3u8
-#EXTINF:0 group-title="(FR) France",CHERIE 25 | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/512.m3u8
-#EXTINF:0 group-title="(FR) France",CHERIE 25 | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/512.m3u8
-#EXTINF:0 group-title="(FR) France",CHERIE 25 | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3761.m3u8
-#EXTINF:0 group-title="(FR) France",CHERIE 25 | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/3507.m3u8
-#EXTINF:0 group-title="(FR) France",CHERIE 25 | SD (FR)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/3507.m3u8
-#EXTINF:0 group-title="(FR) France",CPAC | SD (FR)
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
-#EXTINF:0 group-title="(FR) France",CRIME DISTRECT | HD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/3645.m3u8
-#EXTINF:0 group-title="(FR) France",CSTAR | HD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/2877.m3u8
-#EXTINF:0 group-title="(FR) France",CSTAR | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83688.m3u8
-#EXTINF:0 group-title="(FR) France",CSTAR | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81517.m3u8
-#EXTINF:0 group-title="(FR) France",DIISCOVERY SCIENCE | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83594.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83595.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1063.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY | SD (FR)
-http://pro.smartgotv.com:8005/live/mondher/mondher/3617.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/355.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY CHANNEL | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/27.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY INVESTIGATION | HD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/738.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY SC | SD (FR)
-http://pro.smartgotv.com:8005/live/mondher/mondher/3616.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY SCIENCE | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/99.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY SCIENCE | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/646.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY SCIENCE | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1062.m3u8
-#EXTINF:0 group-title="(FR) France",DISCOVERY SCIENCE | SD (FR)
-http://titiroq.xyz:25461/live/123412341234/123412341234/9415.m3u8
-#EXTINF:0 group-title="(FR) France",E! ENTERTAINEMENT | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/31.m3u8
-#EXTINF:0 group-title="(FR) France",E! ENTERTAINMENT | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83680.m3u8
-#EXTINF:0 group-title="(FR) France",E!ENTERTAINMENT | SD (FR)
-http://pro.smartgotv.com:8005/live/mondher/mondher/3611.m3u8
-#EXTINF:0 group-title="(FR) France",ELLE GIRL | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/16099.m3u8
-#EXTINF:0 group-title="(FR) France",EQUIDIA | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/835.m3u8
-#EXTINF:0 group-title="(FR) France",EQUIDIA LIFE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3772.m3u8
-#EXTINF:0 group-title="(FR) France",EQUIDIA LIVE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3771.m3u8
-#EXTINF:0 group-title="(FR) France",FOOT 24 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64208.m3u8
-#EXTINF:0 group-title="(FR) France",FOOT 24 | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1244.m3u8
-#EXTINF:0 group-title="(FR) France",FRANCE 24 | SD (FR)
-http://pro.smartgotv.com:8005/live/mondher/mondher/5179.m3u8
-#EXTINF:0 group-title="(FR) France",GAME ONE | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83600.m3u8
-#EXTINF:0 group-title="(FR) France",GAME ONE | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/2797.m3u8
-#EXTINF:0 group-title="(FR) France",GAME ONE | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/212.m3u8
-#EXTINF:0 group-title="(FR) France",GAME ONE | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/212.m3u8
-#EXTINF:0 group-title="(FR) France",GAME ONE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/9113.m3u8
-#EXTINF:0 group-title="(FR) France",GAME ONE L | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/457.m3u8
-#EXTINF:0 group-title="(FR) France",GONG BASE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12525.m3u8
-#EXTINF:0 group-title="(FR) France",GONG TV | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/286.m3u8
-#EXTINF:0 group-title="(FR) France",GONGMAX | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18667.m3u8
-#EXTINF:0 group-title="(FR) France",GRAND LILLE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18660.m3u8
-#EXTINF:0 group-title="(FR) France",GULLI | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83609.m3u8
-#EXTINF:0 group-title="(FR) France",GULLI | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/226.m3u8
-#EXTINF:0 group-title="(FR) France",GULLI | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2625.m3u8
-#EXTINF:0 group-title="(FR) France",HD1 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81518.m3u8
-#EXTINF:0 group-title="(FR) France",HD1 | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2766.m3u8
-#EXTINF:0 group-title="(FR) France",HISTOIRE | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/687.m3u8
-#EXTINF:0 group-title="(FR) France",HISTOIRE | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/687.m3u8
-#EXTINF:0 group-title="(FR) France",HISTOIRE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1070.m3u8
-#EXTINF:0 group-title="(FR) France",I24 | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/3937.m3u8
-#EXTINF:0 group-title="(FR) France",IL TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18636.m3u8
-#EXTINF:0 group-title="(FR) France",INFO | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/3276.m3u8
-#EXTINF:0 group-title="(FR) France",ITELE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1069.m3u8
-#EXTINF:0 group-title="(FR) France",J-ONE | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3779.m3u8
-#EXTINF:0 group-title="(FR) France",KTO | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3777.m3u8
-#EXTINF:0 group-title="(FR) France",L EQUIPE 21 | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1068.m3u8
-#EXTINF:0 group-title="(FR) France",LA CHAINE NORMADE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12526.m3u8
-#EXTINF:0 group-title="(FR) France",LCI | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/9112.m3u8
-#EXTINF:0 group-title="(FR) France",LCI | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/417.m3u8
-#EXTINF:0 group-title="(FR) France",LCP | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3776.m3u8
-#EXTINF:0 group-title="(FR) France",LCP | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/456.m3u8
-#EXTINF:0 group-title="(FR) France",LEMAN BLEU TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18659.m3u8
-#EXTINF:0 group-title="(FR) France",LEQUIPE 21 | HD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/455.m3u8
-#EXTINF:0 group-title="(FR) France",LUCKY JACK TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18650.m3u8
-#EXTINF:0 group-title="(FR) France",M6 BOUTIQUE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18651.m3u8
-#EXTINF:0 group-title="(FR) France",MANGA | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1104.m3u8
-#EXTINF:0 group-title="(FR) France",MANGAS | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/341.m3u8
-#EXTINF:0 group-title="(FR) France",MANGAS | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/53.m3u8
-#EXTINF:0 group-title="(FR) France",MANGAS | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/53.m3u8
-#EXTINF:0 group-title="(FR) France",MCM | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/490.m3u8
-#EXTINF:0 group-title="(FR) France",MCM | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1372.m3u8
-#EXTINF:0 group-title="(FR) France",MCM POP | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12530.m3u8
-#EXTINF:0 group-title="(FR) France",MCM TOP | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1401.m3u8
-#EXTINF:0 group-title="(FR) France",MEZZO | SD (FR)
-http://pro.smartgotv.com:8005/live/mondher/mondher/3585.m3u8
-#EXTINF:0 group-title="(FR) France",MOOV TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18646.m3u8
-#EXTINF:0 group-title="(FR) France",NAT GEO | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83593.m3u8
-#EXTINF:0 group-title="(FR) France",NAT GEO | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/336.m3u8
-#EXTINF:0 group-title="(FR) France",NAT GEO WILD | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/98.m3u8
-#EXTINF:0 group-title="(FR) France",NAT GEO WILD | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83592.m3u8
-#EXTINF:0 group-title="(FR) France",NAT GEO WILD | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/9815.m3u8
-#EXTINF:0 group-title="(FR) France",NATGEO | SD (FR)
-http://pro.smartgotv.com:8005/live/mondher/mondher/3580.m3u8
-#EXTINF:0 group-title="(FR) France",NATIONAL GEOGRAPHIC | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/63.m3u8
-#EXTINF:0 group-title="(FR) France",NON STOP PEOPLE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18662.m3u8
-#EXTINF:0 group-title="(FR) France",NRJ 12 | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/215.m3u8
-#EXTINF:0 group-title="(FR) France",NRJ 12 | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/215.m3u8
-#EXTINF:0 group-title="(FR) France",NRJ HITS TV | SD (FR)
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8
-#EXTINF:0 group-title="(FR) France",NRJ12 | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/364.m3u8
-#EXTINF:0 group-title="(FR) France",NT1 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83682.m3u8
-#EXTINF:0 group-title="(FR) France",NT1 | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1571.m3u8
-#EXTINF:0 group-title="(FR) France",NT1 | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/416.m3u8
-#EXTINF:0 group-title="(FR) France",NT1 | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/37528.m3u8
-#EXTINF:0 group-title="(FR) France",NT1 | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/340.m3u8
-#EXTINF:0 group-title="(FR) France",NUMERO 23 | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3762.m3u8
-#EXTINF:0 group-title="(FR) France",NUMERO 23 | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1057.m3u8
-#EXTINF:0 group-title="(FR) France",OCS CHOC | HD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/2373.m3u8
-#EXTINF:0 group-title="(FR) France",OCS CHOC | HD (FR)
-http://roiduiptv.ddns.net:9000/live/medoum1/k2XaYPjMJn/68.m3u8
-#EXTINF:0 group-title="(FR) France",OCS CHOC | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3769.m3u8
-#EXTINF:0 group-title="(FR) France",OCS CITY | HD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/734.m3u8
-#EXTINF:0 group-title="(FR) France",OCS CITY | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2613.m3u8
-#EXTINF:0 group-title="(FR) France",OCS GEANTS | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3768.m3u8
-#EXTINF:0 group-title="(FR) France",OCS MAX | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3767.m3u8
-#EXTINF:0 group-title="(FR) France",OFIVE TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18640.m3u8
-#EXTINF:0 group-title="(FR) France",OL TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18645.m3u8
-#EXTINF:0 group-title="(FR) France",OM TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18678.m3u8
-#EXTINF:0 group-title="(FR) France",ONE TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18637.m3u8
-#EXTINF:0 group-title="(FR) France",PARIS PREMIERE | HD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/8106.m3u8
-#EXTINF:0 group-title="(FR) France",PITCHOUN TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18654.m3u8
-#EXTINF:0 group-title="(FR) France",PIWI | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/339.m3u8
-#EXTINF:0 group-title="(FR) France",PIWI | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/238.m3u8
-#EXTINF:0 group-title="(FR) France",PIWI | SD (FR)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/238.m3u8
-#EXTINF:0 group-title="(FR) France",PLANET | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/10594.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE | HD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1169.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE | HD (FR)
-http://145.239.4.240:31000/live/2101/1012/397.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/70.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE A E | HD (FR)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/235.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE A&E | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/644.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE ACTION ET EXPERIENCE | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/69.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE AE | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/399.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE CI | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83588.m3u8
-#EXTINF:0 group-title="(FR) France",PLANETE CI | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/353.m3u8
-#EXTINF:0 group-title="(FR) France",RFM TV | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/1369.m3u8
-#EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/865.m3u8
-#EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/865.m3u8
-#EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/2388.m3u8
-#EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/225.m3u8
-#EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1083.m3u8
-#EXTINF:0 group-title="(FR) France",RMC DECOUVERTE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3766.m3u8
-#EXTINF:0 group-title="(FR) France",RMC DECOVERTE | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/71269.m3u8
-#EXTINF:0 group-title="(FR) France",ROUGE TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18664.m3u8
-#EXTINF:0 group-title="(FR) France",RTL 9 | SD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83693.m3u8
-#EXTINF:0 group-title="(FR) France",RTL9 | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/77.m3u8
-#EXTINF:0 group-title="(FR) France",RTL9 | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2601.m3u8
-#EXTINF:0 group-title="(FR) France",RTS DEUX | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2767.m3u8
-#EXTINF:0 group-title="(FR) France",RTS UN | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2768.m3u8
-#EXTINF:0 group-title="(FR) France",SCIENCE ET VIE | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/694.m3u8
-#EXTINF:0 group-title="(FR) France",SCIENCE ET VIE | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/694.m3u8
-#EXTINF:0 group-title="(FR) France",SCIENCES & VIE TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/643.m3u8
-#EXTINF:0 group-title="(FR) France",SCIENCES ET VIE TV | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1060.m3u8
-#EXTINF:0 group-title="(FR) France",SYFY | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3760.m3u8
-#EXTINF:0 group-title="(FR) France",SYFY | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1058.m3u8
-#EXTINF:0 group-title="(FR) France",SYFY | SD (FR)
-http://pro.smartgotv.com:8005/live/mondher/mondher/3558.m3u8
-#EXTINF:0 group-title="(FR) France",SYFY | SD (FR)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/239.m3u8
-#EXTINF:0 group-title="(FR) France",TELETOON | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/838.m3u8
-#EXTINF:0 group-title="(FR) France",TELETOON | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1068.m3u8
-#EXTINF:0 group-title="(FR) France",TEVA | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/3058.m3u8
-#EXTINF:0 group-title="(FR) France",TEVA | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2602.m3u8
-#EXTINF:0 group-title="(FR) France",TF 1 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83699.m3u8
-#EXTINF:0 group-title="(FR) France",TF 1 | SD (FR)
-http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/8104.m3u8
-#EXTINF:0 group-title="(FR) France",TF1 | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/699.m3u8
-#EXTINF:0 group-title="(FR) France",TF1 | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/3505.m3u8
-#EXTINF:0 group-title="(FR) France",TF1 | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81522.m3u8
-#EXTINF:0 group-title="(FR) France",TF1 | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/363.m3u8
-#EXTINF:0 group-title="(FR) France",TF1 | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/699.m3u8
-#EXTINF:0 group-title="(FR) France",TF1 | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/11372.m3u8
-#EXTINF:0 group-title="(FR) France",TF1 SERIES FILMS | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17300.m3u8
-#EXTINF:0 group-title="(FR) France",TFX | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/17301.m3u8
-#EXTINF:0 group-title="(FR) France",TFX NT1 | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/796.m3u8
-#EXTINF:0 group-title="(FR) France",TIJI | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1065.m3u8
-#EXTINF:0 group-title="(FR) France",TIJI | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/85.m3u8
-#EXTINF:0 group-title="(FR) France",TIJI | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3765.m3u8
-#EXTINF:0 group-title="(FR) France",TMC | HD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/1099.m3u8
-#EXTINF:0 group-title="(FR) France",TMC | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/798.m3u8
-#EXTINF:0 group-title="(FR) France",TMC | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81514.m3u8
-#EXTINF:0 group-title="(FR) France",TMC | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2606.m3u8
-#EXTINF:0 group-title="(FR) France",TMC | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1078.m3u8
-#EXTINF:0 group-title="(FR) France",TMC | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/3506.m3u8
-#EXTINF:0 group-title="(FR) France",TMC | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2769.m3u8
-#EXTINF:0 group-title="(FR) France",TOUTE HISTOIRE | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/1061.m3u8
-#EXTINF:0 group-title="(FR) France",TOUTE L HISTOIRE | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2770.m3u8
-#EXTINF:0 group-title="(FR) France",TOUTE LHISTOIRE | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/87.m3u8
-#EXTINF:0 group-title="(FR) France",TOUTE LHISTOIRE | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/87.m3u8
-#EXTINF:0 group-title="(FR) France",TREK | HD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/504.m3u8
-#EXTINF:0 group-title="(FR) France",TREK | HD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/504.m3u8
-#EXTINF:0 group-title="(FR) France",TREK | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1065.m3u8
-#EXTINF:0 group-title="(FR) France",TV 5 MONDE | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8256.m3u8
-#EXTINF:0 group-title="(FR) France",TV BREIZH | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/419.m3u8
-#EXTINF:0 group-title="(FR) France",TV BREIZH | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/91.m3u8
-#EXTINF:0 group-title="(FR) France",TV BREIZH | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/91.m3u8
-#EXTINF:0 group-title="(FR) France",TV5 | SD (FR)
-http://188.93.238.184:8000/live/chewy/chewy/3254.m3u8
-#EXTINF:0 group-title="(FR) France",TV5 MONDE | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/90.m3u8
-#EXTINF:0 group-title="(FR) France",TV7 | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18665.m3u8
-#EXTINF:0 group-title="(FR) France",TVM 3 | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18635.m3u8
-#EXTINF:0 group-title="(FR) France",USHUAIA | SD (FR)
-http://145.239.4.240:31000/live/2101/1012/401.m3u8
-#EXTINF:0 group-title="(FR) France",USHUAIA | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/337.m3u8
-#EXTINF:0 group-title="(FR) France",USHUAIA TV | HD (FR)
-http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83584.m3u8
-#EXTINF:0 group-title="(FR) France",USHUAIA TV | SD (FR)
-http://163.172.71.242:25461/live/emmanuel.hermant/e2017/115.m3u8
-#EXTINF:0 group-title="(FR) France",USHUAIA TV | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/115.m3u8
-#EXTINF:0 group-title="(FR) France",VOSGUE TV | SD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/18653.m3u8
-#EXTINF:0 group-title="(FR) France",VOYAGE | HD (FR)
-http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2771.m3u8
-#EXTINF:0 group-title="(FR) France",VOYAGE | SD (FR)
-http://5.189.187.55:8000/live/Fadil/skype/2130.m3u8
-#EXTINF:0 group-title="(FR) France",VOYAGE | SD (FR)
-http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/118.m3u8
+#EXTINF:0 group-title="(FR) France",AB MOTOUR | SD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64207.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 1 | HD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9383.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 1 | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/117523.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 2 | HD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9382.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 2 | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/117522.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 2HD | SD (FR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6798.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 3 | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/117524.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORT 3HD | SD (FR)
+http://sw.fannan.se:8000/live/zizo18040/54544452/6797.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 1 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/4038.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 2 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/683.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 2 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/4037.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 3 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/682.m3u8
+#EXTINF:0 group-title="(FR) France",BEIN SPORTS 3 | SD (FR)
+http://pro.smartgotv.com:8005/live/mondher/mondher/4036.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT 1HD | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/14140.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT 2HD | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/347.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT 3HD | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/346.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 4 | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2515.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 5 | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2516.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 6 | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2517.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 7 | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2518.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 8 | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2519.m3u8
+#EXTINF:0 group-title="(FR) France",BEINSPORT MAX 9 | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2520.m3u8
+#EXTINF:0 group-title="(FR) France",BFM SPORTS | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/3780.m3u8
+#EXTINF:0 group-title="(FR) France",CANAL SPORT | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83664.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT | SD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9375.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 1 | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64210.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 1 | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/345.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 2 | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64211.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 2 | SD (FR)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9374.m3u8
+#EXTINF:0 group-title="(FR) France",EUROSPORT 2 | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/344.m3u8
+#EXTINF:0 group-title="(FR) France",GOLF | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7834.m3u8
+#EXTINF:0 group-title="(FR) France",GOLF CHANNEL | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/16109.m3u8
+#EXTINF:0 group-title="(FR) France",INFOSPORT | SD (FR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/342.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 2 SFR | HD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/253.m3u8
+#EXTINF:0 group-title="(FR) France",RMC SPORT 4 SFR | HD (FR)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3248.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 1 | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64212.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 2 | HD (FR)
+http://5.189.187.55:8000/live/Fadil/skype/2792.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 2 | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64213.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 3 | HD (FR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78529.m3u8
+#EXTINF:0 group-title="(FR) France",SFR SPORT 5 | HD (FR)
+http://5.189.187.55:8000/live/Fadil/skype/2912.m3u8
+
+#EXTINF:0 group-title="(DE) Germany",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(DE) Germany",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(DE) Germany",ASTRO TV | SD (DE)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2565.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT | HD (DE)
+http://163.172.71.242:25461/live/emmanuel.hermant/e2017/2411.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT | HD (DE)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/2411.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 | HD (DE)
+http://5.189.187.55:8000/live/Fadil/skype/1409.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 1 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64180.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 | HD (DE)
+http://5.189.187.55:8000/live/Fadil/skype/3149.m3u8
+#EXTINF:0 group-title="(DE) Germany",EUROSPORT 2 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64181.m3u8
+#EXTINF:0 group-title="(DE) Germany",MOTORVISION TV | SD (DE)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/7582.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF SPORT | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/13943.m3u8
+#EXTINF:0 group-title="(DE) Germany",ORF SPORT | SD (DE)
+http://5.189.187.55:8000/live/Fadil/skype/3753.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY BOX NATION | SD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/13923.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64185.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 1 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64186.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64187.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 2 | SD (DE)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9468.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64188.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 3 | SD (DE)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9460.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 4 | SD (DE)
+http://titiroq.xyz:25461/live/123412341234/123412341234/9466.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 5 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64190.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT 9 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64194.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT F1 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64178.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORT NEWS | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64177.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORTS 1HD | SD (DE)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37801.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORTS 2 | HD (DE)
+http://5.189.187.55:8000/live/Fadil/skype/320.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORTS 2HD | SD (DE)
+http://188.93.238.184:8000/live/chewy/chewy/37802.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORTS 2HD | SD (DE)
+http://izgemma.ddns.net:8000/live/kris/kris/37802.m3u8
+#EXTINF:0 group-title="(DE) Germany",SKY SPORTS 3 | HD (DE)
+http://5.189.187.55:8000/live/Fadil/skype/2384.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT 1 | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/76660.m3u8
+#EXTINF:0 group-title="(DE) Germany",SPORT 1 GOLF | HD (DE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/64184.m3u8
+
+#EXTINF:0 group-title="(GR) Greece",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(GR) Greece",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(GR) Greece",EUROSPORT 1 | SD (GR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/41554.m3u8
+#EXTINF:0 group-title="(GR) Greece",OTE SPORT 3 | HD (GR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/91715.m3u8
+#EXTINF:0 group-title="(GR) Greece",OTE SPORT 5 | HD (GR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/91713.m3u8
+
+#EXTINF:0 group-title="(IT) Italy",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(IT) Italy",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(IT) Italy",EUROSPORT 1 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81417.m3u8
+#EXTINF:0 group-title="(IT) Italy",EUROSPORT 2 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81416.m3u8
+#EXTINF:0 group-title="(IT) Italy",FOX SPORTS | HD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/406.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM EUROSPORT 2 | SD (IT)
+http://5.189.187.55:8000/live/Fadil/skype/2132.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT 1 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78521.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT 2 | HD (IT)
+http://5.189.187.55:8000/live/Fadil/skype/2207.m3u8
+#EXTINF:0 group-title="(IT) Italy",PREMIUM SPORT 2 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78522.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI SPORT 1 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78528.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI SPORT 1 | HD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2274.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI SPORT 2 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78527.m3u8
+#EXTINF:0 group-title="(IT) Italy",RAI SPORT 2 | SD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2273.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY F1 | HD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/407.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY MOTO GP | HD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/543.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 1 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78526.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 1HD | SD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/408.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 2 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78525.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 2 | SD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8088.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 24 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78524.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 2HD | SD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/409.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 3 | HD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8086.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 3 | HD (IT)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78523.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORT 3HD | SD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/541.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SPORTS 1 | HD (IT)
+http://5.189.187.55:8000/live/Fadil/skype/393.m3u8
+#EXTINF:0 group-title="(IT) Italy",SKY SUPER TENNIS | HD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/949.m3u8
+#EXTINF:0 group-title="(IT) Italy",SPORT | SD (IT)
+http://54.36.168.168:8000/live/zizo18040/54544452/8082.m3u8
+#EXTINF:0 group-title="(IT) Italy",SPORT | SD (IT)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/948.m3u8
+
+#EXTINF:0 group-title="(MX) Mexico",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(MX) Mexico",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(MX) Mexico",ESPN | SD (MX)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12909.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN | SD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12909.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN 2 | SD (MX)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12908.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN 2 | SD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12908.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN 3 | SD (MX)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12907.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN 3 | SD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12907.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN DEPORTES | HD (MX)
+http://titiroq.xyz:25461/live/Saad55/Saad55/12906.m3u8
+#EXTINF:0 group-title="(MX) Mexico",ESPN DEPORTES | HD (MX)
+http://titiroq.xyz:25461/live/123412341234/123412341234/12906.m3u8
+#EXTINF:0 group-title="(MX) Mexico",TPD | SD (MX)
+http://ligatv.net:25461/live/ligatvapk02/04082018/398.m3u8
+#EXTINF:0 group-title="(MX) Mexico",TPD | SD (MX)
+http://ligatv.net:25461/live/ligatvapk02/04082018/399.m3u8
+
+#EXTINF:0 group-title="(NL) Netherlands",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(NL) Netherlands",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 1 | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78512.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 1 EREDIVISIE | HD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7892.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 2 | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78511.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 2 | SD (NL)
+http://sw.fannan.se:8000/live/zizo18040/54544452/7891.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 2 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7891.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 2 | SD (NL)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7891.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 3 | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78510.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 3 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7890.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 3 | SD (NL)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7890.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 4 | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78509.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 4 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7889.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 4 | SD (NL)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7889.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 5 | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78508.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 6 | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78507.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",FOX SPORTS 6 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7903.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",MOTORS TV | SD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/112538.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",MOTORS TV | SD (NL)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/11370.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",MOTORVISION | HD (NL)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/14604.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",SPORTS 1 EXTRA 2 | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7902.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",SPORTS 1 EXTRA 2 | SD (NL)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7902.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT EXTRA 1 | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80309.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT EXTRA 2 | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80308.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT GOLF | SD (NL)
+http://54.36.168.168:8000/live/zizo18040/54544452/7887.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT GOLF | SD (NL)
+http://swar.fannan.se:8000/live/zizo18040/54544452/7887.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT GOLF | SD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80307.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT RACING | SD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80306.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT SELECT | HD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80305.m3u8
+#EXTINF:0 group-title="(NL) Netherlands",ZIGGO SPORT VOETBAL | SD (NL)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80304.m3u8
+
+
+#EXTINF:0 group-title="(SP) Spain",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SP) Spain",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SP) Spain",EUROSPORT | SD (SP)
+http://titiroq.xyz:25461/live/123412341234/123412341234/6339.m3u8
+#EXTINF:0 group-title="(SP) Spain",EUROSPORT 1HD | SD (SP)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8204.m3u8
+#EXTINF:0 group-title="(SP) Spain",EUROSPORT 2 | SD (SP)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8208.m3u8
+#EXTINF:0 group-title="(SP) Spain",MOVISTAR F1 | SD (SP)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/1087.m3u8
+
+#EXTINF:0 group-title="(SE) Sweden",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(SE) Sweden",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(SE) Sweden",C MORE FOTBOLL | HD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/36176.m3u8
+#EXTINF:0 group-title="(SE) Sweden",C MORE FOTBOLL | SD (SE)
+http://5.189.187.55:8000/live/Fadil/skype/2561.m3u8
+#EXTINF:0 group-title="(SE) Sweden",C MORE FOTBOLL | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/45713.m3u8
+#EXTINF:0 group-title="(SE) Sweden",C MORE SPORT | HD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/45709.m3u8
+#EXTINF:0 group-title="(SE) Sweden",C MORE SPORT | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/36168.m3u8
+#EXTINF:0 group-title="(SE) Sweden",EUROSPORT 1 | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/34772.m3u8
+#EXTINF:0 group-title="(SE) Sweden",SPORT PREMIUM | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/45720.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV3 SPORT | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/34822.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV3 SPORT 1 | HD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/42831.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV3 SPORT 2 | HD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/42830.m3u8
+#EXTINF:0 group-title="(SE) Sweden",TV4 SPORT | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/45682.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FOOTBALL | HD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/42823.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FOTBOLL | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/36189.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT FOTBOLL | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/37336.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT GOLF | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/36188.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT GOLF | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/37335.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT MOTOR | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/37333.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT SPORT | HD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/42819.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT SPORT | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/36183.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT SPORT | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/37331.m3u8
+#EXTINF:0 group-title="(SE) Sweden",VIASAT SPORT PREMIUM | SD (SE)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/36182.m3u8
+
+#EXTINF:0 group-title="(CH) Switzerland",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(CH) Switzerland",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(CH) Switzerland",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CH) Switzerland",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129178.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 1 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129187.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 2 /SKY 2 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129186.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 3 /SKY 3 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129185.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 4 /SKY 4 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129184.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 5 /SKY 5 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129183.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 6 /SKY 6 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129182.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 7 /SKY 7 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129181.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 8 /SKY 8 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129180.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",MYSPORTS 9 /SKY 9 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/129179.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",TELECLUB SKY SPORT 1 | HD (CH)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3156.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",TELECLUB SPORT 1 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/133920.m3u8
+#EXTINF:0 group-title="(CH) Switzerland",TELECLUB SPORT 2 | HD (CH)
+http://ip.sltv.be:8000/live/4nz7Qim9m0/kId7rGOtCw/133921.m3u8
+
+#EXTINF:0 group-title="(TR) Turkey",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(TR) Turkey",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(TR) Turkey",A SPOR | HD (TR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/373.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 1 | SD (TR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/103331.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 2 | SD (TR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/70182.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 3 | HD (TR)
+http://iptvtool.es:9977/live/CAMI/CAMI/26795.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 3 | HD (TR)
+http://54.37.255.204:9977/live/leon/iptv/26795.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 3 | SD (TR)
+http://iptvtool.es:9977/live/CAMI/CAMI/26796.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 3 | SD (TR)
+http://54.37.255.204:9977/live/leon/iptv/26796.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 3 | SD (TR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/70183.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 4 | HD (TR)
+http://iptvtool.es:9977/live/CAMI/CAMI/26793.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 4 | HD (TR)
+http://54.37.255.204:9977/live/leon/iptv/26793.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 4 | SD (TR)
+http://iptvtool.es:9977/live/CAMI/CAMI/26794.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT 4 | SD (TR)
+http://54.37.255.204:9977/live/leon/iptv/26794.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT MAX 1 | HD (TR)
+http://iptvtool.es:9977/live/CAMI/CAMI/26792.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT MAX 1 | HD (TR)
+http://54.37.255.204:9977/live/leon/iptv/26792.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORT MAX 2 | HD (TR)
+http://54.37.255.204:9977/live/leon/iptv/26791.m3u8
+#EXTINF:0 group-title="(TR) Turkey",BEIN SPORTS 1 | HD (TR)
+http://5.189.187.55:8000/live/Fadil/skype/2278.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EURO SPORT 1 | HD (TR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8047.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EURO SPORT 2 | HD (TR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/8048.m3u8
+#EXTINF:0 group-title="(TR) Turkey",EUROSPORTS 1 | HD (TR)
+http://iptvtool.es:9977/live/CAMI/CAMI/26749.m3u8
+#EXTINF:0 group-title="(TR) Turkey",NTV SPOR | HD (TR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/372.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SMART SPOR | HD (TR)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/83192.m3u8
+#EXTINF:0 group-title="(TR) Turkey",SMART SPOR 1 | HD (TR)
+http://5.189.187.55:8000/live/Fadil/skype/2659.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TIVIBUSPOR 1 | HD (TR)
+http://5.189.187.55:8000/live/Fadil/skype/1535.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR | HD (TR)
+http://5.189.187.55:8000/live/Fadil/skype/1536.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR | HD (TR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/371.m3u8
+#EXTINF:0 group-title="(TR) Turkey",TRT SPOR BKUP | HD (TR)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/15248.m3u8
+
+#EXTINF:0 group-title="(UK) United Kingdom",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(UK) United Kingdom",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/29479.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/36498.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3042.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29479.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",AT THE RACES | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36498.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BEIN SPORTS HD11 | HD (UK)
+http://titiroq.xyz:25461/live/Saad55/Saad55/13528.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BIKE | SD (UK)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12515.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOX NATION | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/707.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17576.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17576.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36506.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17576.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/36506.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37382.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BOXNATION | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37382.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17570.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3031.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17570.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36515.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36515.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1389.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37155.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37155.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 1 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37155.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17571.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37227.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3027.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17571.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37227.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37227.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/36508.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37153.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36508.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36508.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37153.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 2 | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1124.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17572.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3025.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17572.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/32931.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32223.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3024.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32223.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT 3 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32223.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17573.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3023.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17573.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10759.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/10760.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/3022.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10760.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORT ESPN | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10760.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 1 | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/432.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 2 | HD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/433.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 2 | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",BT SPORTS 3 | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/81510.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",CHELSEA FC | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/434.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/10765.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17578.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10765.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17578.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10765.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 1 | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2986.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EIR SPORTS 2 | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2985.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17562.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/29815.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2788.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2984.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17562.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29815.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/29815.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17562.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17563.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2982.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2983.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10763.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17563.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/10763.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORT 2 | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17563.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORTS | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37159.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",EUROSPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37159.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/31950.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",LFC TV | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/33271.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORS | SD (UK)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12499.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17577.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17577.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/10772.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MOTORSPORTS TV | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10772.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",MUTV | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29480.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17574.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/10767.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17574.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIER SPORTS | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2936.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",PREMIERE SPORT | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17220.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/11160.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17575.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/11160.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17575.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17575.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | HD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1417.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2933.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",RACING | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29478.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17559.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/36509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2897.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17559.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15857.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/36509.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/36510.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36510.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ACTION | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36510.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/11911.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17560.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2896.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/11911.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17560.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15855.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/11911.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17560.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/975.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37294.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37834.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37294.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37834.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS ARENA | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37294.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17556.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2893.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17556.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15863.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/6669.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78498.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/16599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2892.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/16599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS CRICKET | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/16599.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/9721.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/9721.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17558.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2891.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17558.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15859.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15860.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9721.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78494.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/9722.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/9722.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9722.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS F1 L | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/996.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/12451.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17555.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2889.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/12451.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17555.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/12451.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17555.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/36511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37400.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37400.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/36511.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS FOOTBALL | SD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/37400.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17147.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37569.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2887.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17147.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37569.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15861.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/75582.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/478.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/32594.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/32594.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS GOLF | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/32594.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2885.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/36512.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/36512.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/78499.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/475.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37826.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2884.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37826.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MAIN EVENT | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/1121.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/9723.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/9723.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2883.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9723.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/29507.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS MIX | SD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/29507.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2880.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15871.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/37299.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/84215.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/141.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/37299.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/37299.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/481.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/9725.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17561.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17561.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS HQ | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/9725.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS L | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/994.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS NEWS MAIN | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2881.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | SD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/13633.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREM LGE | SD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/13633.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://188.93.238.184:8000/live/chewy/chewy/17554.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/kris/kris/17554.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/15867.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://izgemma.ddns.net:8000/live/chief/chief/17554.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/75583.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://5.189.187.55:8000/live/Fadil/skype/479.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://izgemma.ddns.net:8000/live/chewy/chewy/13633.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE | SD (UK)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/44.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",SKY SPORTS PREMIER LEAGUE MAIN | HD (UK)
+http://bigstreams.tk:25461/live/charlie/1234/2878.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TSN SPORTS 2 | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80226.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TSN SPORTS 3 | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80225.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TSN SPORTS 4 | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80224.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",TSN SPORTS 5 | HD (UK)
+http://primotv.stream:25461/live/iptvshqipskype/rdwnVocAjX/80223.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UFC FIGHT NIGHT PASS | HD (UK)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12520.m3u8
+#EXTINF:0 group-title="(UK) United Kingdom",UFC FIGHT PASS | SD (UK)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/12479.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",BEIN SPORTS | SD (US)
+http://leaderpro.pt:25461/live/Eu/Eu/21331.m3u8
+#EXTINF:0 group-title="(US) United States",BEINSPORT | SD (US)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3230.m3u8
+#EXTINF:0 group-title="(US) United States",CBS SPORTS | SD (US)
+http://188.93.238.184:8000/live/chewy/chewy/37815.m3u8
+#EXTINF:0 group-title="(US) United States",CBS SPORTS | SD (US)
+http://izgemma.ddns.net:8000/live/kris/kris/37815.m3u8
+#EXTINF:0 group-title="(US) United States",CBS SPORTS | SD (US)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37815.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN | HD (US)
+http://leaderpro.pt:25461/live/Eu/Eu/21337.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5227.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN | SD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/872.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN 2 | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5386.m3u8
+#EXTINF:0 group-title="(US) United States",ESPN COPYRIGHT | SD (US)
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:0 group-title="(US) United States",FIGHT CHANNEL | SD (US)
+http://5.189.187.55:8000/live/Fadil/skype/3131.m3u8
+#EXTINF:0 group-title="(US) United States",FOX SPORT 1 | SD (US)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3233.m3u8
+#EXTINF:0 group-title="(US) United States",NBA TV | SD (US)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3235.m3u8
+#EXTINF:0 group-title="(US) United States",NBC GOLF CHANNEL | HD (US)
+http://leaderpro.pt:25461/live/Eu/Eu/21327.m3u8
+#EXTINF:0 group-title="(US) United States",NBC SPORTS NETWORK | HD (US)
+http://leaderpro.pt:25461/live/Eu/Eu/21329.m3u8
+#EXTINF:0 group-title="(US) United States",NFL NETWORK | HD (US)
+http://leaderpro.pt:25461/live/Eu/Eu/21324.m3u8
+#EXTINF:0 group-title="(US) United States",NFL NETWORK | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/2863.m3u8
+#EXTINF:0 group-title="(US) United States",NFL NOW | HD (US)
+http://leaderpro.pt:25461/live/Eu/Eu/21323.m3u8
+#EXTINF:0 group-title="(US) United States",SPORTS NET PACIFIC | HD (US)
+http://izgemma.ddns.net:8000/live/kris/kris/37813.m3u8
+#EXTINF:0 group-title="(US) United States",SPORTS NET PACIFIC | HD (US)
+http://izgemma.ddns.net:8000/live/wassime80/RKAfXcZe4J/37813.m3u8
+#EXTINF:0 group-title="(US) United States",SPORTSNET 360 | SD (US)
+http://188.93.238.184:8000/live/chewy/chewy/37794.m3u8
+#EXTINF:0 group-title="(US) United States",SPORTSNET 360 | SD (US)
+http://izgemma.ddns.net:8000/live/kris/kris/37794.m3u8
+#EXTINF:0 group-title="(US) United States",TENNIS | HD (US)
+http://client-proiptv.com:8080/live/ndatvsupportRE/WSKr2TiBaK/5407.m3u8
+#EXTINF:0 group-title="(US) United States",TENNIS CHANNEL | HD (US)
+http://leaderpro.pt:25461/live/Eu/Eu/21328.m3u8
+
+#EXTINF:0 group-title="(WW) World Wide",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(WW) World Wide",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(WW) World Wide",VOO SPORT 1 | SD (WW)
+http://163.172.71.242:25461/live/emmanuel.hermant/e2017/3468.m3u8
+#EXTINF:0 group-title="(WW) World Wide",VOO SPORT 1 | SD (WW)
+http://titiroq.xyz:25461/live/123412341234/123412341234/29276.m3u8
+#EXTINF:0 group-title="(WW) World Wide",VOO SPORT 2 | SD (WW)
+http://163.172.71.242:25461/live/emmanuel.hermant/e2017/3467.m3u8
+#EXTINF:0 group-title="(WW) World Wide",VOO SPORT 2 | SD (WW)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3467.m3u8
+#EXTINF:0 group-title="(WW) World Wide",VOO SPORT 3 | SD (WW)
+http://163.172.71.242:25461/live/emmanuel.hermant/e2017/3466.m3u8
+#EXTINF:0 group-title="(WW) World Wide",VOO SPORT 3 | SD (WW)
+http://s02.myiptvserver.com:25461/live/emmanuel.hermant/e2017/3466.m3u8
+
