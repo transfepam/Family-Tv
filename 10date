@@ -29,6 +29,8 @@ http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137338.m3u8
 http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137422.m3u8
 #EXTINF:0 group-title="(US) United States",ABC NEWS | SD (US)
 http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/130946.m3u8
+http#EXTINF:-1,Us- CNN US HD
+://m-iptv.net:6204/live/zawa/zawa/10428.ts
 #EXTINF:0 group-title="(US) United States",BBC | HD (US)
 http://ip.sltv.be:8000/live/kVSpTPvM24/q9TGC013p1/137448.m3u8
 #EXTINF:0 group-title="(US) United States",BLOOMBERG | HD (US)
