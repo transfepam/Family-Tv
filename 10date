@@ -8,6 +8,17 @@ https://autoiptv.net
 https://autoiptv.net/playlists
 #EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
 https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",CBS NEWS | SD (US)
+http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-p.m3u8
+
+#EXTINF:0 group-title="(US) United States",*** AutoIPTV ***
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net
+https://autoiptv.net
+#EXTINF:0 group-title="(US) United States",*** Playlists ***
+https://autoiptv.net/playlists
+#EXTINF:0 group-title="(US) United States",https://autoiptv.net/playlists
+https://autoiptv.net/playlists
 #EXTINF:0 group-title="(US) United States",A&E | HD (US)
 http://leaderpro.pt:25461/live/nata/nata/28136.m3u8
 #EXTINF:0 group-title="(US) United States",ALKARMA TV | SD (US)
