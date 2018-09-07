@@ -1,114 +1,113 @@
 #EXTINF
 #EXTINF:-1,US: A&E TV HD
 http://151.80.22.22:9300/live/Lami/Lami2018/294.ts
-EXTINF:-1,US: ABC HD
+#EXTINF:-1,US: ABC HD
 http://151.80.22.22:9300/live/Lami/Lami2018/295.ts
-EXTINF:-1,US: ABC News
+#EXTINF:-1,US: ABC News
 http://151.80.22.22:9300/live/Lami/Lami2018/287.ts
-EXTINF:-1,US: Animal Planet HD
+#EXTINF:-1,US: Animal Planet HD
 http://151.80.22.22:9300/live/Lami/Lami2018/302.ts
-EXTINF:-1,US: BET
+#EXTINF:-1,US: BET
 http://151.80.22.22:9300/live/Lami/Lami2018/289.ts
-EXTINF:-1,US: BLOOMBERG
+#EXTINF:-1,US: BLOOMBERG
 http://151.80.22.22:9300/live/Lami/Lami2018/303.ts
-EXTINF:-1,US: CARTOON NETWORK
+#EXTINF:-1,US: CARTOON NETWORK
 http://151.80.22.22:9300/live/Lami/Lami2018/284.ts
-EXTINF:-1,US: CBN News
+#EXTINF:-1,US: CBN News
 http://151.80.22.22:9300/live/Lami/Lami2018/282.ts
-EXTINF:-1,US: CBS HD
+#EXTINF:-1,US: CBS HD
 http://151.80.22.22:9300/live/Lami/Lami2018/304.ts
-EXTINF:-1,US: CBS News
+#EXTINF:-1,US: CBS News
 http://151.80.22.22:9300/live/Lami/Lami2018/283.ts
-EXTINF:-1,US: CBS Sports Network HD
+#EXTINF:-1,US: CBS Sports Network HD
 http://151.80.22.22:9300/live/Lami/Lami2018/281.ts
-EXTINF:-1,US: CNBC
+#EXTINF:-1,US: CNBC
 http://151.80.22.22:9300/live/Lami/Lami2018/305.ts
-EXTINF:-1,US: CNN HD
+#EXTINF:-1,US: CNN HD
 http://151.80.22.22:9300/live/Lami/Lami2018/306.ts
-EXTINF:-1,US: CW
+#EXTINF:-1,US: CW
 http://151.80.22.22:9300/live/Lami/Lami2018/6708.ts
-EXTINF:-1,US: Discovery Channel HD
+#EXTINF:-1,US: Discovery Channel HD
 http://151.80.22.22:9300/live/Lami/Lami2018/293.ts
-EXTINF:-1,US: Discovery Science HD
+#EXTINF:-1,US: Discovery Science HD
 http://151.80.22.22:9300/live/Lami/Lami2018/301.ts
-EXTINF:-1,US: E! Entertainment
+#EXTINF:-1,US: E! Entertainment
 http://151.80.22.22:9300/live/Lami/Lami2018/321.ts
-EXTINF:-1,US: E4-HD
+#EXTINF:-1,US: E4-HD
 http://151.80.22.22:9300/live/Lami/Lami2018/328.ts
-EXTINF:-1,US: ESPN 1 HD
+#EXTINF:-1,US: ESPN 1 HD
 http://151.80.22.22:9300/live/Lami/Lami2018/291.ts
-EXTINF:-1,US: ESPN 2 HD
+#EXTINF:-1,US: ESPN 2 HD
 http://151.80.22.22:9300/live/Lami/Lami2018/290.ts
-EXTINF:-1,US: Fight Sport
+#EXTINF:-1,US: Fight Sport
 http://151.80.22.22:9300/live/Lami/Lami2018/322.ts
-EXTINF:-1,US: Food Network
+#EXTINF:-1,US: Food Network
 http://151.80.22.22:9300/live/Lami/Lami2018/307.ts
-EXTINF:-1,US: FOX HD
+#EXTINF:-1,US: FOX HD
 http://151.80.22.22:9300/live/Lami/Lami2018/308.ts
-EXTINF:-1,US: Fox News HD
+#EXTINF:-1,US: Fox News HD
 http://151.80.22.22:9300/live/Lami/Lami2018/323.ts
-EXTINF:-1,US: FOX Sport 1 HD
+#EXTINF:-1,US: FOX Sport 1 HD
 http://151.80.22.22:9300/live/Lami/Lami2018/309.ts
-EXTINF:-1,US: FOX Sport 2 HD
+#EXTINF:-1,US: FOX Sport 2 HD
 http://151.80.22.22:9300/live/Lami/Lami2018/310.ts
-EXTINF:-1,US: FX HD
+#EXTINF:-1,US: FX HD
 http://151.80.22.22:9300/live/Lami/Lami2018/298.ts
-EXTINF:-1,US: FXX
+#EXTINF:-1,US: FXX
 http://151.80.22.22:9300/live/Lami/Lami2018/325.ts
-EXTINF:-1,US: H2
+#EXTINF:-1,US: H2
 http://151.80.22.22:9300/live/Lami/Lami2018/326.ts
-EXTINF:-1,US: Hallmark Channel HD
+#EXTINF:-1,US: Hallmark Channel HD
 http://151.80.22.22:9300/live/Lami/Lami2018/297.ts
-EXTINF:-1,US: HBO Comedy
+#EXTINF:-1,US: HBO Comedy
 http://151.80.22.22:9300/live/Lami/Lami2018/300.ts
-EXTINF:-1,US: HBO Signature HD
+#EXTINF:-1,US: HBO Signature HD
 http://151.80.22.22:9300/live/Lami/Lami2018/320.ts
-EXTINF:-1,US: HBO US
+#EXTINF:-1,US: HBO US
 http://151.80.22.22:9300/live/Lami/Lami2018/312.ts
-EXTINF:-1,US: HBO Zone HD
+#EXTINF:-1,US: HBO Zone HD
 http://151.80.22.22:9300/live/Lami/Lami2018/299.ts
-EXTINF:-1,US: MTV
+#EXTINF:-1,US: MTV
 http://151.80.22.22:9300/live/Lami/Lami2018/6709.ts
-EXTINF:-1,US: Nat Geo HD
+#EXTINF:-1,US: Nat Geo HD
 http://151.80.22.22:9300/live/Lami/Lami2018/324.ts
-EXTINF:-1,US: NBA TV
+#EXTINF:-1,US: NBA TV
 http://151.80.22.22:9300/live/Lami/Lami2018/314.ts
-EXTINF:-1,US: NBC GOLF
+#EXTINF:-1,US: NBC GOLF
 http://151.80.22.22:9300/live/Lami/Lami2018/316.ts
-EXTINF:-1,US: NBC HD
+#EXTINF:-1,US: NBC HD
 http://151.80.22.22:9300/live/Lami/Lami2018/288.ts
-EXTINF:-1,US: NBC SPORT
+#EXTINF:-1,US: NBC SPORT
 http://151.80.22.22:9300/live/Lami/Lami2018/315.ts
-EXTINF:-1,US: NBCSN
+#EXTINF:-1,US: NBCSN
 http://151.80.22.22:9300/live/Lami/Lami2018/280.ts
-EXTINF:-1,US: Nickelodeon HD
+#EXTINF:-1,US: Nickelodeon HD
 http://151.80.22.22:9300/live/Lami/Lami2018/317.ts
-EXTINF:-1,US: ShowTime HD
+#EXTINF:-1,US: ShowTime HD
 http://151.80.22.22:9300/live/Lami/Lami2018/318.ts
-EXTINF:-1,US: Showtime Showcase
+#EXTINF:-1,US: Showtime Showcase
 http://151.80.22.22:9300/live/Lami/Lami2018/319.ts
-EXTINF:-1,US: SYFY HD
+#EXTINF:-1,US: SYFY HD
 http://151.80.22.22:9300/live/Lami/Lami2018/292.ts
-EXTINF:-1,US: The Florida Channel
+#EXTINF:-1,US: The Florida Channel
 http://151.80.22.22:9300/live/Lami/Lami2018/327.ts
-EXTINF:-1,US: TNT HD
+#EXTINF:-1,US: TNT HD
 http://151.80.22.22:9300/live/Lami/Lami2018/313.ts
-EXTINF:-1,US: Travel Channel HD
+#EXTINF:-1,US: Travel Channel HD
 http://151.80.22.22:9300/live/Lami/Lami2018/286.ts
-EXTINF:-1,US: WWE Network HD
+#EXTINF:-1,US: WWE Network HD
 http://151.80.22.22:9300/live/Lami/Lami2018/285.ts
-EXTINF:-1,|CA| ICI RDI
+#EXTINF:-1,|CA| ICI RDI
 http://151.80.22.22:9300/live/Lami/Lami2018/6626.ts
-EXTINF:-1,|CA| RDS
+#EXTINF:-1,|CA| RDS
 http://151.80.22.22:9300/live/Lami/Lami2018/6624.ts
-EXTINF:-1,|CA| Series+
+#EXTINF:-1,|CA| Series+
 http://151.80.22.22:9300/live/Lami/Lami2018/6627.ts
-EXTINF:-1,|CA| TVA
+#EXTINF:-1,|CA| TVA
 http://151.80.22.22:9300/live/Lami/Lami2018/6622.ts
-EXTINF:-1,|CA| TVA SPORTS
+#EXTINF:-1,|CA| TVA SPORTS
 http://151.80.22.22:9300/live/Lami/Lami2018/6625.ts
-EXTINF:-1,|CA| V HD
+#EXTINF:-1,|CA| V HD
 http://151.80.22.22:9300/live/Lami/Lami2018/6623.ts
-EXTINF:-1,|CA| Tele Quebec
+#EXTINF:-1,|CA| Tele Quebec
 http://151.80.22.22:9300/live/Lami/Lami2018/6710.ts
-2d29925890120926aff33683a9e57f9e46caf49c
