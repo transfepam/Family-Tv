@@ -1433,4 +1433,5 @@ http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/19160.ts
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/18886.ts
 #EXTINF:-1,USA: PPV HD  (only during pvv events)
 http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/21208.ts
-
+#EXTINF:-1 logo="http://i.imgur.com/EL6i9mA.png" tvg-id="34d395a13e3fe60a41c608a9dc84ba7f",CNN US
+http://116.127.125.139:9981/stream/channelid/563467060?ticket=F92300B020041C2D63C35C35274BBB8C2529ADB1&profile=pass
