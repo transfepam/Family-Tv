@@ -1,6 +1,98 @@
-#EXTM3U
-#EXTM3U
 
+#EXTINF:-1,US: A & E
+http://portal.tvturks.com:80/utku/utku123456/13398
+#EXTINF:-1,US: ABC News HD
+http://portal.tvturks.com:80/utku/utku123456/13397
+#EXTINF:-1,US: AFN SPORTS
+http://portal.tvturks.com:80/utku/utku123456/13394
+#EXTINF:-1,US: AFN SPORTS 2
+http://portal.tvturks.com:80/utku/utku123456/13393
+#EXTINF:-1,US: AMC HD
+http://portal.tvturks.com:80/utku/utku123456/13391
+#EXTINF:-1,US: Animal Planet
+http://portal.tvturks.com:80/utku/utku123456/13389
+#EXTINF:-1,US: Bein Sports USA HD
+http://portal.tvturks.com:80/utku/utku123456/13388
+#EXTINF:-1,US: Bloomberg
+http://portal.tvturks.com:80/utku/utku123456/13386
+#EXTINF:-1,US: Bravo HD
+http://portal.tvturks.com:80/utku/utku123456/13384
+#EXTINF:-1,US: C-Span1
+http://portal.tvturks.com:80/utku/utku123456/13382
+#EXTINF:-1,US: CBS HD
+http://portal.tvturks.com:80/utku/utku123456/13380
+#EXTINF:-1,US: CBS News HD
+http://portal.tvturks.com:80/utku/utku123456/13379
+#EXTINF:-1,US: CBSN HD
+http://portal.tvturks.com:80/utku/utku123456/13378
+#EXTINF:-1,US: CNBC
+http://portal.tvturks.com:80/utku/utku123456/13377
+#EXTINF:-1,US: CNN HD
+http://portal.tvturks.com:80/utku/utku123456/13375
+#EXTINF:-1,US: Comedy Central HD
+http://portal.tvturks.com:80/utku/utku123456/13374
+#EXTINF:-1,US: E!
+http://portal.tvturks.com:80/utku/utku123456/13372
+#EXTINF:-1,US: ESPN HD
+http://portal.tvturks.com:80/utku/utku123456/13371
+#EXTINF:-1,US: Fight Network
+http://portal.tvturks.com:80/utku/utku123456/13370
+#EXTINF:-1,US: Food Network
+http://portal.tvturks.com:80/utku/utku123456/13369
+#EXTINF:-1,US: Fox News
+http://portal.tvturks.com:80/utku/utku123456/13368
+#EXTINF:-1,US: Fox HD
+http://portal.tvturks.com:80/utku/utku123456/13367
+#EXTINF:-1,US: FX HD
+http://portal.tvturks.com:80/utku/utku123456/13365
+#EXTINF:-1,US: H2
+http://portal.tvturks.com:80/utku/utku123456/13361
+#EXTINF:-1,US: Hallmark
+http://portal.tvturks.com:80/utku/utku123456/13360
+#EXTINF:-1,US: HBO Comedy
+http://portal.tvturks.com:80/utku/utku123456/13359
+#EXTINF:-1,US: HBO Family
+http://portal.tvturks.com:80/utku/utku123456/13358
+#EXTINF:-1,US: HBO HD
+http://portal.tvturks.com:80/utku/utku123456/13357
+#EXTINF:-1,US: HBO SIGNATURE
+http://portal.tvturks.com:80/utku/utku123456/13356
+#EXTINF:-1,US: HBO ZONE
+http://portal.tvturks.com:80/utku/utku123456/13355
+#EXTINF:-1,US: HGTV
+http://portal.tvturks.com:80/utku/utku123456/13354
+#EXTINF:-1,US: HIFI
+http://portal.tvturks.com:80/utku/utku123456/13353
+#EXTINF:-1,US: LIFETIME HD
+http://portal.tvturks.com:80/utku/utku123456/13349
+#EXTINF:-1,US: National Geographic HD
+http://portal.tvturks.com:80/utku/utku123456/13342
+#EXTINF:-1,US: NBA HD
+http://portal.tvturks.com:80/utku/utku123456/13341
+#EXTINF:-1,US: NBC Golf HD
+http://portal.tvturks.com:80/utku/utku123456/13340
+#EXTINF:-1,US: NBC HD
+http://portal.tvturks.com:80/utku/utku123456/13339
+#EXTINF:-1,US: NBA Live 1
+http://portal.tvturks.com:80/utku/utku123456/13338
+#EXTINF:-1,US: Nickelodeon HD
+http://portal.tvturks.com:80/utku/utku123456/13337
+#EXTINF:-1,US: PBS HD
+http://portal.tvturks.com:80/utku/utku123456/13334
+#EXTINF:-1,US: RT America HD
+http://portal.tvturks.com:80/utku/utku123456/13331
+#EXTINF:-1,US: RT Documentary
+http://portal.tvturks.com:80/utku/utku123456/13330
+#EXTINF:-1,US: Showtime 2
+http://portal.tvturks.com:80/utku/utku123456/13329
+#EXTINF:-1,US: Showtime HD
+http://portal.tvturks.com:80/utku/utku123456/13328
+#EXTINF:-1,US: TBS HD
+http://portal.tvturks.com:80/utku/utku123456/13324
+#EXTINF:-1,US: TNT HD
+http://portal.tvturks.com:80/utku/utku123456/13319
+#EXTINF:-1,US: USA Network
+http://portal.tvturks.com:80/utku/utku123456/13313
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" group-title="USA",24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 
