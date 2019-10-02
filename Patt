@@ -750,6 +750,8 @@ https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m
 http://stream.swagit.com/live-edge/escambiacountyfl/live-1-a/chunklist_w1496843195.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fGdHIGy.png" group-title="United States",ESNE TV
 https://zypelive-lh.akamaihd.net/i/default_1@710948/master.m3u8
+#EXTINF: -1 tvg-logo="https://www.stickpng.com/assets/images/5847f1b0cef1014c0b5e485d.png" group-title="Sport", ESPN HD
+http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-id="ESPN News-US" tvg-name="ESPN News-US" tvg-logo="https://static.iptv-epg.com/us/ESPNNews.us.png" group-title="United States",ESPNews
 http://185.246.209.109:8080/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vTlQAIX.jpg" group-title="United States",ET Live
