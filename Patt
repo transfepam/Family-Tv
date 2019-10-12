@@ -1,520 +1,4 @@
-@@ -61,10 +61,6 @@ https://alkasmsl4.akamaized.net/hls/live/2003123/alkasstwo/master570.m3u8
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ykEHJoE.png" group-title="Sport",All Sports
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HlGlm3y.jpg" group-title="Sport",Altitude Sports [Not 24/7 Online]
-http://190.2.154.164/TV3602
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HlGlm3y.jpg" group-title="Sport",Altitude Sports [Not 24/7 Online]
-http://190.2.154.164/TV3605
-#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-logo="https://i.imgur.com/j6zrg4O.jpg" group-title="Sport",Aragón Deporte HD
-https://cartv.streaming.aranova.es/hls/live/adeportes_deporte1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fbKECO8.png" group-title="Sport",ARENA SPORT 1
-@@ -143,8 +139,6 @@ https://sportbar.biz/lba/123/g2/ruseuro2.m3u8
-http://ott-cdn.ucom.am/s79/04.m3u8
-#EXTINF:-1 tvg-id="fastfunbox-hd" tvg-name="Fast&FunBox HD" tvg-logo="https://i.imgur.com/zao81l9.png" group-title="Sport",Fast & Fun Box Русский
-http://ott-cdn.ucom.am/s79/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IxIytnY.jpg" group-title="Sport",Fight Network [Not 24/7 Online]
-http://190.2.154.164/TV3963
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
-@@ -165,10 +159,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/d5FuKlX.png" group-title="Sport",Fox College Sports [Not 24/7 Online]
-http://190.2.154.164/TV3633
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/d5FuKlX.png" group-title="Sport",Fox College Sports [Not 24/7 Online]
-http://190.2.154.164/TV3634
-#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-name="Fox Sports News" tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="Sport",Fox Sports News
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="Sport",GOLTV
-@@ -205,8 +195,6 @@ http://163.172.211.229:8000/live/sula/sula123/857.m3u8
-http://163.172.211.229:8000/live/sula/sula123/858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vPZOyt0.png" group-title="Sport",Kujtesa Sport 4
-http://163.172.211.229:8000/live/sula/sula123/859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oucpKVI.png" group-title="Sport",MASN [Not 24/7 Online]
-http://190.2.154.164/TV3610
-#EXTINF:-1 tvg-id="MLB Network-US" tvg-name="MLB Network-US" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sport",MLB Network
-http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8
-#EXTINF:-1 tvg-id="MLB Network-US" tvg-name="MLB Network-US" tvg-logo="https://i.imgur.com/mXEl1Xx.png" group-title="Sport",MLB Network
-@@ -227,22 +215,6 @@ http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
-http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间7HD
-http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b4dePUJ.jpg" group-title="Sport",NBC Golf [Not 24/7 Online]
-http://190.2.154.164/TV3604
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Uucjpxi.jpg" group-title="Sport",NBC Sports Chicago [Not 24/7 Online]
-http://190.2.154.164/TV3600
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Uucjpxi.jpg" group-title="Sport",NBC Sports Chicago [Not 24/7 Online]
-http://190.2.154.164/TV3601
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KwVZD65.jpg" group-title="Sport",NBCSN [Not 24/7 Online]
-http://190.2.154.164/TV3603
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1cAAPWv.jpg" group-title="Sport",NESN [Not 24/7 Online]
-http://190.2.154.164/TV3916
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1cAAPWv.jpg" group-title="Sport",NESN [Not 24/7 Online]
-http://190.2.154.164/TV3917
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1cAAPWv.jpg" group-title="Sport",NESN [Not 24/7 Online]
-http://190.2.154.164/TV3918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1cAAPWv.jpg" group-title="Sport",NESN [Not 24/7 Online]
-http://190.2.154.164/TV3920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Sport",NewTV Super sports HD
-http://111.40.205.107/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="Sport",NewTV精品体育
-@@ -383,10 +355,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/TgcR1ju.jpg" group-title="Sport",Sky Sports Main Event
-https://sportbar.biz/lba/123/g2/maineventss.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5oNDNNE.jpg" group-title="Sport",Sony Ten 1 [Not 24/7 Online]
-http://190.2.154.164/TV1946
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qf1g450.png" group-title="Sport",Spectrum Sportsnet Live [Not 24/7 Online]
-http://190.2.154.164/TV3621
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 1
-https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hVmWVHj.png" group-title="Sport",SPORT TV 1
-@@ -479,8 +447,6 @@ http://103.77.252.58:8081/live/willow/chunks.m3u8
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",WOSN TV
-http://streamengine.wosn.tv:1935/live/WOSNLive_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/80WARPe.jpg" group-title="Sport",|NHL Network [Not 24/7 Online]
-http://190.2.154.164/TV3609
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
-http://91.211.143.214/astrakhanrusporthd/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ykEHJoE.png" group-title="Sport",All Sports
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fbKECO8.png" group-title="Sport",ARENA SPORT 1
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=arenasp1srhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JdmARh3.png" group-title="Sport",ARENA SPORT 2
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=arenasp2srhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KHRWK6Y.png" group-title="Sport",ARENA SPORT 3
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=arenasp3srhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oKLqSYI.png" group-title="Sport",ARENA SPORT 4
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=arenasp4srhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2UJb01J.png" group-title="Sport",ARENA SPORT 5
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=arenasp5srhd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Sport",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-id="Bahrain Sport 1 ARB" tvg-name="Bahrain Sport 1 ARB" tvg-logo="https://i.imgur.com/G9BMhDS.png" group-title="Sport",Bahrain Sport 1
-@@ -336,19 +346,7 @@ http://87.117.229.52:1935/nc3/SkyNetSports1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cZOIHf8.jpg" group-title="Sport",Sky Sports
-http://122.129.115.21:1935/edgedol/_definst_/tao126/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9k7gYUD.png" group-title="Sport",Sony Six
-http://103.77.252.58:8081/live/sonysix/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9k7gYUD.png" group-title="Sport",Sony Six
-http://130.185.150.79:1935/trunk/SONY-SIX/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jXuFpdm.png" group-title="Sport",Sony Ten 1 HD
-http://tv11.roarzone.info:8080/live/ten1-ebx/chunks.m3u8
-#EXTINF:-1 tvg-id="Sony Ten 2-IN" tvg-name="Sony Ten 2-IN" tvg-logo="https://i.imgur.com/sG1hgvZ.jpg" group-title="Sport",Sony Ten 2
-http://103.77.252.58:8081/live/ten2/chunks.m3u8
-#EXTINF:-1 tvg-id="Sony Ten 2-IN" tvg-name="Sony Ten 2-IN" tvg-logo="https://i.imgur.com/sG1hgvZ.jpg" group-title="Sport",Sony Ten 2 HD
-http://tv11.roarzone.info:8080/live/ten2-ebx/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/moQWsl2.png" group-title="Sport",Sony Ten 3
-http://103.77.252.58:8081/live/ten3/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/moQWsl2.png" group-title="Sport",Sony Ten 3 HD
-http://tv11.roarzone.info:8080/live/ten3-ebx/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 1
-https://5-226-137-173.netvarp.is/beint/sporttv1/tracks-v2a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.imgur.com/UlFhj49.jpg" group-title="Sport",Sport TV 2
-@@ -389,10 +387,6 @@ https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="Sport",Stadium
-https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qZr7eef.jpg" group-title="Sport",Star Sports 2 Select
-http://akamai.anytv.live//StarSportsSelect2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JmPju4i.png" group-title="Sport",Star Sports First
-http://31.3.242.186:1935//trunk4/STAR-SP-FIRST/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Super Soccer TV
-http://210.210.155.35/session/6761fe90-7bf1-11e8-a850-b82a72d63267/uq2663/h/h20/index1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sport",Super Soccer TV
-categories/religious.m3u
-@@ -147,8 +147,6 @@ http://78.130.205.67:1935/live/mpegts.stream/playlist.m3u8
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6qrRPGz.png" group-title="Religious",River
-http://www.evoiptv.com/hlsriver/hlsriver.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/sadhnTV3.png" group-title="Religious",Sadhna TV
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Religious",Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hDOC6nx.png" group-title="Religious",SBN
-categories/news.m3u
-@@ -554,6 +554,8 @@ http://htvmada.mada.ps:8888/pnn/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",Pratidin Time
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-http://118.238.215.207:3000/FOR-FLUXSTV/IPTV-MODERATOR/21
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Tx8sTbW.png" group-title="News",Pro TV News
-http://stream1.protv.ro/news/stream:1.stream/chunklist_w1582750279.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Tx8sTbW.png" group-title="News",Pro TV News
-http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yGaW4pR.png" group-title="News",PSM News
-http://ec2-54-254-194-192.ap-southeast-1.compute.amazonaws.com:1935/live/smil:newslive.smil/chunklist_w639865266_b1596000_sleng.m3u8
-@@ -601,8 +603,6 @@ http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
-https://rt-uk.secure.footprint.net/1106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zlYvCID.png" group-title="News",RTSH 24
-http://79.106.48.2/live/rtsh_24_ott_p3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.sadhna.com/Channel/Sadhnanew.png" group-title="News",Sadhna News
-http://cdn.clive.in:1935/jianews/jianews.stream_HDp/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WvNd8yg.png" group-title="News",Sky News
-categories/kids.m3u
-@@ -49,6 +49,8 @@ https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
-https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tfc2BYM.png" group-title="Kids",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jRKEkjU.jpg" group-title="Kids",Multimania TV / Мультимания ТВ
-http://82.193.71.93/MultimaniaLV/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kids",My Kids
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/NickJunior.uk.png" group-title="Kids",Nick Jr.
-categories/entertainment.m3u
-@@ -143,8 +143,6 @@ http://dammikartmp.tulix.tv/slrc1/slrc1/chunklist_w747273608.m3u8
-https://4j2ldmv5dobv-hls-live.wmncdn.net/safari/abr/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0kJGREd.png" group-title="Entertainment",Star Plus
-http://130.185.150.79:1935/trunk/STAR-PLUS/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b7wi2fu.png" group-title="Entertainment",Star Vijay
-http://216.144.250.174/Star_VIjay_HD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WyUSQok.png" group-title="Entertainment",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WyUSQok.png" group-title="Entertainment",Star World
-@@ -Canada
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Jxjg4Nx.png" group-title="Canada",5AAB Music Channel
-http://195.181.169.151:8080/5aabtv_music_pun/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Canada",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k9M5ydW.png" group-title="Canada",5AAB TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ikorRe8.png" group-title="Canada",A3BIKINI TV
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XgejLKw.png" group-title="Canada",Amazing Discoveries TV
-https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w133198316.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uSX4YXL.png" group-title="Canada",BBC Toronto Gaunda Punjab
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" group-title="Canada",Canada One
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" group-title="Canada",Canada Star TV
-http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rAZBgir.png" group-title="Canada",Canadian Arab TV
-http://192.226.228.32:8080/hls/catv/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/54iDWZU.png" group-title="Canada",Canal Savoir
-https://bc1.canalsavoir.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UPhXZbY.png" group-title="Canada",CBC News
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7xIiFrK.jpg" group-title="Canada",CNTV
-https://wowzaprodhd84-lh.akamaihd.net/i/4ae6355d_1@505999/index_2150400_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CVplWwb.jpg" group-title="Canada",CPAC
-http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
-#EXTINF:-1 tvg-id="CPAC (Francais)-CA" tvg-name="CPAC (Francais)-CA" tvg-logo="https://i.imgur.com/5MQiZM9.png" group-title="Canada",CPAC (Francais)
-http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="Canada",CTV News Live 2
-http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News28.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="Canada",CTV News Live 3
-http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RETaQH1.png" group-title="Canada",CTV News Live 4
-http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/SVdrxU4.png" group-title="Canada",Daystar Canada
-http://bcoveliveios-i.akamaihd.net/hls/live/217605/1539097700001/master_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aTWFaPn.png" group-title="Canada",E9 Punjabi
-http://cdn.samtv.ca/e9punjabi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/al6RSFp.png" group-title="Canada",EET TV
-http://live.streamjo.com:1935/eetlive/eettv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Ul9qddp.jpg" group-title="Canada",EMCI TV (Montréal)
-https://emcitd-i.akamaihd.net/hls/live/579154/emcitd/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Rxuem4o.png" group-title="Canada",EWTN Canada
-http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/O1NHK4B.jpg" group-title="Canada",Fight Network
-http://190.2.154.164/TV2817
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bbVSaC7.jpg" group-title="Canada",GH Canada TV
-http://uni8rtmp.tulix.tv/ghanaglobal/ghanaglobal/chunklist_w1167237290.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/c34WFZw.png" group-title="Canada",Hamdard TV
-http://cdn.samtv.ca/hamdard/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BbX6HvN.png" group-title="Canada",ICI Télévision
-https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/207d672634986b4ab27d689b114deb5f/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tILcm6T.png" group-title="Canada",iCNET
-http://70.52.161.69:1935/ICNET/ngrp:my.stream_all/chunklist_w2017851544_b3478286.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/G7hGk8y.png" group-title="Canada",IIPC TV
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTINF:-1 tvg-id="Knowledge Kids-CA" tvg-name="Knowledge Kids-CA" tvg-logo="https://i.imgur.com/kdgMVOI.png" group-title="Canada",Knowledge Kids
-http://knstream1.azureedge.net/knlive/knlive_high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Canada",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/0jeKzdO.png" group-title="Canada",Miracle Channel
-https://d9ruw6nhj5a52.cloudfront.net/live/smil:VODmultibitrate.smil/chunklist_wF1TV_b3000000_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/eNu3N0f.png" group-title="Canada",Montreal Greek TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2pCmTWZ.png" group-title="Canada",NTV (CJON-DT)
-http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CwAdPpZ.jpg" group-title="Canada",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LdGWsGj.png" group-title="Canada",Prime Asia TV
-http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rEKsf20.jpg" group-title="Canada",Prime Canada TV
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6L0gjes.jpg" group-title="Canada",PTN 24
-http://cdn.samtv.ca/ptv24/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X9LBFzK.jpg" group-title="Canada",QVTV
-https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mpJICdg.png" group-title="Canada",Salt + Light Television
-http://livestream.5centscdn.com/slworld/d65ce2bdd03471fde0a1dc5e01d793bb.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AhbJjPL.jpg" group-title="Canada",Sardari TV
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 tvg-id="Space-CA" tvg-name="Space-CA" tvg-logo="https://i.imgur.com/9uFrMex.png" group-title="Canada",Space
-http://pe-ak-lp01a-9c9media.akamaized.net/live/Space/p/hls/00000201/689924a518f2c776/index/2176f3ac/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/27zQGkR.png" group-title="Canada",Sports Net Ontario
-http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5aL6P7a.png" group-title="Canada",Sur Sagar TV
-http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Canada",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Canada",Tamil Vision TV
-http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
-#EXTINF:-1 tvg-id="Shopping Channel-CA" tvg-name="Shopping Channel-CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Canada",The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PkWndsv.png" group-title="Canada",Toronto 360 TV
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/brxkNbw.png" group-title="Canada",TV 16 Toronto
-http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9eTxRh0.jpg" group-title="Canada",Télé-Québec
-https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7768lwn.jpg" group-title="Canada",Urdu TV Toronto
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="Canada",VBS
-http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="Canada",VBS
-@@ -Haiti
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/1K3QTV0.png" group-title="",Hebdo TV
-https://hbiptv.live/live/hebdotvcom/video.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/fPJqdGy.png" group-title="",Impact TV
-https://impacttele.vedge.infomaniak.com/livecast/impacttele/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EHeKxIL.png" group-title="",Kajou TV | Chaine 9
-https://5a82fcf363895.streamlock.net:4443/SUNS7009KeBRPVSgtCVK/smil:SMILNOAO_7009KeBRPVSgtCVK.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
-http://haititivi.com:8088/haititv/tele6NY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
-http://haititivi.com:8088/haititv/tele6NY/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uisopuM.png" group-title="Music",Nago TV
-https://lakay.haitilive.net/hb/nagotv/web/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CvAhovd.png" group-title="Music",Netakole TV
-https://watch.haitilive.net/FreeTV/!/naktv/web/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ULpHfHX.jpg" group-title="",OnTV | Chaine 46
-https://watch.haitilive.net/FreeTV/!/ontv/web/HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8AWBgau.jpg" group-title="",Opa TV
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_opatv/as/live/hln_opatv_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" group-title="",Radio Tele Ginen | Chaine 18
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_ginen/as/live/hln_ginen_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6EEHWNg.jpg" group-title="",Radio Tele Ginen | Chaine 18
-https://watch.haitilive.net/FreeTV/!/ginen/webHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HFyrVaS.png" group-title="",Radio TeleBoston (USA)
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PTq40yK.jpg" group-title="",Radio Television Caraibes | Chaine 22
-https://watch.haitilive.net/FreeTV/!/rtvc/webHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PTq40yK.jpg" group-title="",Radio Television Caraibes | Chaine 22
-https://watch.haitilive.net/FreeTV/!/rtvc/webHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/qe9IvjO.jpg" group-title="",Tele Conscience Haitienne
-https://lakay.haitilive.net/hb/tch/web/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yYoEk8m.png" group-title="",Tele Eclair | Chaine 4
-http://mt2.cdnak.mt.neulion.com/nlds/hln/hln_eclair/as/live/hln_eclair_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5nYeBNN.jpg" group-title="",Tele Haiti
-http://66.175.238.147:1935/live/myStream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XJDmOY2.jpg" group-title="",Tele Hirondelle | Chaine 16
-https://watch.haitilive.net/FreeTV/!/rtvh/webHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7k9VkTH.jpg" group-title="",Tele Kreyol | Chaine 64
-https://watch.haitilive.net/FreeTV/!/telekreyol/web/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vZmlq9N.jpg" group-title="",Tele Louange
-https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JfFcNK2.jpg" group-title="",Tele Nationale d'Haïti
-http://162.244.81.145:1935/rtnh01/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JfFcNK2.jpg" group-title="",Tele Nationale d'Haïti
-https://watch.haitilive.net/FreeTV/!/tnh/webHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IfG5LoS.jpg" group-title="",Tele Pacific | Chaine 54
-https://watch.haitilive.net/FreeTV/!/pacific/webHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tgvN6s3.jpg" group-title="",Tele Soleil
-http://mt1.cdnak.mt.neulion.com/nlds/hln/hln_soleil/as/live/hln_soleil_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IR7xdiQ.jpg" group-title="",Tele Superstar | Chaine 68
-https://watch.haitilive.net/FreeTV/!/superstar/webHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dmRO6Ek.jpg" group-title="",Tele Univers | Chaine 6
-https://lakay.haitilive.net/hb/tele6/web/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/tPUzkTt.jpg" group-title="",Television Metropole | Chaine 52
-https://watch.haitilive.net/FreeTV/!/metro/webHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ITbqWGC.png" group-title="",TVA  | Chaine 30
-https://watch.haitilive.net/FreeTV/!/tva30/tracks-v1a1/mono.m3u8
-@@ -France
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="France",Alsace 20
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Alsace 20 FR" tvg-name="Alsace 20 FR" tvg-logo="https://i.imgur.com/r1pq8hQ.png" group-title="France",Alsace 20
-http://live.alsace20.fr:1935/live/alsace20/livestream/chunklist_.m3u8
-#EXTINF:-1 tvg-id="Arte FR" tvg-name="Arte FR" tvg-logo="https://i.imgur.com/zthzjPs.png" group-title="France",Arte
-https://s1.tntendirect.com/arte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rCurmKp.jpg" group-title="France",Bblack! Africa
-http://ec.playmedia.fr/beblack/africa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XGOT4iz.png" group-title="France",Bblack! Caribbean
-http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Z1DWn1M.png" group-title="France",Bblack! Classik
-http://ec.playmedia.fr/beblack/classik/playlist.m3u8
-#EXTINF:-1 tvg-id="BFM Business FR" tvg-name="BFM Business FR" tvg-logo="https://i.imgur.com/mihujKt.jpg" group-title="France",BFM Business
-https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="France",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4buTOS3.png" group-title="France",BFM Paris
-https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
-#EXTINF:-1 tvg-id="BFM TV FR" tvg-name="BFM TV FR" tvg-logo="https://i.imgur.com/ClMYrD0.png" group-title="France",BFM TV
-https://s1.tntendirect.com/bmftv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YFEqBS7.png" group-title="France",BipTV
-https://biptv.tv/live/biptvstream_orig/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/C4ApWGr.jpg" group-title="France",C8
-https://s1.tntendirect.com/d8/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal J FR" tvg-name="Canal J FR" tvg-logo="https://i.imgur.com/uNE046N.png" group-title="France",Canal J
-http://144.217.253.140/Canalj/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4fLTTUm.jpg" group-title="France",CStar
-https://s1.tntendirect.com/d17/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/cThInij.png" group-title="France",D5 TV
-https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w958420568_b1928000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/A9yLdYZ.png" group-title="France",Dici TV
-http://dciwebcam.vedge.infomaniak.com/livecast/dciwebcam/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Yk0nq1P.jpg" group-title="France",EMCI TV
-https://emcifr-i.akamaihd.net/hls/live/577363/emcifr/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/YlN5Y5b.jpg" group-title="France",Ere TV
-http://api.new.livestream.com/accounts/7861901/events/8505052/live.m3u8
-#EXTINF:-1 tvg-id="France 2 FR" tvg-name="France 2 FR" tvg-logo="https://i.imgur.com/zg1VRRE.png" group-title="France",France 2
-https://s1.tntendirect.com/france2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 3 FR" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
-http://109.236.92.216:9090/France3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="France 3 FR" tvg-name="France 3 FR" tvg-logo="https://i.imgur.com/R1qAZ5N.jpg" group-title="France",France 3
-https://s1.tntendirect.com/france3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 4 FR" tvg-name="France 4 FR" tvg-logo="https://i.imgur.com/FLaq3fo.png" group-title="France",France 4
-https://s1.tntendirect.com/france4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France 5 FR" tvg-name="France 5 FR" tvg-logo="https://i.imgur.com/eRQAsS5.png" group-title="France",France 5
-https://s1.tntendirect.com/france5/live/playlist.m3u8
-#EXTINF:-1 tvg-id="France O FR" tvg-name="France O FR" tvg-logo="https://i.imgur.com/GQR2nGg.jpg" group-title="France",France Ô
-https://s1.tntendirect.com/franceo/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lvrvwtm.png" group-title="France",Francophonie
-http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="France",Gong
-http://51.254.215.79/appflux/gong/GONG/gong_0640/chunks.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="France",Gong
-http://51.254.215.79/appflux/gong/GONG/gong_1280/playlist.m3u8
-#EXTINF:-1 tvg-id="Gong FR" tvg-name="Gong FR" tvg-logo="https://i.imgur.com/k6bnmCc.jpg" group-title="France",Gong
-http://ec.playmedia.fr/gong-base/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EkeQcb.png" group-title="France",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2EkeQcb.png" group-title="France",Gong Max
-http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Gulli FR" tvg-name="Gulli FR" tvg-logo="https://i.imgur.com/U2KsDA0.png" group-title="France",Gulli
-https://s1.tntendirect.com/gulli/live/playlist.m3u8
-#EXTINF:-1 tvg-id="I24news FR" tvg-name="I24news FR" tvg-logo="https://i.imgur.com/pA3oGAU.png" group-title="France",i24 News
-https://i24alive1-a.akamaihd.net/cc8266d36bb5469b8b4a3097497e06e6/eu-central-1/5377161796001/profile_0/chunklist_dvr.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gGhCEmJ.jpg" group-title="France",ILTV
-http://str81.creacast.com:80/iltv/high/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO FR" tvg-name="KTO FR" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="France",KTO
-http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="LEquipe 21 FR" tvg-name="LEquipe 21 FR" tvg-logo="https://i.imgur.com/B6r4RgK.jpg" group-title="France",L'Equipe 21
-https://s1.tntendirect.com/lequipe21/live/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-logo="https://i.imgur.com/xDLwsbY.png" group-title="France",La Chaine Normande TV
-http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="La Chaine Normande TV FR" tvg-name="La Chaine Normande TV FR" tvg-logo="http://i.imgur.com/pYK8baq.png" group-title="France",La Chaine Normande TV
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="M6 FR" tvg-name="M6 FR" tvg-logo="https://i.imgur.com/FNonACy.png" group-title="France",M6
-https://s1.tntendirect.com/m6/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM Top HD FR" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="France",MCM Top HD
-http://92.43.140.249/s49/04.m3u8
-#EXTINF:-1 tvg-id="MCM Top HD FR" tvg-name="MCM Top HD FR" tvg-logo="https://i.imgur.com/n2trOy5.png" group-title="France",MCM Top HD
-http://ott-cdn.ucom.am/s49/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo Live HD FR" tvg-logo="https://i.imgur.com/ejEcufH.png" group-title="France",Mezzo
-http://ott-cdn.ucom.am/s35/04.m3u8
-#EXTINF:-1 tvg-id="Mezzo Live HD FR" tvg-name="Mezzo Live HD FR" tvg-logo="https://i.imgur.com/ejEcufH.png" group-title="France",Mezzo
-http://ott-cdn.ucom.am/s35/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EgSC2QT.jpg" group-title="France",MYComedy
-http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1113167704_b1928000.m3u8
-#EXTINF:-1 tvg-id="NRJ 12 FR" tvg-name="NRJ 12 FR" tvg-logo="https://i.imgur.com/Qp2eWJW.png" group-title="France",NRJ 12
-https://s1.tntendirect.com/nrj12/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ekRMtra.png" group-title="France",Radio Contact
-http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5Ky4Yyx.png" group-title="France",RMC
-https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC Decouverte FR" tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg" group-title="France",RMC Decouverte
-https://s1.tntendirect.com/rmcdecouverte/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Bdmw9Ll.jpg" group-title="France",RMC Story
-https://s1.tntendirect.com/numero23/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/gVedXRh.png" group-title="France",RT France
-http://rt-france.secure.footprint.net/1107.m3u8?streamType=live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="France",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Acyl3az.jpg" group-title="France",STAD'AFRIC
-https://stadafric.streamakaci.tv/str_stadafric_stadafric/str_stadafric_multi/str_stadafric_stadafric/str_stadafric_player_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="TF1 FR" tvg-name="TF1 FR" tvg-logo="https://i.imgur.com/06fP5xL.jpg" group-title="France",TF1
-https://s1.tntendirect.com/tf1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1 Series Film FR" tvg-name="TF1 Series Film FR" tvg-logo="https://i.imgur.com/RcUdig8.jpg" group-title="France",TF1 Series Film
-https://s1.tntendirect.com/hd1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/LLbpKZh.png" group-title="France",TFX
-https://s1.tntendirect.com/nt1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TMC FR" tvg-name="TMC FR" tvg-logo="https://i.imgur.com/cV2Os0a.jpg" group-title="France",TMC
-https://s1.tntendirect.com/tmc/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/05RMwlR.png" group-title="France",TV3V
-https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FRP03WJ.jpg" group-title="France",TV5 Style
-https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info
-http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="France",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/j6ZDQAw.jpg" group-title="France",TV5Monde Maghreb-Orient
-http://livecdnh1.tvanywhere.ae:80/hls/tv5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="France",TV7 Colmar
-http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RuFISFk.png" group-title="France",TV7 Colmar
-http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8 Montblanc FR" tvg-name="TV8 Montblanc FR" tvg-logo="https://i.imgur.com/bQ0qIxF.jpg" group-title="France",TV8 Montblanc
-http://www.digiclic-streaming.com:8134/hls-live/livepkgr/_definst_/liveevent/tv82.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="France",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RT3pz5L.png" group-title="France",TVPI
-http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GMp9M5A.jpg" group-title="France",TVR
-https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
-#EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TeleToonPlus FR" tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="France",TéléToon+
-http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/803evgT.png" group-title="France",viàVosges
-https://vosgestv.hdr-tv.com/live/vosgestv/livestream/master.m3u8
-#EXTINF:-1 tvg-id="W9 FR" tvg-name="W9 FR" tvg-logo="https://i.imgur.com/iLW5G7x.png" group-title="France",W9
-https://s1.tntendirect.com/w9/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KVtWkO8.jpg" group-title="France",XXL
-http://51.15.125.186:8081/live/xxl/playlist.m3u8
-@@ -Other
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="International",SportsMax TV
-http://161.0.157.5/PLTV/88888888/224/3221226766/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="International",SportsMax TV
-http://161.0.157.5/PLTV/88888888/224/3221226766/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/IsXK52p.jpg" group-title="International",SportsMax TV
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/star_movies_hk_hd_in.png" group-title="International",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/01/star_movies_hk_hd_in.png" group-title="International",Star Movies
-http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="International",Star Movies
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WyUSQok.png" group-title="International",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/03.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WyUSQok.png" group-title="International",Star World
-http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/WyUSQok.png" group-title="International",Star World
-http://livecdnh1.tvanywhere.ae:80/hls/star_world/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/yqwv15K.jpg" group-title="International",Stars XXX
-http://51.15.125.186:8081/live/sct/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQNLp5y.png" group-title="International",SuperSoccer TV
-http://210.210.155.35/uq2663/h/h20/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQNLp5y.png" group-title="International",SuperSoccer TV
-http://210.210.155.35/uq2663/h/h20/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aQNLp5y.png" group-title="International",SuperSoccer TV
 @@ -USA
 #EXTM3U
 #EXTINF:-1,US: NBC HD Raleigh NC
@@ -1835,3 +1319,902 @@ http://nitro.ltd:25461/live/frank/frank/18454.m3u8
 http://nitro.ltd:25461/live/frank/frank/28535.m3u8
 #EXTINF:-1,US: Weather Nation
 http://nitro.ltd:25461/live/frank/frank/36537.m3u8
+http://ipfortv.com:25461/live/55555/55555/449.m3u8
+#EXTINF:-1,US: Velocity | 1080
+http://ipfortv.com:25461/live/55555/55555/455.m3u8
+#EXTINF:-1,US: USA Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/457.m3u8
+#EXTINF:-1,US: TSN 5 | 1080
+http://ipfortv.com:25461/live/55555/55555/464.m3u8
+#EXTINF:-1,US: TSN 4 | 1080
+http://ipfortv.com:25461/live/55555/55555/465.m3u8
+#EXTINF:-1,US: TSN 3 | 1080
+http://ipfortv.com:25461/live/55555/55555/466.m3u8
+#EXTINF:-1,US: TSN 2 | 1080
+http://ipfortv.com:25461/live/55555/55555/467.m3u8
+#EXTINF:-1,US: TSN 1 | 720
+http://ipfortv.com:25461/live/55555/55555/468.m3u8
+#EXTINF:-1,US: Travel Channel - DIRECT
+http://ipfortv.com:25461/live/55555/55555/469.m3u8
+#EXTINF:-1,US: TNT - DIRECT
+http://ipfortv.com:25461/live/55555/55555/472.m3u8
+#EXTINF:-1,US: TLC - DIRECT
+http://ipfortv.com:25461/live/55555/55555/474.m3u8
+#EXTINF:-1,US: Tennis Channel - DIRECT
+http://ipfortv.com:25461/live/55555/55555/475.m3u8
+#EXTINF:-1,US: TBS HD East - DIRECT
+http://ipfortv.com:25461/live/55555/55555/477.m3u8
+#EXTINF:-1,US: SYFY - DIRECT
+http://ipfortv.com:25461/live/55555/55555/480.m3u8
+#EXTINF:-1,US: STARZ EDGE
+http://ipfortv.com:25461/live/55555/55555/483.m3u8
+#EXTINF:-1,US: STARZ - DIRECT
+http://ipfortv.com:25461/live/55555/55555/486.m3u8
+#EXTINF:-1,US: Viceland - DIRECT
+http://ipfortv.com:25461/live/55555/55555/487.m3u8
+#EXTINF:-1,US: SPIKE (Paramount) | 720
+http://ipfortv.com:25461/live/55555/55555/497.m3u8
+#EXTINF:-1,US: Showtime West - DIRECT
+http://ipfortv.com:25461/live/55555/55555/500.m3u8
+#EXTINF:-1,US: Showtime Showcase
+http://ipfortv.com:25461/live/55555/55555/501.m3u8
+#EXTINF:-1,US: Showtime Extreme | 1080
+http://ipfortv.com:25461/live/55555/55555/503.m3u8
+#EXTINF:-1,US: Showtime 2 East | 720
+http://ipfortv.com:25461/live/55555/55555/504.m3u8
+#EXTINF:-1,US: ShowTime East - DIRECT
+http://ipfortv.com:25461/live/55555/55555/506.m3u8
+#EXTINF:-1,US: SEC Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/507.m3u8
+#EXTINF:-1,US: PAC-12 Washington - DIRECT
+http://ipfortv.com:25461/live/55555/55555/510.m3u8
+#EXTINF:-1,US: PAC-12 Oregon - DIRECT
+http://ipfortv.com:25461/live/55555/55555/511.m3u8
+#EXTINF:-1,US: PAC-12 Los Angeles - DIRECT
+http://ipfortv.com:25461/live/55555/55555/512.m3u8
+#EXTINF:-1,US: PAC-12 Bay Area - DIRECT
+http://ipfortv.com:25461/live/55555/55555/513.m3u8
+#EXTINF:-1,US: PAC-12 Arizona - DIRECT
+http://ipfortv.com:25461/live/55555/55555/514.m3u8
+#EXTINF:-1,US: OWN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/516.m3u8
+#EXTINF:-1,US: Nickelodeon | 720
+http://ipfortv.com:25461/live/55555/55555/521.m3u8
+#EXTINF:-1,US: NFL Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/525.m3u8
+#EXTINF:-1,US: NHL Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/527.m3u8
+#EXTINF:-1,US: NBCSN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/536.m3u8
+#EXTINF:-1,US: NBC GOLF | 720
+http://ipfortv.com:25461/live/55555/55555/550.m3u8
+#EXTINF:-1,US: NBC | 720
+http://ipfortv.com:25461/live/55555/55555/552.m3u8
+#EXTINF:-1,US: NBA TV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/555.m3u8
+#EXTINF:-1,US: MTV | 720
+http://ipfortv.com:25461/live/55555/55555/565.m3u8
+#EXTINF:-1,US: MSNBC - DIRECT
+http://ipfortv.com:25461/live/55555/55555/567.m3u8
+#EXTINF:-1,US: MLB Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/569.m3u8
+#EXTINF:-1,US: LIFETIME - DIRECT
+http://ipfortv.com:25461/live/55555/55555/575.m3u8
+#EXTINF:-1,US: FYI, - DIRECT
+http://ipfortv.com:25461/live/55555/55555/578.m3u8
+#EXTINF:-1,US: INVESTIGATION DISCOVERY - DIRECT
+http://ipfortv.com:25461/live/55555/55555/579.m3u8
+#EXTINF:-1,US: HBO Zone | 1080
+http://ipfortv.com:25461/live/55555/55555/592.m3u8
+#EXTINF:-1,US: HBO SIGNATURE 
+http://ipfortv.com:25461/live/55555/55555/594.m3u8
+#EXTINF:-1,US: HBO Comedy | 1080
+http://ipfortv.com:25461/live/55555/55555/596.m3u8
+#EXTINF:-1,US: HBO - DIRECT
+http://ipfortv.com:25461/live/55555/55555/598.m3u8
+#EXTINF:-1,US: H2 | SD
+http://ipfortv.com:25461/live/55555/55555/602.m3u8
+#EXTINF:-1,US: FXX - DIRECT
+http://ipfortv.com:25461/live/55555/55555/606.m3u8
+#EXTINF:-1,US: FOX NEWS - DIRECT
+http://ipfortv.com:25461/live/55555/55555/622.m3u8
+#EXTINF:-1,US: Food Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/630.m3u8
+#EXTINF:-1,US: El Rey - DIRECT
+http://ipfortv.com:25461/live/55555/55555/633.m3u8
+#EXTINF:-1,US: Fight Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/635.m3u8
+#EXTINF:-1,US: ESPN U - DIRECT
+http://ipfortv.com:25461/live/55555/55555/639.m3u8
+#EXTINF:-1,US: ESPN News - DIRECT
+http://ipfortv.com:25461/live/55555/55555/641.m3u8
+#EXTINF:-1,US: ESPN 2 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/644.m3u8
+#EXTINF:-1,US: ESPN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/648.m3u8
+#EXTINF:-1,US: E! - DIRECT
+http://ipfortv.com:25461/live/55555/55555/649.m3u8
+#EXTINF:-1,US: DIY NETWORK - DIRECT
+http://ipfortv.com:25461/live/55555/55555/653.m3u8
+#EXTINF:-1,US: Disney XD - DIRECT
+http://ipfortv.com:25461/live/55555/55555/655.m3u8
+#EXTINF:-1,US: DISNEY JR - DIRECT
+http://ipfortv.com:25461/live/55555/55555/656.m3u8
+#EXTINF:-1,US: DISCOVERY - DIRECT
+http://ipfortv.com:25461/live/55555/55555/662.m3u8
+#EXTINF:-1,US: DESTINATION AMERICA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/663.m3u8
+#EXTINF:-1,US: CW | HD
+http://ipfortv.com:25461/live/55555/55555/666.m3u8
+#EXTINF:-1,US: COMEDY CENTRAL | 720
+http://ipfortv.com:25461/live/55555/55555/668.m3u8
+#EXTINF:-1,US: CNN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/669.m3u8
+#EXTINF:-1,US: CNBC - DIRECT
+http://ipfortv.com:25461/live/55555/55555/672.m3u8
+#EXTINF:-1,US: Cinemax ThrillerMax | 1080
+http://ipfortv.com:25461/live/55555/55555/675.m3u8
+#EXTINF:-1,US: CINEMAX ACTIONMAX | 1080
+http://ipfortv.com:25461/live/55555/55555/679.m3u8
+#EXTINF:-1,US: CBS Sports Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/683.m3u8
+#EXTINF:-1,US: CBS | 720
+http://ipfortv.com:25461/live/55555/55555/687.m3u8
+#EXTINF:-1,US: CARTOON NETWORK - DIRECT
+http://ipfortv.com:25461/live/55555/55555/690.m3u8
+#EXTINF:-1,US: Bravo - DIRECT
+http://ipfortv.com:25461/live/55555/55555/702.m3u8
+#EXTINF:-1,US: Boomerang - DIRECT
+http://ipfortv.com:25461/live/55555/55555/704.m3u8
+#EXTINF:-1,US: Bloomberg TV | 720
+http://ipfortv.com:25461/live/55555/55555/708.m3u8
+#EXTINF:-1,US: Big Ten Network - DIRECT
+http://ipfortv.com:25461/live/55555/55555/709.m3u8
+#EXTINF:-1,US: Bein Sports USA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/713.m3u8
+#EXTINF:-1,US: AMC - DIRECT
+http://ipfortv.com:25461/live/55555/55555/723.m3u8
+#EXTINF:-1,US: ABC News | 720
+http://ipfortv.com:25461/live/55555/55555/736.m3u8
+#EXTINF:-1,US: ABC | 720
+http://ipfortv.com:25461/live/55555/55555/738.m3u8
+#EXTINF:-1,US: A&E - DIRECT
+http://ipfortv.com:25461/live/55555/55555/740.m3u8
+#EXTINF:-1,US: Hallmark Channel - DIRECT
+http://ipfortv.com:25461/live/55555/55555/791.m3u8
+#EXTINF:-1,US: WE TV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/792.m3u8
+#EXTINF:-1,Music Choice | Rap 2K
+http://ipfortv.com:25461/live/55555/55555/2220.m3u8
+#EXTINF:-1,Music Choice | Rap
+http://ipfortv.com:25461/live/55555/55555/2221.m3u8
+#EXTINF:-1,Music Choice | Pop Hits
+http://ipfortv.com:25461/live/55555/55555/2224.m3u8
+#EXTINF:-1,Music Choice | Pop & Country
+http://ipfortv.com:25461/live/55555/55555/2225.m3u8
+#EXTINF:-1,Music Choice | Mexicana
+http://ipfortv.com:25461/live/55555/55555/2227.m3u8
+#EXTINF:-1,Music Choice | Metal
+http://ipfortv.com:25461/live/55555/55555/2228.m3u8
+#EXTINF:-1,Music Choice | Indie
+http://ipfortv.com:25461/live/55555/55555/2229.m3u8
+#EXTINF:-1,Music Choice | Hit List
+http://ipfortv.com:25461/live/55555/55555/2230.m3u8
+#EXTINF:-1,Music Choice | Hip-Hop and R&B
+http://ipfortv.com:25461/live/55555/55555/2231.m3u8
+#EXTINF:-1,Music Choice | Dance/EDM
+http://ipfortv.com:25461/live/55555/55555/2232.m3u8
+#EXTINF:-1,Music Choice | Brits   Hits
+http://ipfortv.com:25461/live/55555/55555/2233.m3u8
+#EXTINF:-1,Music Choice | Alternative
+http://ipfortv.com:25461/live/55555/55555/2234.m3u8
+#EXTINF:-1,US: VH1 - LOCAL
+http://ipfortv.com:25461/live/55555/55555/2246.m3u8
+#EXTINF:-1,US: Weather Channel - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2247.m3u8
+#EXTINF:-1,US: truTV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2248.m3u8
+#EXTINF:-1,US: Nick Jr | SD
+http://ipfortv.com:25461/live/55555/55555/2252.m3u8
+#EXTINF:-1,US: National Geographic Channel - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2253.m3u8
+#EXTINF:-1,US: ION | 1080
+http://ipfortv.com:25461/live/55555/55555/2255.m3u8
+#EXTINF:-1,US: Lifetime Movies - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2256.m3u8
+#EXTINF:-1,US: MAVTV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2257.m3u8
+#EXTINF:-1,US: HISTORY - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2258.m3u8
+#EXTINF:-1,US: HBO 2 | 1080
+http://ipfortv.com:25461/live/55555/55555/2259.m3u8
+#EXTINF:-1,US: HBO FAMILY EAST - LOCAL
+http://ipfortv.com:25461/live/55555/55555/2260.m3u8
+#EXTINF:-1,US: The Discovery Channel | 1080
+http://ipfortv.com:25461/live/55555/55555/2262.m3u8
+#EXTINF:-1,US: DISCOVERY SCIENCE - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2263.m3u8
+#EXTINF:-1,US: COOKING CHANNEL - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2264.m3u8
+#EXTINF:-1,US: Cinemax - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2266.m3u8
+#EXTINF:-1,US: CINEMAX MOREMAX | 720
+http://ipfortv.com:25461/live/55555/55555/2267.m3u8
+#EXTINF:-1,US: Bounce | SD
+http://ipfortv.com:25461/live/55555/55555/2275.m3u8
+#EXTINF:-1,US: BUZZR | SD
+http://ipfortv.com:25461/live/55555/55555/2276.m3u8
+#EXTINF:-1,US: CMT | 720
+http://ipfortv.com:25461/live/55555/55555/2277.m3u8
+#EXTINF:-1,US: Disney Channel - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2278.m3u8
+#EXTINF:-1,US: Epix | 1080
+http://ipfortv.com:25461/live/55555/55555/2279.m3u8
+#EXTINF:-1,US: FREEFORM - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2284.m3u8
+#EXTINF:-1,US: FUSE - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2285.m3u8
+#EXTINF:-1,US: FXM - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2286.m3u8
+#EXTINF:-1,US: GSN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2288.m3u8
+#EXTINF:-1,US: HLN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2290.m3u8
+#EXTINF:-1,US: IFC - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2291.m3u8
+#EXTINF:-1,US: NBC WEST | SD
+http://ipfortv.com:25461/live/55555/55555/2292.m3u8
+#EXTINF:-1,US: OXYGEN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2294.m3u8
+#EXTINF:-1,US: REELZ - LOCAL
+http://ipfortv.com:25461/live/55555/55555/2296.m3u8
+#EXTINF:-1,US: SPROUT ( Universal Kids ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2297.m3u8
+#EXTINF:-1,US: SUNDANCE - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2298.m3u8
+#EXTINF:-1,US: THE BLAZE | 720
+http://ipfortv.com:25461/live/55555/55555/2299.m3u8
+#EXTINF:-1,US: OUTER MAX | 720
+http://ipfortv.com:25461/live/55555/55555/2303.m3u8
+#EXTINF:-1,US: 5 STARMAX | 720
+http://ipfortv.com:25461/live/55555/55555/2304.m3u8
+#EXTINF:-1,US: TCM - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2308.m3u8
+#EXTINF:-1,US: WGN 9 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2309.m3u8
+#EXTINF:-1,US: California Music Channel | 720
+http://ipfortv.com:25461/live/55555/55555/2328.m3u8
+#EXTINF:-1,Music Choice | Best Videos
+http://ipfortv.com:25461/live/55555/55555/2329.m3u8
+#EXTINF:-1,US: QVC | SD
+http://ipfortv.com:25461/live/55555/55555/2330.m3u8
+#EXTINF:-1,US: Red Bull TV | 1080
+http://ipfortv.com:25461/live/55555/55555/2331.m3u8
+#EXTINF:-1,US: Country Network | SD
+http://ipfortv.com:25461/live/55555/55555/2332.m3u8
+#EXTINF:-1,Music Choice | MC Play
+http://ipfortv.com:25461/live/55555/55555/2422.m3u8
+#EXTINF:-1,Music Choice | Throwback Jams
+http://ipfortv.com:25461/live/55555/55555/2423.m3u8
+#EXTINF:-1,USA | BEIN SPORTS 10 HD
+http://ipfortv.com:25461/live/55555/55555/2424.m3u8
+#EXTINF:-1,USA | BEIN SPORTS 9 HD
+http://ipfortv.com:25461/live/55555/55555/2425.m3u8
+#EXTINF:-1,USA | BEIN SPORTS 8 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2426.m3u8
+#EXTINF:-1,USA | BEIN SPORTS 7 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2427.m3u8
+#EXTINF:-1,USA | BEIN SPORTS 6 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2428.m3u8
+#EXTINF:-1,USA | BEIN SPORTS 5 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2429.m3u8
+#EXTINF:-1,USA | BEIN SPORTS 4 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2430.m3u8
+#EXTINF:-1,USA | BEIN SPORTS 2 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2431.m3u8
+#EXTINF:-1,USA | BEIN SPORTS HD
+http://ipfortv.com:25461/live/55555/55555/2432.m3u8
+#EXTINF:-1,USA | BEIN SPORTS N - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2433.m3u8
+#EXTINF:-1,US: FANTASY SPORTS NETWORK | 1080
+http://ipfortv.com:25461/live/55555/55555/2435.m3u8
+#EXTINF:-1,US: FOX COLLEGE PACIFIC - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2436.m3u8
+#EXTINF:-1,US: FOX COLLEGE CENTRAL - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2437.m3u8
+#EXTINF:-1,US: FOX COLLEGE ATLANTIC - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2438.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTHWEST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2439.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTHEAST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2440.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTH - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2441.m3u8
+#EXTINF:-1,US: FOX SPORTS SAN DIEGO - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2442.m3u8
+#EXTINF:-1,US: FOX SPORTS PRIME TICKET - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2443.m3u8
+#EXTINF:-1,US: FOX SPORTS OHIO - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2444.m3u8
+#EXTINF:-1,US: FOX SPORTS NORTH - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2445.m3u8
+#EXTINF:-1,US: FOX SPORTS DETROIT - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2447.m3u8
+#EXTINF:-1,US: FOX SPORTS ARIZONA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2448.m3u8
+#EXTINF:-1,US: FOX SPORTS 2 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2449.m3u8
+#EXTINF:-1,US: BBC AMERICA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2450.m3u8
+#EXTINF:-1,US: CNBC WORLD - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2451.m3u8
+#EXTINF:-1,US: CW 11 | 720
+http://ipfortv.com:25461/live/55555/55555/2452.m3u8
+#EXTINF:-1,US: FOX SPORTS 1 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2562.m3u8
+#EXTINF:-1,US: LONGHORN NETWORK - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2564.m3u8
+#EXTINF:-1,US: NBC SPORTS BAY AREA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2565.m3u8
+#EXTINF:-1,US: NBC SPORTS BOSTON - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2566.m3u8
+#EXTINF:-1,US: NBC SPORTS CALIFORNIA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2567.m3u8
+#EXTINF:-1,US: NBC SPORTS CHICAGO - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2568.m3u8
+#EXTINF:-1,US: NBC SPORTS NORTHWEST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2569.m3u8
+#EXTINF:-1,US: OLYMPIC CHANNEL - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2571.m3u8
+#EXTINF:-1,US: PAC-12 MOUNTAIN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2572.m3u8
+#EXTINF:-1,US: TYC SPORTS - DIRECT
+http://ipfortv.com:25461/live/55555/55555/2573.m3u8
+#EXTINF:-1,US: NESN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3190.m3u8
+#EXTINF:-1,US: GOLF - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3191.m3u8
+#EXTINF:-1,US: FOX SPORTS WISCONSIN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3192.m3u8
+#EXTINF:-1,US: FOX SPORTS WEST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3193.m3u8
+#EXTINF:-1,US: FOX SPORTS SUN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3195.m3u8
+#EXTINF:-1,US: FOX SPORTS FLORIDA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3198.m3u8
+#EXTINF:-1,US: Fox Soccer Plus - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3200.m3u8
+#EXTINF:-1,US: FOX 4 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3202.m3u8
+#EXTINF:-1,US: TV ONE | 720
+http://ipfortv.com:25461/live/55555/55555/3205.m3u8
+#EXTINF:-1,US: REVOLT - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3211.m3u8
+#EXTINF:-1,US: POP - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3212.m3u8
+#EXTINF:-1,US: PBS KIDS | 720
+http://ipfortv.com:25461/live/55555/55555/3213.m3u8
+#EXTINF:-1,US: MTV LIVE | 1080
+http://ipfortv.com:25461/live/55555/55555/3214.m3u8
+#EXTINF:-1,US: HALLMARK MOVIES & MYSTERIES - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3217.m3u8
+#EXTINF:-1,US: FUSION - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3218.m3u8
+#EXTINF:-1,US: DISCOVERY FAMILY - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3220.m3u8
+#EXTINF:-1,US: CBSN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/3221.m3u8
+#EXTINF:-1,US: BET HER | 1080
+http://ipfortv.com:25461/live/55555/55555/3223.m3u8
+#EXTINF:-1,USA | Bein Sports 3
+http://ipfortv.com:25461/live/55555/55555/3325.m3u8
+#EXTINF:-1,USA | Bein Sports 11
+http://ipfortv.com:25461/live/55555/55555/3326.m3u8
+#EXTINF:-1,US: ANTENNA TV | SD
+http://ipfortv.com:25461/live/55555/55555/5125.m3u8
+#EXTINF:-1,US: ME TV | 720
+http://ipfortv.com:25461/live/55555/55555/5147.m3u8
+#EXTINF:-1,US: MSG | 720
+http://ipfortv.com:25461/live/55555/55555/5148.m3u8
+#EXTINF:-1,US: MovieMax | SD
+http://ipfortv.com:25461/live/55555/55555/5151.m3u8
+#EXTINF:-1,US: Movee4U Chicago | 720
+http://ipfortv.com:25461/live/55555/55555/5152.m3u8
+#EXTINF:-1,US: MY 9 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5153.m3u8
+#EXTINF:-1,US: KTVB CHANNEL 7 BOISE | SD
+http://ipfortv.com:25461/live/55555/55555/5159.m3u8
+#EXTINF:-1,US: WPIX 11 NY | 1080
+http://ipfortv.com:25461/live/55555/55555/5238.m3u8
+#EXTINF:-1,US: WBTV (Charlotte) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5244.m3u8
+#EXTINF:-1,US: Willow Cricket - LOCAL
+http://ipfortv.com:25461/live/55555/55555/5248.m3u8
+#EXTINF:-1,US: Univision Deportes |
+http://ipfortv.com:25461/live/55555/55555/5252.m3u8
+#EXTINF:-1,US: UNIVISION TDN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5253.m3u8
+#EXTINF:-1,US: UNIMAS - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5255.m3u8
+#EXTINF:-1,US: TELEMUNDO | 720
+http://ipfortv.com:25461/live/55555/55555/5260.m3u8
+#EXTINF:-1,US: Starz Edge West HD
+http://ipfortv.com:25461/live/55555/55555/5267.m3u8
+#EXTINF:-1,US: Starz Black HD
+http://ipfortv.com:25461/live/55555/55555/5270.m3u8
+#EXTINF:-1,US: SPORTSMAN CHANNEL | 720
+http://ipfortv.com:25461/live/55555/55555/5272.m3u8
+#EXTINF:-1,US: RetroPlex | SD
+http://ipfortv.com:25461/live/55555/55555/5274.m3u8
+#EXTINF:-1,US: PBS KIDS EAST | 720
+http://ipfortv.com:25461/live/55555/55555/5281.m3u8
+#EXTINF:-1,US: OUTDOOR CHANNEL | 720
+http://ipfortv.com:25461/live/55555/55555/5282.m3u8
+#EXTINF:-1,US: NAT GEO WILD - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5286.m3u8
+#EXTINF:-1,US: NBC 10 EAST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5287.m3u8
+#EXTINF:-1,US: NBC 11 NEWS (BAY AREA) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5290.m3u8
+#EXTINF:-1,US: NBC 4 D.C. - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5294.m3u8
+#EXTINF:-1,US: NBC 5 (WMAQ-TV) | 720
+http://ipfortv.com:25461/live/55555/55555/5295.m3u8
+#EXTINF:-1,US: NBC 4 LA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5302.m3u8
+#EXTINF:-1,US: NEWS 12 BROOKLYN - DIRECT
+http://ipfortv.com:25461/live/55555/55555/5309.m3u8
+#EXTINF:-1,US: NBCSN EPL Live Match 6 HD
+http://ipfortv.com:25461/live/55555/55555/5314.m3u8
+#EXTINF:-1,US: NBCSN EPL Live Match 5 HD
+http://ipfortv.com:25461/live/55555/55555/5315.m3u8
+#EXTINF:-1,US: NBCSN EPL Live Match 4 HD
+http://ipfortv.com:25461/live/55555/55555/5316.m3u8
+#EXTINF:-1,US: NBCSN EPL Live Match 3 HD
+http://ipfortv.com:25461/live/55555/55555/5317.m3u8
+#EXTINF:-1,US: NBCSN EPL Live Match 2 HD
+http://ipfortv.com:25461/live/55555/55555/5318.m3u8
+#EXTINF:-1,US: NBCSN EPL Live Match 11 HD
+http://ipfortv.com:25461/live/55555/55555/5319.m3u8
+#EXTINF:-1,US: NBCSN EPL Live Match 1 HD
+http://ipfortv.com:25461/live/55555/55555/5320.m3u8
+#EXTINF:-1,US: NBC GOLD MOSAIC
+http://ipfortv.com:25461/live/55555/55555/5328.m3u8
+#EXTINF:-1,Power 24/7
+http://ipfortv.com:25461/live/55555/55555/5947.m3u8
+#EXTINF:-1,US: NBC GOLD 7 | 720
+http://ipfortv.com:25461/live/55555/55555/6857.m3u8
+#EXTINF:-1,US: NBC GOLD 6 | 720
+http://ipfortv.com:25461/live/55555/55555/6858.m3u8
+#EXTINF:-1,US: NBC GOLD 5 | 720
+http://ipfortv.com:25461/live/55555/55555/6859.m3u8
+#EXTINF:-1,US: PAC-12 NATIONAL | HD
+http://ipfortv.com:25461/live/55555/55555/6860.m3u8
+#EXTINF:-1,US: STARZ KIDS & FAMILY | HD
+http://ipfortv.com:25461/live/55555/55555/6868.m3u8
+#EXTINF:-1,US: NEWS 12 (Westchester) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6871.m3u8
+#EXTINF:-1,US: NEWS 12 (The Bronx) | NEWS ONLY - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6872.m3u8
+#EXTINF:-1,US: NEWS 12 (New Jersey) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6873.m3u8
+#EXTINF:-1,US: NEWS 12 (Long Island) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6874.m3u8
+#EXTINF:-1,US: NEWS 12 (Hudson Valley) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6875.m3u8
+#EXTINF:-1,US: NEWS 12 (Connecticut) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6876.m3u8
+#EXTINF:-1,US: MIRACLE CHANNEL | SD
+http://ipfortv.com:25461/live/55555/55555/6883.m3u8
+#EXTINF:-1,US: FOX 13 SEATTLE - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6884.m3u8
+#EXTINF:-1,US: FOX 5 PLUS (Washington DC) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6890.m3u8
+#EXTINF:-1,US: FOX 25 (BOSTON) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6891.m3u8
+#EXTINF:-1,US: FOX 10 (Phoenix) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6893.m3u8
+#EXTINF:-1,US: FAITHLIFE | 720
+http://ipfortv.com:25461/live/55555/55555/6894.m3u8
+#EXTINF:-1,US: CW PHILLY | 720
+http://ipfortv.com:25461/live/55555/55555/6897.m3u8
+#EXTINF:-1,US: CORNERSTONE | SD
+http://ipfortv.com:25461/live/55555/55555/6899.m3u8
+#EXTINF:-1,US: CNN INTERNATIONAL - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6900.m3u8
+#EXTINF:-1,US: CBS 4 (WBZ BOSTON) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6905.m3u8
+#EXTINF:-1,US: AXS TV | 720
+http://ipfortv.com:25461/live/55555/55555/6908.m3u8
+#EXTINF:-1,US: ABC 9 WFTV (ORLANDO) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6912.m3u8
+#EXTINF:-1,US: ABC 7 (CHICAGO) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/6915.m3u8
+#EXTINF:-1,Music Choice | Kids Only
+http://ipfortv.com:25461/live/55555/55555/6979.m3u8
+#EXTINF:-1,AL: Super Sport Kosova 1
+http://ipfortv.com:25461/live/55555/55555/7230.m3u8
+#EXTINF:-1,AL: Super Sport Kosova 2
+http://ipfortv.com:25461/live/55555/55555/7231.m3u8
+#EXTINF:-1,US: Comet TV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/7240.m3u8
+#EXTINF:-1,US: Classic TV | 1080
+http://ipfortv.com:25461/live/55555/55555/7241.m3u8
+#EXTINF:-1,US: STARZ COMEDY
+http://ipfortv.com:25461/live/55555/55555/7242.m3u8
+#EXTINF:-1,US: ESPN | 720
+http://ipfortv.com:25461/live/55555/55555/7444.m3u8
+#EXTINF:-1,US: Atlanta Channel | 720
+http://ipfortv.com:25461/live/55555/55555/7447.m3u8
+#EXTINF:-1,US: FX - DIRECT
+http://ipfortv.com:25461/live/55555/55555/7451.m3u8
+#EXTINF:-1,US: HGTV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/7458.m3u8
+#EXTINF:-1,The Cosby Show | 24/7
+http://ipfortv.com:25461/live/55555/55555/7789.m3u8
+#EXTINF:-1,US: The Cowboy Channel | SD
+http://ipfortv.com:25461/live/55555/55555/7825.m3u8
+#EXTINF:-1,S.H.I.E.L.D. | 24/7
+http://ipfortv.com:25461/live/55555/55555/8106.m3u8
+#EXTINF:-1,Westworld | 24/7
+http://ipfortv.com:25461/live/55555/55555/8127.m3u8
+#EXTINF:-1,Sanford & Son | 24/7
+http://ipfortv.com:25461/live/55555/55555/8163.m3u8
+#EXTINF:-1,Marvels Cloak and Dagger | 24/7
+http://ipfortv.com:25461/live/55555/55555/9193.m3u8
+#EXTINF:-1,Impulse | 24/7
+http://ipfortv.com:25461/live/55555/55555/9195.m3u8
+#EXTINF:-1,Robert De Niro | 24/7
+http://ipfortv.com:25461/live/55555/55555/9198.m3u8
+#EXTINF:-1,Deception | 24/7
+http://ipfortv.com:25461/live/55555/55555/9218.m3u8
+#EXTINF:-1,US: AMERICAN HERO - DIRECT
+http://ipfortv.com:25461/live/55555/55555/9256.m3u8
+#EXTINF:-1,US: ANIMAL PLANET (East) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/9257.m3u8
+#EXTINF:-1,US: COZI TV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/9259.m3u8
+#EXTINF:-1,US: FOX 29 Philly | SD
+http://ipfortv.com:25461/live/55555/55555/9260.m3u8
+#EXTINF:-1,Tom Hanks | 24/7
+http://ipfortv.com:25461/live/55555/55555/9264.m3u8
+#EXTINF:-1,Bleach S01 - S04 | 24/7
+http://ipfortv.com:25461/live/55555/55555/9462.m3u8
+#EXTINF:-1,11.22.63 | 24/7
+http://ipfortv.com:25461/live/55555/55555/9471.m3u8
+#EXTINF:-1,Bobs Burgers | 24/7
+http://ipfortv.com:25461/live/55555/55555/9703.m3u8
+#EXTINF:-1,Law And Order: SVU | 24/7
+http://ipfortv.com:25461/live/55555/55555/9881.m3u8
+#EXTINF:-1,US: ABC 8 (Dallas) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/10058.m3u8
+#EXTINF:-1,US: ABC 7 (NYC) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/10061.m3u8
+#EXTINF:-1,US: ABC 12 (San Antonio) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/10066.m3u8
+#EXTINF:-1,US: ABC 7 (Los Angeles) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/10074.m3u8
+#EXTINF:-1,Bahama Blue | 24/7
+http://ipfortv.com:25461/live/55555/55555/10086.m3u8
+#EXTINF:-1,US: KTLA 5
+http://ipfortv.com:25461/live/55555/55555/10600.m3u8
+#EXTINF:-1,Pirates of the Caribbean | 24/7
+http://ipfortv.com:25461/live/55555/55555/10844.m3u8
+#EXTINF:-1,All in the Family | 24/7
+http://ipfortv.com:25461/live/55555/55555/10970.m3u8
+#EXTINF:-1,###### PAY PER VIEW CHANNEL LIST ######
+http://ipfortv.com:25461/live/55555/55555/12371.m3u8
+#EXTINF:-1,US: ABC 10 (Miami) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13706.m3u8
+#EXTINF:-1,US: ABC 5 (Cleveland) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13707.m3u8
+#EXTINF:-1,US: BABY TV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13708.m3u8
+#EXTINF:-1,US: BET - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13709.m3u8
+#EXTINF:-1,US: BET JAMZ - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13712.m3u8
+#EXTINF:-1,US: CBS 11 (Dallas) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13714.m3u8
+#EXTINF:-1,US: CBS 13 (Baltimore) | 720
+http://ipfortv.com:25461/live/55555/55555/13715.m3u8
+#EXTINF:-1,US: CBS 2/9 (Los Angeles) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13716.m3u8
+#EXTINF:-1,US: CBS 4 (Miami) | 720
+http://ipfortv.com:25461/live/55555/55555/13717.m3u8
+#EXTINF:-1,US: CBS 46 (Atlanta) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13718.m3u8
+#EXTINF:-1,US: CINEMAX OUTERMAX
+http://ipfortv.com:25461/live/55555/55555/13719.m3u8
+#EXTINF:-1,US: FOX 11 (Los Angeles) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13720.m3u8
+#EXTINF:-1,US: FOX 13 (Salt Lake City) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13721.m3u8
+#EXTINF:-1,US: FOX 29 (Philly) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13722.m3u8
+#EXTINF:-1,FOX 4 (Dallas) | 720
+http://ipfortv.com:25461/live/55555/55555/13723.m3u8
+#EXTINF:-1,US: FOX 7 (Miami) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13724.m3u8
+#EXTINF:-1,US: GRIT TV | LOOPING
+http://ipfortv.com:25461/live/55555/55555/13725.m3u8
+#EXTINF:-1,US: HALLMARK DRAMA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13726.m3u8
+#EXTINF:-1,US: NBC 12 (Phoenix) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13728.m3u8
+#EXTINF:-1,US: NBC 11 (Atlanta) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13729.m3u8
+#EXTINF:-1,US: NBC 5 (Dallas) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13730.m3u8
+#EXTINF:-1,US: SNY - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13732.m3u8
+#EXTINF:-1,US: CNN | 1080
+http://ipfortv.com:25461/live/55555/55555/13733.m3u8
+#EXTINF:-1,US: NBCSN WASHINGTON - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13909.m3u8
+#EXTINF:-1,US: FOX SPORTS INDIANA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13911.m3u8
+#EXTINF:-1,US: FOX SPORTS KANSAS CITY - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13912.m3u8
+#EXTINF:-1,US: FOX 12 ( Portland, OR ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13913.m3u8
+#EXTINF:-1,US: FOX 2 ( St. Louis ) | 720
+http://ipfortv.com:25461/live/55555/55555/13914.m3u8
+#EXTINF:-1,US: FOX 29 ( San Antonio, TX ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13915.m3u8
+#EXTINF:-1,US: FOX 31 ( Denver, CO ) | 720
+http://ipfortv.com:25461/live/55555/55555/13916.m3u8
+#EXTINF:-1,US: FOX 50 ( Raleigh, NC ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13919.m3u8
+#EXTINF:-1,US: FOX 53 ( Pittsburg, PA ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13920.m3u8
+#EXTINF:-1,US: FOX 6 ( Milwaukee, WI ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13921.m3u8
+#EXTINF:-1,US: FOX 7 ( Austin, TX ) | 720
+http://ipfortv.com:25461/live/55555/55555/13922.m3u8
+#EXTINF:-1,US: FOX 8 ( New Orleans, LA ) | 720
+http://ipfortv.com:25461/live/55555/55555/13923.m3u8
+#EXTINF:-1,US: FOX 5 ( New York ) | 720
+http://ipfortv.com:25461/live/55555/55555/13924.m3u8
+#EXTINF:-1,US: FOX 46 ( Charlotte, NC ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13925.m3u8
+#EXTINF:-1,US: FOX 32 ( Chicago, IL ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13926.m3u8
+#EXTINF:-1,US: FOX 2 ( Detroit ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13927.m3u8
+#EXTINF:-1,US: GOAL LINE - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13928.m3u8
+#EXTINF:-1,US: EPIX HITS - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13929.m3u8
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 5 | 720
+http://ipfortv.com:25461/live/55555/55555/13930.m3u8
+#EXTINF:-1,US: DISNEY XD WEST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13931.m3u8
+#EXTINF:-1,US: DISNEY JR (West) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13932.m3u8
+#EXTINF:-1,US: DISNEY CHANNEL (West) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13933.m3u8
+#EXTINF:-1,US: DISCOVERY CHANNEL WEST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13934.m3u8
+#EXTINF:-1,US: NBCSN PHILADELPHIA+ | 720
+http://ipfortv.com:25461/live/55555/55555/13937.m3u8
+#EXTINF:-1,US: NBCSN NORTHWEST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13938.m3u8
+#EXTINF:-1,US: CINEMAX (West) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13939.m3u8
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 6 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13940.m3u8
+#EXTINF:-1,US: FOX BUSINESS NETWORK - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13941.m3u8
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 4 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13942.m3u8
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 3 | 720
+http://ipfortv.com:25461/live/55555/55555/13943.m3u8
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 2 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13944.m3u8
+#EXTINF:-1,US: ESPN COLLEGE EXTRA 1 - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13945.m3u8
+#EXTINF:-1,US: FOX SPORTS ATLANTA | 720
+http://ipfortv.com:25461/live/55555/55555/13946.m3u8
+#EXTINF:-1,US: FOX 9 ( Minneapolis ) | 720
+http://ipfortv.com:25461/live/55555/55555/13947.m3u8
+#EXTINF:-1,US: FOX SPORTS SPORTSTIME OHIO - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13949.m3u8
+#EXTINF:-1,US: FOX SPORTS SOUTHWEST PLUS - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13950.m3u8
+#EXTINF:-1,US: FOX SPORTS NET - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13951.m3u8
+#EXTINF:-1,US: FOX SPORTS TENNESSEE - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13952.m3u8
+#EXTINF:-1,US: NBC 4 ( Detroit, MI ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13953.m3u8
+#EXTINF:-1,US: MSG2 | 720
+http://ipfortv.com:25461/live/55555/55555/13954.m3u8
+#EXTINF:-1,US: MSG+2 | 720
+http://ipfortv.com:25461/live/55555/55555/13955.m3u8
+#EXTINF:-1,US: MSG+ | 720
+http://ipfortv.com:25461/live/55555/55555/13956.m3u8
+#EXTINF:-1,US: MLB STRIKE ZONE - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13957.m3u8
+#EXTINF:-1,US: LOGO - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13958.m3u8
+#EXTINF:-1,US: NBC 5 ( Cincinnati, OH ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13959.m3u8
+#EXTINF:-1,US: NBC 6 ( New Orleans ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13964.m3u8
+#EXTINF:-1,US: NBC 2 ( Orlando ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13966.m3u8
+#EXTINF:-1,US: NBC 2 ( Buffalo, NY ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13967.m3u8
+#EXTINF:-1,US: OXYGEN WEST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13968.m3u8
+#EXTINF:-1,US: NAT GEO ( WEST ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13969.m3u8
+#EXTINF:-1,US: MY65 ( Orlando ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13970.m3u8
+#EXTINF:-1,US: MY20 ( Huston ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13971.m3u8
+#EXTINF:-1,US: MY13 ( Los Angeles ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13972.m3u8
+#EXTINF:-1,US: HGTV ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13974.m3u8
+#EXTINF:-1,US: FXX WEST - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13975.m3u8
+#EXTINF:-1,US: INSP - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13976.m3u8
+#EXTINF:-1,US: NBC 6 ( Miami, FL ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13978.m3u8
+#EXTINF:-1,US: PEOPLE TV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13979.m3u8
+#EXTINF:-1,US: OUTSIDE TV - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13980.m3u8
+#EXTINF:-1,US: NFL REDZONE | 720
+http://ipfortv.com:25461/live/55555/55555/13981.m3u8
+#EXTINF:-1,US: KTVU PLUS - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13983.m3u8
+#EXTINF:-1,US: SONY MOVIE CHANNEL - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13990.m3u8
+#EXTINF:-1,US: SYFY ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13991.m3u8
+#EXTINF:-1,US: TELEMUNDO ( Chicago ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13993.m3u8
+#EXTINF:-1,US: TELEMUNDO 52 ( Los Angeles ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13994.m3u8
+#EXTINF:-1,US: TELEMUNDO ( Miami ) | 720
+http://ipfortv.com:25461/live/55555/55555/13995.m3u8
+#EXTINF:-1,US: TELEMUNDO ( New York ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13996.m3u8
+#EXTINF:-1,US: TELEMUNDO ( Las Vegas ) | 720
+http://ipfortv.com:25461/live/55555/55555/13997.m3u8
+#EXTINF:-1,US: NBC 11 ( Minneapolis ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/13999.m3u8
+#EXTINF:-1,US: NBC 12 ( Milwaukee ) | 720
+http://ipfortv.com:25461/live/55555/55555/14000.m3u8
+#EXTINF:-1,US: NBC 13 ( Indianapolis ) | 720
+http://ipfortv.com:25461/live/55555/55555/14001.m3u8
+#EXTINF:-1,US: NBC 26 ( Green Bay ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14002.m3u8
+#EXTINF:-1,US: TBS ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14003.m3u8
+#EXTINF:-1,US: TLC ( West ) | 720
+http://ipfortv.com:25461/live/55555/55555/14004.m3u8
+#EXTINF:-1,US: TNT ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14005.m3u8
+#EXTINF:-1,US: TRAVEL CHANNEL ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14006.m3u8
+#EXTINF:-1,US: TRU TV ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14007.m3u8
+#EXTINF:-1,US: USA NETWORK ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14008.m3u8
+#EXTINF:-1,US: SMITHSONIAN CHANNEL - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14009.m3u8
+#EXTINF:-1,US: HBO ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14010.m3u8
+#EXTINF:-1,US: FX ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14011.m3u8
+#EXTINF:-1,US: FREEFORM ( West ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14012.m3u8
+#EXTINF:-1,US: CHEDDAR - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14013.m3u8
+#EXTINF:-1,US: NBCSN PHILADELPHIA - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14014.m3u8
+#EXTINF:-1,US: CBS 7 ( Seattle, WA ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14015.m3u8
+#EXTINF:-1,US: FOX 8 ( Cleaveland, OH ) | 720
+http://ipfortv.com:25461/live/55555/55555/14016.m3u8
+#EXTINF:-1,US: FOX 29 ( Buffalo, NY ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14017.m3u8
+#EXTINF:-1,US: NBC 4 ( New York ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14019.m3u8
+#EXTINF:-1,US: NBC 17 ( Raleigh, NC ) | 720
+http://ipfortv.com:25461/live/55555/55555/14020.m3u8
+#EXTINF:-1,US: NBC 10 ( Boston ) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/14022.m3u8
+#EXTINF:-1,US: KCAL 9 ( Los Angeles ) | 720
+http://ipfortv.com:25461/live/55555/55555/14023.m3u8
+#EXTINF:-1,US: STARZ ENCORE WESTERNS | 720
+http://ipfortv.com:25461/live/55555/55555/14024.m3u8
+#EXTINF:-1,US: Cinema 41 PPV -
+http://ipfortv.com:25461/live/55555/55555/14026.m3u8
+#EXTINF:-1,US: Cinema 40 PPV - Mortal Engines
+http://ipfortv.com:25461/live/55555/55555/14027.m3u8
+#EXTINF:-1,US: Cinema 39 PPV - Aquaman
+http://ipfortv.com:25461/live/55555/55555/14028.m3u8
+#EXTINF:-1,US: Cinema 38 PPV - LEGO Movie 2: The Second Part
+http://ipfortv.com:25461/live/55555/55555/14029.m3u8
+#EXTINF:-1,US: Cinema 36 PPV - The Hard Way
+http://ipfortv.com:25461/live/55555/55555/14031.m3u8
+#EXTINF:-1,US: Cinema 35 PPV -
+http://ipfortv.com:25461/live/55555/55555/14032.m3u8
+#EXTINF:-1,US: Cinema 34 PPV -
+http://ipfortv.com:25461/live/55555/55555/14033.m3u8
+#EXTINF:-1,US: Cinema 33 PPV - Finding Steve McQueen
+http://ipfortv.com:25461/live/55555/55555/14034.m3u8
+#EXTINF:-1,US: Cinema 32 PPV - Abduction
+http://ipfortv.com:25461/live/55555/55555/14035.m3u8
+#EXTINF:-1,US: Cinema 31 PPV -
+http://ipfortv.com:25461/live/55555/55555/14036.m3u8
+#EXTINF:-1,US: Cinema 30 PPV - Never Grow Old
+http://ipfortv.com:25461/live/55555/55555/14037.m3u8
+#EXTINF:-1,US: Cinema 29 PPV - Dragged Across
+http://ipfortv.com:25461/live/55555/55555/14038.m3u8
+#EXTINF:-1,US: Cinema 28 PPV - Abduction
+http://ipfortv.com:25461/live/55555/55555/14039.m3u8
+#EXTINF:-1,US: Cinema 27 PPV - 1st Summoning
+http://ipfortv.com:25461/live/55555/55555/14040.m3u8
+#EXTINF:-1,US: Cinema 26 PPV - Welcome to Marwen
+http://ipfortv.com:25461/live/55555/55555/14041.m3u8
+#EXTINF:-1,US: Cinema 25 PPV - Bladerunner 2049
+http://ipfortv.com:25461/live/55555/55555/14042.m3u8
+#EXTINF:-1,US: Cinema 24 PPV - Out of Blue
+http://ipfortv.com:25461/live/55555/55555/14043.m3u8
+#EXTINF:-1,US: Cinema 23 PPV - On The Basis Of Sex
+http://ipfortv.com:25461/live/55555/55555/14044.m3u8
+#EXTINF:-1,US: Cinema 22 PPV - Bladerunner 2049
+http://ipfortv.com:25461/live/55555/55555/14045.m3u8
+#EXTINF:-1,US: Cinema 21 PPV - Nancy Drew and the Hidden Staircase
+http://ipfortv.com:25461/live/55555/55555/14046.m3u8
+#EXTINF:-1,US: Cinema 20 PPV - Survivorman
+http://ipfortv.com:25461/live/55555/55555/14047.m3u8
+#EXTINF:-1,US: Cinema 19 PPV - Easterland
+http://ipfortv.com:25461/live/55555/55555/14048.m3u8
+#EXTINF:-1,US: Cinema 18 PPV - A Dogs Way Home
+http://ipfortv.com:25461/live/55555/55555/14049.m3u8
+#EXTINF:-1,US: Cinema 17 PPV - Justice League vs The Fatal Five
+http://ipfortv.com:25461/live/55555/55555/14050.m3u8
+#EXTINF:-1,US: Cinema 16 PPV - How to Train Your Dragon 3
+http://ipfortv.com:25461/live/55555/55555/14051.m3u8
+#EXTINF:-1,US: Cinema 15 PPV - Bug War 2
+http://ipfortv.com:25461/live/55555/55555/14052.m3u8
+#EXTINF:-1,US: Cinema 14 PPV - Escape Room
+http://ipfortv.com:25461/live/55555/55555/14053.m3u8
+#EXTINF:-1,US: Cinema 13 PPV - Glass
+http://ipfortv.com:25461/live/55555/55555/14054.m3u8
+#EXTINF:-1,US: Cinema 12 PPV - The Kid Who Would be King
+http://ipfortv.com:25461/live/55555/55555/14055.m3u8
+#EXTINF:-1,US: Cinema 10 PPV - Destroyer
+http://ipfortv.com:25461/live/55555/55555/14057.m3u8
+#EXTINF:-1,US: Cinema 09 PPV - The Legend of Cocaine Island
+http://ipfortv.com:25461/live/55555/55555/14058.m3u8
+#EXTINF:-1,US: Cinema 08 PPV - The Head Hunter
+http://ipfortv.com:25461/live/55555/55555/14059.m3u8
+#EXTINF:-1,US: Cinema 07 PPV - The Silence
+http://ipfortv.com:25461/live/55555/55555/14060.m3u8
+#EXTINF:-1,US: Cinema 06 PPV - The Upside
+http://ipfortv.com:25461/live/55555/55555/14061.m3u8
+#EXTINF:-1,US: Cinema 05 PPV - Bumblebee
+http://ipfortv.com:25461/live/55555/55555/14062.m3u8
+#EXTINF:-1,US: Cinema 04 PPV - Triple Frontier
+http://ipfortv.com:25461/live/55555/55555/14063.m3u8
+#EXTINF:-1,US: Cinema 03 PPV - Triple Frontier
+http://ipfortv.com:25461/live/55555/55555/14064.m3u8
+#EXTINF:-1,US: Cinema 02 PPV - Vice
+http://ipfortv.com:25461/live/55555/55555/14065.m3u8
+#EXTINF:-1,US: Cinema 01 PPV - Hunter Killer
+http://ipfortv.com:25461/live/55555/55555/14066.m3u8
+#EXTINF:-1,US: WDAM MS News Now 3 - Hattiesburg
+http://ipfortv.com:25461/live/55555/55555/18498.m3u8
+#EXTINF:-1,US: WTVA News 9 - Tupelo
+http://ipfortv.com:25461/live/55555/55555/18499.m3u8
+#EXTINF:-1,US: NBC 3 (Cleveland) - DIRECT
+http://ipfortv.com:25461/live/55555/55555/18500.m3u8
