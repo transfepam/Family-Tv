@@ -1,446 +1,1388 @@
 
-@@ -USA
-#EXTM3U
-http://client-proiptv.com:8080/get.php?username=EX-KINGiptvPKf&password=Gyh4AZD064gOIf58F&type=m3u
- #EXTINF
-http://123iptv.nl:88/get.php?username=p6QIv0O94I&password=9oe5AVwKGP&type=m3u
- #EXTINF
-http://barakatiptv.com/get.php?username=JC65XhKF5j&password=gG1rNsDNGf&type=m3u
- #EXTINF
-http://livegopanel.club:8080/get.php?username=EX-KINGiptvPKf&password=Gyh4AZD064gOIf58F&type=m3u
- #EXTINF
-http://195.154.26.166:8000/get.php?username=OyqFnMDC2H&password=JFCfX3pMEw&type=m3u
- #EXTINF
-http://source.vision-new.org:5000/get.php?username=sourcepanel1esp-port&password=4rWQD7FypY&type=m3u
- #EXTINF
-http://w.bs-share.com:8000/get.php?username=bs&password=524470739&type=m3u
- #EXTINF
-http://144.76.76.113:8000/get.php?username=Stalker&password=0mJcEm3USC&type=m3u
- #EXTINF
-http://peer1.blogdns.com:8000/get.php?username=Stalker&password=0mJcEm3USC&type=m3u
- #EXTINF
-http://line.protv.cc:8000/get.php?username=tNxE4rdouh&password=ttqs53nnsu&type=m3u
- #EXTINF
-http://185.180.221.217:2082/get.php?username=4lkjlksd_hlhjfklsdfdfd&password=6OoVFXJeKU&type=m3u
- #EXTINF
-http://p1.g6iptv.com:9000/get.php?username=all-local&password=local&type=m3u
- #EXTINF
-http://tekoiptv.ch:8000/get.php?username=M:i:N:i:S:t:R:a&password=M:a:G_M:i_N:i_S:t_R:a&type=m3u
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=arabic&password=arabic&type=m3u
- #EXTINF
-http://maxptv.ddns.net:25461/get.php?username=jess&password=jess&type=m3u
- #EXTINF
-http://magnum-ott.net:80/get.php?username=mehdi10&password=10mehdi&type=m3u
- #EXTINF
-http://skyhd-iptv.com:8000/get.php?username=GBCMTzZT2w&password=pw2x9CD73o&type=m3u
- #EXTINF
-http://iptv.kosiptv.com:1557/get.php?username=9Y9iNJfeJS&password=dAJDT8sjEW&type=m3u
- #EXTINF
-http://magnum-ott.net:80/get.php?username=mere1&password=1mere&type=m3u
- #EXTINF
-http://magnum-ott.net:80/get.php?username=sadek1&password=1sadek&type=m3u
- #EXTINF
-http://nitro.ltd:25461/get.php?username=Harmon&password=Harmon&type=m3u
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=Fcp5bURSun&password=8GSQ8ufnRR&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=4DjPxlW89z&password=GNXhUSoeEy&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=r1OyjLyh8c&password=4JyiX2u9jn&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=iEFLhxUU4g&password=TpSfWjhXn0&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=x282yB4JVg&password=kuc8496Yk9&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=2l0t9CGV6S&password=7sBDmN8M5m&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=UEpJcs88VA&password=UU5Wmz4BDD&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=2XybgcDSdg&password=Ltm2H3HWMw&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=Kpoefwr72j&password=0h2eNTC8Rl&type=m3u
- #EXTINF
-htt#EXTINFp://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=ku8oWDamQb&password=QfO6fgBjx3&type=m3u_plus
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=cIKU7C6V1g&password=Q8XD6VgFii&type=m3u_plus
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=h4j1dNVpN94&password=KnmUvs11&type=m3u_plus
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=huys1&password=4QSz2D32&type=m3u
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=adams&password=8WHvRZ&type=m3u
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=Xlq5QauY9A266&password=8IddMf160&type=m3u_plus
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=e5VSVgUYRA&password=nGeuVdLwOe&type=m3u
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=w7O4l7u90&password=zmenFy90&type=m3u
- #EXTINF
-http://iptv4k.ddns.net:8000/get.php?username=2rt&password=Hpe3kx4ptc&type=m3u
- #EXTINF
-http://force102.com:8080/get.php?username=muharrem2020&password=2020muharrem&type=m3u
- #EXTINF
-http://euroiptv.livehdtv.xyz:8000/get.php?username=azetm5&password=Ajmatmgtja7d3Gs&type=m3u
- #EXTINF
-http://nitro.ltd:25461/get.php?username=Jeremy1&password=Jeremy1&type=m3u
- #EXTINF
-http://line.protv.cc:8000/get.php?username=Masoud&password=12345678&type=m3u
- #EXTINF
-http://video.bossna-caffe.com:80/playlist?type=m3u&deviceUser=tomas&devicePass=tomas
- #EXTINF
-http://89.187.181.233:25461/get.php?username=edward&password=edward&type=m3u
- #EXTINF
-http://uzmanhd.com:8000/get.php?username=59XKxrzpHK&password=U63Rk1iC3E&type=m3u
- #EXTINF
-http://uzmanhd.com:8000/get.php?username=zLTSCIZNXz&password=He1WQcqdnG&type=m3u
- #EXTINF
-http://nitro.ltd:25461/get.php?username=ms&password=ms&type=m3u
- #EXTINF
-http://163.172.43.26:8000/get.php?username=SPAINGENERAL&password=wvuqJKSLtP&type=m3u
- #EXTINF
-http://78.46.47.220:8000/get.php?username=vA4HQYOvfD&password=a0o8HGxseG&type=m3u
- #EXTINF
-http://www.jadobox.eu:8000/get.php?username=cHgWr9nXJl&password=uIOszNsXJm&type=m3u
- #EXTINF
-http://line.protv.cc:8000/get.php?username=8HOQR9JWSj&password=xFuL4uLpru&type=m3u
- #EXTINF
-http://enndy.live:2015/get.php?username=okan&password=10052019&type=m3u
- #EXTINF
-http://iptvpro.vision-new.org:8789/get.php?username=Uxm5p0AhMm&password=zvjHhpZsjA&type=m3u
- #EXTINF
-http://185.53.162.140:2015/get.php?username=okan&password=10052019&type=m3u
- #EXTINF
-http://iptv4.premium-stv.com:8000/get.php?username=sourcenederlandpro2&password=78yMD3GHxY&type=m3u
- #EXTINF
-http://bdmsat.com:25461/get.php?username=canak&password=1234&type=m3u
- #EXTINF
-http://medyabox2.zapto.org:8000/get.php?username=Stream_kurdo_stal&password=hdgd548ytgd&type=m3u
- #EXTINF
-http://bdmsat.com:25461/get.php?username=doga&password=1234&type=m3u
- #EXTINF
-http://bdmsat.com:25461/get.php?username=ergun&password=12345&type=m3u
- #EXTINF
-http://bdmsat.com:25461/get.php?username=savas&password=12345&type=m3u
- #EXTINF
-http://ummodigital.com:8000/get.php?username=jorge1&password=jorge1&type=m3u
- #EXTINF
-http://tv12345.ddns.net:25461/get.php?username=bill&password=bill&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=2wjWqlGwGV&password=vX6Ph5mf4X&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=HmLLDfO2lN&password=ZDcb0hCBmv&type=m3u
- #EXTINF
-http://line.dynoconnect.me:8000/get.php?username=OyqFnMDC2H&password=JFCfX3pMEw&type=m3u
- #EXTINF
-http://tv.fast-iptv.info:12974/get.php?username=kqXw0OC9zM&password=EJdkVNX14Y&type=m3u
- #EXTINF
-http://okip.poio.kim:8080/get.php?username=A123&password=A1234&type=m3u
- #EXTINF
-http://tv.nova-iptv.com:25461/get.php?username=XGXAnVd6Xa&password=3WSQudr45z&type=m3u
- #EXTINF
-http://iptv.cline.in:80/get.php?username=Kevin&password=Kevin&type=m3u
- #EXTINF
-http://kanali.ddns.net:25461/get.php?username=tvfrance&password=tvfrance&type=m3u
- #EXTINF
-http://okip.poio.ws:8080/get.php?username=a123&password=a1234&type=m3u
- #EXTINF
-http://temporary.one/get.php?username=goodwin&password=goodwin123&type=m3u
- #EXTINF
-http://45.90.104.30:8000/get.php?username=IcRLwVd77W&password=08vGFaCWoa&type=m3u
- #EXTINF
-http://163.172.19.113:8080/get.php?username=a123&password=a1234&type=m3u
- #EXTINF
-http://37.221.168.74:25461/get.php?username=tvfrance&password=tvfrance&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=YeSiLcAm-FiLmLeR-QRz3SCjthZ&password=tLj5aTcxcB5qvurLSrYaXW3rS&type=m3u
- #EXTINF
-http://145.239.244.21:25461/get.php?username=MUM-HD&password=9tldAkqZwY&type=m3u
- #EXTINF
-http://streamsmax.eu:8080/get.php?username=JAYKHANVOD&password=IIyrTwNovI&type=m3u
- #EXTINF
-http://xcasting.mine.nu:29321/get.php?username=xcasting&password=j5W7E5gqkz&type=m3u
- #EXTINF
-http://46.166.148.163:8000/get.php?username=sU8ZqnRMrK&password=0DEFq9dr4e&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=t1BW2MsonF&password=1W8e4YB0Rl&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=OoPLUjklBA&password=mVGkUxFYTE&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=HJ4v0QBXi4&password=1NrSEsV36k&type=m3u
- #EXTINF
-http://46.166.148.101:8000/get.php?username=OoPLUjklBA&password=mVGkUxFYTE&type=m3u
- #EXTINF
-http://54.37.84.64:29321/get.php?username=xcasting&password=j5W7E5gqkz&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=TaLkShOw_YaRISmA-tHAAChhn2z&password=PAzh4MnR5ZGLVp9vRLxugfpJD&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=DiZi.HaFtaLIK.HePsI-HTRKhePmYp&password=FGp7V8Ug39sduHrFBzWkFsM3Y&type=m3u
- #EXTINF
-http#://iptvflix.net:8080/get.php?username=AnImAsYoN-TR-8vDgfhmv6L&password=E6W7L43FrVzT8VmtDyJNrdJhR&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=Tv_PrOgRaMlArI-P4wU67KcY3z5CQkC4ALX&password=PSr8SFwyqtGxYJerHje3LNjXMdtFNn&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=TR-FiNaL-DiZiLer-uxZgdgMHzQDgjELL5FjD&password=uv6BrE4EeaHFbMzEVq8xgqZ4qenAyG&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=DE-SeRiEn-DeUtScH-ut5EBt6dP3&password=k4U3mk6aAczPhFWufV2ewjdPq&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=y0P5bMlTSU&password=fMtrdHsTKt&type=m3u
- #EXTINF
-http://151.80.100.155:25443/get.php?username=vodall&password=vrIzSCaxGN&type=m3u_plus
- #EXTINF
-http://qyshdush.dyndns.info:5500/get.php?username=atv1&password=8888&type=m3u_plus
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=movies&password=movies&type=m3u_plus
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=pakistan&password=pakistan&type=m3u_plus
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=indian&password=indian&type=m3u_plus
- #EXTINF
-http://kanali.ddns.net:25461/get.php?username=tvdeutsch&password=tvdeutsch&type=m3u_plus
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=afghan&password=afghan&type=m3u_plus
- #EXTINF
-http://mytv.fun:8080/get.php?username=7w3qem1rh&password=dfzrfyj0or&type=m3u
- #EXTINF
-http://ok2.se:80/get.php?username=lCzvrbIuvo&password=MFuPssSB1N&type=m3u
- #EXTINF
-http://worldiptv.me:8080/get.php?username=Sylvia&password=Sylvia123&type=m3u
- #EXTINF
-http://ip.clientmarket.top:8080/get.php?username=test&password=test&type=m3u
- #EXTINF
-http://borg.hopto.org:80/get.php?username=mostar&password=mostar&type=m3u
- #EXTINF
-http://buyiptv.live:25461/get.php?username=tRDtym0PmU&password=VJGJc5Hj2G&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=jJotmR0w9j&password=z8SwP1Lc7H&type=m3u
- #EXTINF
-http://www.hdboxtv.net:8000/get.php?username=38faca72a091&password=38faca72a091&type=m3u
- #EXTINF
-http://fast.iptv.cab:80/get.php?username=IH3EXegkBz&password=2ui256W37e&type=m3u
- #EXTINF
-http://195.181.162.108:8880/get.php?username=XqE4XFjcyg&password=Tp8yauPJZa&type=m3u
- #EXTINF
-http://lista.digitalgroup.me:80/get.php?username=emi&password=123&type=m3u
-RAW Paste Data
-http://client-proiptv.com:8080/get.php?username=EX-KINGiptvPKf&password=Gyh4AZD064gOIf58F&type=m3u
- #EXTINF
-http://123iptv.nl:88/get.php?username=p6QIv0O94I&password=9oe5AVwKGP&type=m3u
- #EXTINF
-http://barakatiptv.com/get.php?username=JC65XhKF5j&password=gG1rNsDNGf&type=m3u
- #EXTINF
-http://livegopanel.club:8080/get.php?username=EX-KINGiptvPKf&password=Gyh4AZD064gOIf58F&type=m3u
- #EXTINF
-http://195.154.26.166:8000/get.php?username=OyqFnMDC2H&password=JFCfX3pMEw&type=m3u
- #EXTINF
-http://source.vision-new.org:5000/get.php?username=sourcepanel1esp-port&password=4rWQD7FypY&type=m3u
- #EXTINF
-http://w.bs-share.com:8000/get.php?username=bs&password=524470739&type=m3u
- #EXTINF
-http://144.76.76.113:8000/get.php?username=Stalker&password=0mJcEm3USC&type=m3u
- #EXTINF
-http://peer1.blogdns.com:8000/get.php?username=Stalker&password=0mJcEm3USC&type=m3u
- #EXTINF
-http://line.protv.cc:8000/get.php?username=tNxE4rdouh&password=ttqs53nnsu&type=m3u
- #EXTINF
-http://185.180.221.217:2082/get.php?username=4lkjlksd_hlhjfklsdfdfd&password=6OoVFXJeKU&type=m3u
- #EXTINF
-http://p1.g6iptv.com:9000/get.php?username=all-local&password=local&type=m3u
- #EXTINF
-http://tekoiptv.ch:8000/get.php?username=M:i:N:i:S:t:R:a&password=M:a:G_M:i_N:i_S:t_R:a&type=m3u
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=arabic&password=arabic&type=m3u
- #EXTINF
-http://maxptv.ddns.net:25461/get.php?username=jess&password=jess&type=m3u
- #EXTINF
-http://magnum-ott.net:80/get.php?username=mehdi10&password=10mehdi&type=m3u
- #EXTINF
-htt#EXTINFp://skyhd-iptv.com:8000/get.php?username=GBCMTzZT2w&password=pw2x9CD73o&type=m3u
- #EXTINF
-http://iptv.kosiptv.com:1557/get.php?username=9Y9iNJfeJS&password=dAJDT8sjEW&type=m3u
- #EXTINF
-http://magnum-ott.net:80/get.php?username=mere1&password=1mere&type=m3u
- #EXTINF
-http://magnum-ott.net:80/get.php?username=sadek1&password=1sadek&type=m3u
- #EXTINF
-http://nitro.ltd:25461/get.php?username=Harmon&password=Harmon&type=m3u
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=Fcp5bURSun&password=8GSQ8ufnRR&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=4DjPxlW89z&password=GNXhUSoeEy&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=r1OyjLyh8c&password=4JyiX2u9jn&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=iEFLhxUU4g&password=TpSfWjhXn0&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=x282yB4JVg&password=kuc8496Yk9&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=2l0t9CGV6S&password=7sBDmN8M5m&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=UEpJcs88VA&password=UU5Wmz4BDD&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=2XybgcDSdg&password=Ltm2H3HWMw&type=m3u_plus
- #EXTINF
-http://twobrotherss.tk:8000/get.php?username=Kpoefwr72j&password=0h2eNTC8Rl&type=m3u
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=ku8oWDamQb&password=QfO6fgBjx3&type=m3u_plus
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=cIKU7C6V1g&password=Q8XD6VgFii&type=m3u_plus
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=h4j1dNVpN94&password=KnmUvs11&type=m3u_plus
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=huys1&password=4QSz2D32&type=m3u
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=adams&password=8WHvRZ&type=m3u
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=Xlq5QauY9A266&password=8IddMf160&type=m3u_plus
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=e5VSVgUYRA&password=nGeuVdLwOe&type=m3u
- #EXTINF
-http://188e662bbba8616e11261b376630363e.lswcdn.net/get.php?username=w7O4l7u90&password=zmenFy90&type=m3u
- #EXTINF
-http://iptv4k.ddns.net:8000/get.php?username=2rt&password=Hpe3kx4ptc&type=m3u
-#EXTINF
-http://force102.com:8080/get.php?username=muharrem2020&password=2020muharrem&type=m3u
- #EXTINF
-http://euroiptv.livehdtv.xyz:8000/get.php?username=azetm5&password=Ajmatmgtja7d3Gs&type=m3u
- #EXTINF
-http://nitro.ltd:25461/get.php?username=Jeremy1&password=Jeremy1&type=m3u
-#EXTINF 
-http://line.protv.cc:8000/get.php?username=Masoud&password=12345678&type=m3u
- #EXTINF
-http://video.bossna-caffe.com:80/playlist?type=m3u&deviceUser=tomas&devicePass=tomas
- #EXTINF
-http://89.187.181.233:25461/get.php?username=edward&password=edward&type=m3u
- #EXTINF
-http://uzmanhd.com:8000/get.php?username=59XKxrzpHK&password=U63Rk1iC3E&type=m3u
- #EXTINF
-http://uzmanhd.com:8000/get.php?username=zLTSCIZNXz&password=He1WQcqdnG&type=m3u
- #EXTINF
-http://nitro.ltd:25461/get.php?username=ms&password=ms&type=m3u
- #EXTINF
-http://163.172.43.26:8000/get.php?username=SPAINGENERAL&password=wvuqJKSLtP&type=m3u
- #EXTINF
-http://78.46.47.220:8000/get.php?username=vA4HQYOvfD&password=a0o8HGxseG&type=m3u
- #EXTINF
-http://www.jadobox.eu:8000/get.php?username=cHgWr9nXJl&password=uIOszNsXJm&type=m3u
- #EXTINF
-http://line.protv.cc:8000/get.php?username=8HOQR9JWSj&password=xFuL4uLpru&type=m3u
- #EXTINF
-http://enndy.live:2015/get.php?username=okan&password=10052019&type=m3u
- #EXTINF
-http://iptvpro.vision-new.org:8789/get.php?username=Uxm5p0AhMm&password=zvjHhpZsjA&type=m3u
- #EXTINF
-http://185.53.162.140:2015/get.php?username=okan&password=10052019&type=m3u
- #EXTINF
-http://iptv4.premium-stv.com:8000/get.php?username=sourcenederlandpro2&password=78yMD3GHxY&type=m3u
- #EXTINF
-http://bdmsat.com:25461/get.php?username=canak&password=1234&type=m3u
- #EXTINF
-http://medyabox2.zapto.org:8000/get.php?username=Stream_kurdo_stal&password=hdgd548ytgd&type=m3u
- #EXTINF
-http://bdmsat.com:25461/get.php?username=doga&password=1234&type=m3u
- #EXTINF
-http://bdmsat.com:25461/get.php?username=ergun&password=12345&type=m3u
- #EXTINF
-http://bdmsat.com:25461/get.php?username=savas&password=12345&type=m3u
- #EXTINF
-http://ummodigital.com:8000/get.php?username=jorge1&password=jorge1&type=m3u
- #EXTINF
-http://tv12345.ddns.net:25461/get.php?username=bill&password=bill&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=2wjWqlGwGV&password=vX6Ph5mf4X&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=HmLLDfO2lN&password=ZDcb0hCBmv&type=m3u
- #EXTINF
-http://line.dynoconnect.me:8000/get.php?username=OyqFnMDC2H&password=JFCfX3pMEw&type=m3u
- #EXTINF
-http://tv.fast-iptv.info:12974/get.php?username=kqXw0OC9zM&password=EJdkVNX14Y&type=m3u
- #EXTINF
-http://okip.poio.kim:8080/get.php?username=A123&password=A1234&type=m3u
- #EXTINF
-http://tv.nova-iptv.com:25461/get.php?username=XGXAnVd6Xa&password=3WSQudr45z&type=m3u
- #EXTINF
-http://iptv.cline.in:80/get.php?username=Kevin&password=Kevin&type=m3u
- #EXTINF
-http://kanali.ddns.net:25461/get.php?username=tvfrance&password=tvfrance&type=m3u
- #EXTINF
-http://okip.poio.ws:8080/get.php?username=a123&password=a1234&type=m3u
- #EXTINF
-http://temporary.one/get.php?username=goodwin&password=goodwin123&type=m3u
- #EXTINF
-http://45.90.104.30:8000/get.php?username=IcRLwVd77W&password=08vGFaCWoa&type=m3u
- #EXTINF
-http://163.172.19.113:8080/get.php?username=a123&password=a1234&type=m3u
- #EXTINF
-http://37.221.168.74:25461/get.php?username=tvfrance&password=tvfrance&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=YeSiLcAm-FiLmLeR-QRz3SCjthZ&password=tLj5aTcxcB5qvurLSrYaXW3rS&type=m3u
- #EXTINF
-http://145.239.244.21:25461/get.php?username=MUM-HD&password=9tldAkqZwY&type=m3u
- #EXTINF
-http://streamsmax.eu:8080/get.php?username=JAYKHANVOD&password=IIyrTwNovI&type=m3u
- #EXTINF
-http://xcasting.mine.nu:29321/get.php?username=xcasting&password=j5W7E5gqkz&type=m3u
- #EXTINF
-http://46.166.148.163:8000/get.php?username=sU8ZqnRMrK&password=0DEFq9dr4e&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=t1BW2MsonF&password=1W8e4YB0Rl&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=OoPLUjklBA&password=mVGkUxFYTE&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=HJ4v0QBXi4&password=1NrSEsV36k&type=m3u
- #EXTINF
-http://46.166.148.101:8000/get.php?username=OoPLUjklBA&password=mVGkUxFYTE&type=m3u
- #EXTINF
-http://54.37.84.64:29321/get.php?username=xcasting&password=j5W7E5gqkz&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=TaLkShOw_YaRISmA-tHAAChhn2z&password=PAzh4MnR5ZGLVp9vRLxugfpJD&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=DiZi.HaFtaLIK.HePsI-HTRKhePmYp&password=FGp7V8Ug39sduHrFBzWkFsM3Y&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=AnImAsYoN-TR-8vDgfhmv6L&password=E6W7L43FrVzT8VmtDyJNrdJhR&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=Tv_PrOgRaMlArI-P4wU67KcY3z5CQkC4ALX&password=PSr8SFwyqtGxYJerHje3LNjXMdtFNn&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=TR-FiNaL-DiZiLer-uxZgdgMHzQDgjELL5FjD&password=uv6BrE4EeaHFbMzEVq8xgqZ4qenAyG&type=m3u
- #EXTINF
-http://iptvflix.net:8080/get.php?username=DE-SeRiEn-DeUtScH-ut5EBt6dP3&password=k4U3mk6aAczPhFWufV2ewjdPq&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=y0P5bMlTSU&password=fMtrdHsTKt&type=m3u
- #EXTINF
-http://151.80.100.155:25443/get.php?username=vodall&password=vrIzSCaxGN&type=m3u_plus
- #EXTINF
-http://qyshdush.dyndns.info:5500/get.php?username=atv1&password=8888&type=m3u_plus
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=movies&password=movies&type=m3u_plus
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=pakistan&password=pakistan&type=m3u_plus
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=indian&password=indian&type=m3u_plus
- #EXTINF
-http://kanali.ddns.net:25461/get.php?username=tvdeutsch&password=tvdeutsch&type=m3u_plus
- #EXTINF
-http://voxtv.dynns.com:8000/get.php?username=afghan&password=afghan&type=m3u_plus
- #EXTINF
-http://mytv.fun:8080/get.php?username=7w3qem1rh&password=dfzrfyj0or&type=m3u
- #EXTINF
-http://ok2.se:80/get.php?username=lCzvrbIuvo&password=MFuPssSB1N&type=m3u
- #EXTINF
-http://worldiptv.me:8080/get.php?username=Sylvia&password=Sylvia123&type=m3u
- #EXTINF
-http://ip.clientmarket.top:8080/get.php?username=test&password=test&type=m3u
- #EXTINF
-http://borg.hopto.org:80/get.php?username=mostar&password=mostar&type=m3u
- #EXTINF
-http://buyiptv.live:25461/get.php?username=tRDtym0PmU&password=VJGJc5Hj2G&type=m3u
- #EXTINF
-http://ok2.se:8000/get.php?username=jJotmR0w9j&password=z8SwP1Lc7H&type=m3u
- #EXTINF
-http://www.hdboxtv.net:8000/get.php?username=38faca72a091&password=38faca72a091&type=m3u
- #EXTINF
-http://fast.iptv.cab:80/get.php?username=IH3EXegkBz&password=2ui256W37e&type=m3u
- #EXTINF
-http://195.181.162.108:8880/get.php?username=XqE4XFjcyg&password=Tp8yauPJZa&type=m3u
- #EXTINF
-http://lista.digitalgroup.me:80/get.php?username=emi&password=123&type=m3
+#EXTINF:-1,US: FOX HD Miami FL
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5953
+#EXTINF:-1,US: CBS HD Tampa Bay FL
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19861
+#EXTINF:-1,US: MY 33 HD Miami FL WBFS
+http://nitro.ltd:25461/Jeremy1/Jeremy1/37849
+#EXTINF:-1,LA: Ultra Tainment HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23009
+#EXTINF:-1,LA: (FHD) BABY TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18970
+#EXTINF:-1,LA: (FHD) FOX Action
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18969
+#EXTINF:-1,LA: (FHD) FOX Cinema
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18967
+#EXTINF:-1,LA: (FHD) FOX Classics
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18966
+#EXTINF:-1,LA: (FHD) FOX Comedy
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18965
+#EXTINF:-1,LA: (FHD) FOX Family
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18964
+#EXTINF:-1,LA: (FHD) FOX Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18962
+#EXTINF:-1,LA: (FHD) FOX Series
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18961
+#EXTINF:-1,LA: (FHD) NAT GEO WILD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18950
+#EXTINF:-1,LA: Fox HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/13022
+#EXTINF:-1,La: HBO HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2982
+#EXTINF:-1,La: HBO 2 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2981
+#EXTINF:-1,La: HBO Plus
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3039
+#EXTINF:-1,La: HBO Family
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3040
+#EXTINF:-1,La: HBO Signature
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2980
+#EXTINF:-1,La: Cinemax FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3073
+#EXTINF:-1,La: Max HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5803
+#EXTINF:-1,La: Max Prime
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5804
+#EXTINF:-1,La: Max Prime 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5805
+#EXTINF:-1,La: Max UP HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5806
+#EXTINF:-1,LA: Fox Movies HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11820
+#EXTINF:-1,LA: AMC HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11827
+#EXTINF:-1,La: Cinecanal HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2997
+#EXTINF:-1,LA: AXN HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11819
+#EXTINF:-1,LA: FX FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11822
+#EXTINF:-1,LA: TNT HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11831
+#EXTINF:-1,LA: Nat Geo HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11829
+#EXTINF:-1,LA: Nat Geo Mundo HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11826
+#EXTINF:-1,LA: Nat Geo Wild HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11828
+#EXTINF:-1,LA: Fox Life 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6055
+#EXTINF:-1,LA: NBC Universo HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6071
+#EXTINF:-1,La: Sony Channel HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6065
+#EXTINF:-1,LA: Discovery Channel HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11673
+#EXTINF:-1,LA: Discovery Home & Health HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3038
+#EXTINF:-1,LA: Nickelodeon HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11830
+#EXTINF:-1,La: Cartoon Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11825
+#EXTINF:-1,LA: Food Network
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12962
+#EXTINF:-1,La: Discovery Science
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3098
+#EXTINF:-1,La: Animal Planet
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5
+#EXTINF:-1,La: AXN
+http://nitro.ltd:25461/Jeremy1/Jeremy1/10
+#EXTINF:-1,La: Boomerang
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3097
+#EXTINF:-1,La: A&E Latino
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2
+#EXTINF:-1,La: Cartoon Network
+http://nitro.ltd:25461/Jeremy1/Jeremy1/25
+#EXTINF:-1,La: Discovery Channel HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/39
+#EXTINF:-1,La: Comedy Central HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2995
+#EXTINF:-1,La: E! HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2991
+#EXTINF:-1,La: Investigation Discovery
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2993
+#EXTINF:-1,La: Discovery Theater HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/42
+#EXTINF:-1,La: Discovery Turbo
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2992
+#EXTINF:-1,La: Disney Channel
+http://nitro.ltd:25461/Jeremy1/Jeremy1/44
+#EXTINF:-1,La: Disney JR
+http://nitro.ltd:25461/Jeremy1/Jeremy1/45
+#EXTINF:-1,La: Discovery Civilization
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2994
+#EXTINF:-1,La: FX
+http://nitro.ltd:25461/Jeremy1/Jeremy1/60
+#EXTINF:-1,La: Fox
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3043
+#EXTINF:-1,La: Fox Cinema HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2988
+#EXTINF:-1,La: Fox Classics
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3044
+#EXTINF:-1,La: Fox Life
+http://nitro.ltd:25461/Jeremy1/Jeremy1/59
+#EXTINF:-1,La: Lifetime
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3033
+#EXTINF:-1,La: Nat Geo Wild
+http://nitro.ltd:25461/Jeremy1/Jeremy1/86
+#EXTINF:-1,La: NICK Jr HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2976
+#EXTINF:-1,La: Nick Toons
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3029
+#EXTINF:-1,La: MTV Hits
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3031
+#EXTINF:-1,La: Fox Action HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3045
+#EXTINF:-1,La: Warner
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3005
+#EXTINF:-1,La: Sony Channel
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3016
+#EXTINF:-1,La: Space HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/99
+#EXTINF:-1,La: Studio Universal
+http://nitro.ltd:25461/Jeremy1/Jeremy1/130
+#EXTINF:-1,La: Discovery Kids
+http://nitro.ltd:25461/Jeremy1/Jeremy1/43
+#EXTINF:-1,La: VH1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3007
+#EXTINF:-1,La: Nickelodeon
+http://nitro.ltd:25461/Jeremy1/Jeremy1/88
+#EXTINF:-1,La: Tooncast
+http://nitro.ltd:25461/Jeremy1/Jeremy1/111
+#EXTINF:-1,La: Nat Geo
+http://nitro.ltd:25461/Jeremy1/Jeremy1/85
+#EXTINF:-1,La: Glitz
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2985
+#EXTINF:-1,La: Golden
+http://nitro.ltd:25461/Jeremy1/Jeremy1/63
+#EXTINF:-1,La: Golden Edge
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2984
+#EXTINF:-1,La: El Gourmet
+http://nitro.ltd:25461/Jeremy1/Jeremy1/50
+#EXTINF:-1,La: H2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2983
+#EXTINF:-1,La: History Channel HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/70
+#EXTINF:-1,La: Tru Tv Hd
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2974
+#EXTINF:-1,La: Universal Channel
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3008
+#EXTINF:-1,La: Fox Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/58
+#EXTINF:-1,La: Telenovelas
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3009
+#EXTINF:-1,La: TNT Series HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/107
+#EXTINF:-1,La: Disney XD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/46
+#EXTINF:-1,La: TNT
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2975
+#EXTINF:-1,La: TLC
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3010
+#EXTINF:-1,La: TCM
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3014
+#EXTINF:-1,La: SyFy
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3015
+#EXTINF:-1,La: Cinecanal Plus
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3086
+#EXTINF:-1,La: De Pelicula
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3078
+#EXTINF:-1,LA: TBS
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5813
+#EXTINF:-1,La: Paramount Channel
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5809
+#EXTINF:-1,La: Fox Comedy
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5842
+#EXTINF:-1,La: FOX Family HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5841
+#EXTINF:-1,LA: Fox Series HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/10159
+#EXTINF:-1,LA: Nick 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/10158
+#EXTINF:-1,La: VH1 Classics
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5495
+#EXTINF:-1,LA: MTV Music
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12975
+#EXTINF:-1,LA: Discovery Home & Health
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12971
+#EXTINF:-1,LA: Az Corazon
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12968
+#EXTINF:-1,LA: Cinemax
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12970
+#EXTINF:-1,LA: Travel HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5906
+#EXTINF:-1,LA: El Trece
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12980
+#EXTINF:-1,La: TVE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2973
+#EXTINF:-1,La: CDF Premium
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3088
+#EXTINF:-1,La: DW EspaÃ±ol Alemania
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5345
+#EXTINF:-1,La: Garage TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/2051
+#EXTINF:-1,LA: 4 RTVD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18302
+#EXTINF:-1,La: TV Marti
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5407
+#EXTINF:-1,La: Aristegui Noticias
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5418
+#EXTINF:-1,LA: A3 Series HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5462
+#EXTINF:-1,La: El Financiero Bloomberg
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3051
+#EXTINF:-1,La: Canal 38 Carnaval
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5479
+#EXTINF:-1,La: Promar
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5473
+#EXTINF:-1,La: TopLatino
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5483
+#EXTINF:-1,La: VTV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5471
+#EXTINF:-1,La: Wobi
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5816
+#EXTINF:-1,La: Teleformula
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5815
+#EXTINF:-1,La: Sundance TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5812
+#EXTINF:-1,La: Ritmoson
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5817
+#EXTINF:-1,La: Capital TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5820
+#EXTINF:-1,La: ADN 40 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5824
+#EXTINF:-1,La: Az Click HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3003
+#EXTINF:-1,La: CGTN
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5909
+#EXTINF:-1,LA: Tele Amazonas
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12988
+#EXTINF:-1,LA: TC Television
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12987
+#EXTINF:-1,LA: RTS
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12986
+#EXTINF:-1,La: Canal 2 Nicaragua
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5379
+#EXTINF:-1,La: Distrito Comedia
+http://nitro.ltd:25461/Jeremy1/Jeremy1/37
+#EXTINF:-1,LA: Gama TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12985
+#EXTINF:-1,LA: Fix and Foxi
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23047
+#EXTINF:-1,LA: Gran Cine
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23045
+#EXTINF:-1,LA: Insight TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23044
+#EXTINF:-1,LA: Latin Angels HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23043
+#EXTINF:-1,LA: Mi Planeta
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23042
+#EXTINF:-1,LA: Mis Peliculas
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23041
+#EXTINF:-1,LA: Moolt HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23040
+#EXTINF:-1,LA: Romance Channel HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23034
+#EXTINF:-1,LA: Showbuisness HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23032
+#EXTINF:-1,LA: Sorpresa
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23030
+#EXTINF:-1,LA: Tarima HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23027
+#EXTINF:-1,LA: Zee Mundo HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22997
+#EXTINF:-1,US: ACC Network
+http://nitro.ltd:25461/Jeremy1/Jeremy1/40837
+#EXTINF:-1,US: ESPN HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1401
+#EXTINF:-1,US: ESPN 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/7508
+#EXTINF:-1,US: ESPN News HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1402
+#EXTINF:-1,US: ESPN 2 HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1403
+#EXTINF:-1,US: ESPN 2 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11556
+#EXTINF:-1,US: ESPN U HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3735
+#EXTINF:-1,US: ESPN Goal Line HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19850
+#EXTINF:-1,US: ATT Sportsnet SW-
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36944
+#EXTINF:-1,US: ATT Sportsnet SW Altr
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36945
+#EXTINF:-1,US: Sportsnet LA HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22500
+#EXTINF:-1,US: Sports Illustrated TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36950
+#EXTINF:-1,US: NBA TV FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41386
+#EXTINF:-1,US: VSiN HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36948
+#EXTINF:-1,US: Olympic Channel
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5487
+#EXTINF:-1,US: Fox Soccer Plus HD.
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19851
+#EXTINF:-1,US: FoxNet East HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19866
+#EXTINF:-1,US: Fox Sports 1 HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5505
+#EXTINF:-1,US: Fox Sports 1 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11557
+#EXTINF:-1,US: Fox Sports 2 HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5506
+#EXTINF:-1,US: Fox Sports 2 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11559
+#EXTINF:-1,US: Fox Sports Prime Ticket 1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6030
+#EXTINF:-1,US: Fox Sports Arizona HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5944
+#EXTINF:-1,US: Fox Sports Carolinas HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19868
+#EXTINF:-1,US: Fox Sports Detroit HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6037
+#EXTINF:-1,US: Fox Sports Florida HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5943
+#EXTINF:-1,US: Fox Sports Indiana HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19645
+#EXTINF:-1,US: Fox Sports Midwest HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6031
+#EXTINF:-1,US: Fox Sports North HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5942
+#EXTINF:-1,US: Fox Sports Ohio HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6016
+#EXTINF:-1,US: Fox Sportstime Ohio HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6017
+#EXTINF:-1,US: Fox Sports San Diego HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6034
+#EXTINF:-1,US: Fox Sports South HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5941
+#EXTINF:-1,US: Fox Sports Southeast HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6038
+#EXTINF:-1,US: Fox Sports Southwest HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5940
+#EXTINF:-1,US: Fox Sports Southwest+ HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6018
+#EXTINF:-1,US: Fox Sports Sun HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5945
+#EXTINF:-1,US: Fox Sports Tennessee HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6032
+#EXTINF:-1,US: Fox Sports West
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6015
+#EXTINF:-1,US: Fox Sports West+ HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19869
+#EXTINF:-1,US: Fox Sports Wisconsin HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6040
+#EXTINF:-1,US: Fox Sports Wisconsin Plus HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19858
+#EXTINF:-1,US: Fox Sports Yes Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6043
+#EXTINF:-1,US: Fox College Sports Atlantic
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12596
+#EXTINF:-1,US: Fox College Sports Central
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12595
+#EXTINF:-1,US: Fox College Sports Pacific
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12593
+#EXTINF:-1,US: NBC SN HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1421
+#EXTINF:-1,US: NBC SN 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12597
+#EXTINF:-1,US: NBCSN HD Boston
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19651
+#EXTINF:-1,US: NBCSN Boston
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12192
+#EXTINF:-1,US: CSN SN California HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19650
+#EXTINF:-1,US: CSN SN Chicago HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19652
+#EXTINF:-1,US: NBC Sports Philadelphia Plus HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19675
+#EXTINF:-1,US: NBC Golf HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1408
+#EXTINF:-1,US: CBS Sports Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3681
+#EXTINF:-1,US: SNY HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/20844
+#EXTINF:-1,US: MSG Plus HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/16342
+#EXTINF:-1,US: MSG 2 Plus HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/16772
+#EXTINF:-1,US: MSG Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/16344
+#EXTINF:-1,US: MSG 2 Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/16343
+#EXTINF:-1,US: CSN BayArea HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6044
+#EXTINF:-1,US: CSN California 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6051
+#EXTINF:-1,US: CSN Chicago Plus HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6047
+#EXTINF:-1,US: CSN Northwest HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6052
+#EXTINF:-1,US: CSN Philly HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6050
+#EXTINF:-1,US: CSN Washington D.C.
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23062
+#EXTINF:-1,US: NESN HD Boston
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5458
+#EXTINF:-1,US: NESN Plus HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5436
+#EXTINF:-1,US: Tennis HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1862
+#EXTINF:-1,US: Tennis Channel HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/13119
+#EXTINF:-1,US: Sec Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1472
+#EXTINF:-1,US: Sec Network 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11572
+#EXTINF:-1,US: Big Ten Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1388
+#EXTINF:-1,US: BTN HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/6076
+#EXTINF:-1,CA: TSN HD 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1279
+#EXTINF:-1,CA: TSN HD 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1280
+#EXTINF:-1,CA: TSN HD 3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1281
+#EXTINF:-1,CA: TSN HD 4
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1282
+#EXTINF:-1,CA: TSN HD 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1283
+#EXTINF:-1,CA: SPORTS NET ONE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3650
+#EXTINF:-1,CA: SPORTS NET WEST HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3647
+#EXTINF:-1,CA: SPORTS NET WORLD HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3646
+#EXTINF:-1,CA: SPORTS NET PACIFIC HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3648
+#EXTINF:-1,CA: SPORTS NET ONTARIO HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3649
+#EXTINF:-1,CA: SPORTS NET 360 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3652
+#EXTINF:-1,US: PAC-12 Bay Area
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5256
+#EXTINF:-1,US: PAC- National
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5258
+#EXTINF:-1,US: PAC-12 Moutain
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5254
+#EXTINF:-1,US: PAC-12 Los Angeles
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5255
+#EXTINF:-1,US: PAC-12 Arizona
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5257
+#EXTINF:-1,US: PAC-12 Oregon
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5253
+#EXTINF:-1,US: PAC-12 Washington
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5252
+#EXTINF:-1,US: Longhorn Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5310
+#EXTINF:-1,US: Sportsman Channel HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/18452
+#EXTINF:-1,US: Eleven Sports Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5886
+#EXTINF:-1,US: Fight Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/15167
+#EXTINF:-1,US: Fight Box
+http://nitro.ltd:25461/Jeremy1/Jeremy1/23049
+#EXTINF:-1,US: FIGHT BOX HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/28559
+#EXTINF:-1,US: WWE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3653
+#EXTINF:-1,US: Stadium HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19721
+#EXTINF:-1,US: Stadium 1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19724
+#EXTINF:-1,US: Stadium 2 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19723
+#EXTINF:-1,US: Stadium 3 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19722
+#EXTINF:-1,US: Freesporrts
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22915
+#EXTINF:-1,US: TVG
+http://nitro.ltd:25461/Jeremy1/Jeremy1/35238
+#EXTINF:-1,US: TVG 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/35239
+#EXTINF:-1,US: ATG Live
+http://nitro.ltd:25461/Jeremy1/Jeremy1/38598
+#EXTINF:-1,US: Coral TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/38599
+#EXTINF:-1,US: Ladbrokes
+http://nitro.ltd:25461/Jeremy1/Jeremy1/38600
+#EXTINF:-1,US: Kanal 75 INT
+http://nitro.ltd:25461/Jeremy1/Jeremy1/38597
+#EXTINF:-1,US: SIS One
+http://nitro.ltd:25461/Jeremy1/Jeremy1/40956
+#EXTINF:-1,US: SIS Two
+http://nitro.ltd:25461/Jeremy1/Jeremy1/40954
+#EXTINF:-1,US: SIS Racing
+http://nitro.ltd:25461/Jeremy1/Jeremy1/40955
+
+#EXTINF:-1,FR: BOX OFFICE 15
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30084
+#EXTINF:-1,FR: BOX OFFICE ANIMATION
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30083
+#EXTINF:-1,FR: BOX OFFICE COMEDIE
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30082
+#EXTINF:-1,FR: BOX OFFICE HORREUR
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30081
+#EXTINF:-1,FR: BOX OFFICE ROMANCE
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30080
+#EXTINF:-1,FR: BRAVA HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30079
+#EXTINF:-1,FR: C8 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30078
+#EXTINF:-1,FR: CANAL  CINEMA FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30049
+#EXTINF:-1,FR: CANAL  DECALE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30048
+#EXTINF:-1,FR: CANAL  Emotion HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30047
+#EXTINF:-1,FR: CANAL  FAMILY HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30046
+#EXTINF:-1,FR: CANAL  FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30045
+#EXTINF:-1,FR: CANAL  J HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30044
+#EXTINF:-1,FR: CANAL  Play 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30043
+#EXTINF:-1,FR: CANAL  Premier HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30042
+#EXTINF:-1,FR: CANAL  S
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30037
+#EXTINF:-1,FR: CANAL  SERIE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30041
+#EXTINF:-1,FR: CANAL  SPORT FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30040
+#EXTINF:-1,FR: CANAL  SPORT Football
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30039
+#EXTINF:-1,FR: CANAL  SPORT Golf HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30038
+#EXTINF:-1,FR: CANAL  TCM HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30036
+#EXTINF:-1,FR: CANAL 6TER HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30077
+#EXTINF:-1,FR: Canal Alpha Ju HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30076
+#EXTINF:-1,FR: CANAL CINEMA HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30075
+#EXTINF:-1,FR: CANAL DECALE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30074
+#EXTINF:-1,FR: CANAL Emotion HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30073
+#EXTINF:-1,FR: CANAL FAMILY FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30072
+#EXTINF:-1,FR: CANAL HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30071
+#EXTINF:-1,FR: CANAL J HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30070
+#EXTINF:-1,FR: CANAL M6 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30069
+#EXTINF:-1,FR: Canal Play 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30068
+#EXTINF:-1,FR: CANAL Play 10
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30035
+#EXTINF:-1,FR: Canal Play 11
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30060
+#EXTINF:-1,FR: Canal Play 12
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30059
+#EXTINF:-1,FR: Canal Play 13
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30058
+#EXTINF:-1,FR: Canal Play 14
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30057
+#EXTINF:-1,FR: Canal Play 15
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30056
+#EXTINF:-1,FR: Canal Play 2 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30067
+#EXTINF:-1,FR: Canal Play 3 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30066
+#EXTINF:-1,FR: Canal Play 4 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30065
+#EXTINF:-1,FR: Canal Play 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30064
+#EXTINF:-1,FR: Canal Play 6 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30063
+#EXTINF:-1,FR: Canal Play 7
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30062
+#EXTINF:-1,FR: Canal Play 9
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30061
+#EXTINF:-1,FR: CANAL Plus
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30055
+#EXTINF:-1,FR: CANAL Premier HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30054
+#EXTINF:-1,FR: Canal Savoir
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30053
+#EXTINF:-1,FR: CANAL SERIES HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30052
+#EXTINF:-1,FR: CANAL SPORT FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30051
+#EXTINF:-1,FR: CANAL TCM HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30050
+#EXTINF:-1,FR: Cartoon Network FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30034
+#EXTINF:-1,FR: CHASSE & PECHE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30033
+#EXTINF:-1,FR: CHERIE 25 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30032
+#EXTINF:-1,FR: CINE  CLASSIC HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30026
+#EXTINF:-1,FR: Cine  Club HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30025
+#EXTINF:-1,FR: CINE  COMEDIE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30024
+#EXTINF:-1,FR: CINE  EMOTION FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30023
+#EXTINF:-1,FR: CINE  FAMIZ FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30022
+#EXTINF:-1,FR: CINE  FRISSON FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30021
+#EXTINF:-1,FR: CINE  Polar FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30020
+#EXTINF:-1,FR: CINE  PREMIER FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30019
+#EXTINF:-1,FR: Cine Action HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30031
+#EXTINF:-1,FR: Cine Comedie HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30030
+#EXTINF:-1,FR: CINE FAMIZ FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30029
+#EXTINF:-1,FR: CINE FX FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30028
+#EXTINF:-1,FR: Cine Star HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30027
+#EXTINF:-1,FR: CINEMA BOX OFFICE 1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30018
+#EXTINF:-1,FR: CINEMA BOX OFFICE 3 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30017
+#EXTINF:-1,FR: Clubbing TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30016
+#EXTINF:-1,FR: CNews HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30015
+#EXTINF:-1,FR: CRIME DISTRICT HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30014
+#EXTINF:-1,FR: CRIME INVESTIGATION HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30013
+#EXTINF:-1,FR: CSTAR HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30012
+#EXTINF:-1,FR: D 17
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30011
+#EXTINF:-1,FR: D8 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30010
+#EXTINF:-1,FR: DAVINCI LEARNING
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30009
+#EXTINF:-1,FR: Deluxe Music
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30008
+#EXTINF:-1,FR: Discovery Channel FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30007
+#EXTINF:-1,FR: DISCOVERY FAMILY FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30006
+#EXTINF:-1,FR: DISCOVERY ID HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30005
+#EXTINF:-1,FR: DISCOVERY INVESTIGATION FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30004
+#EXTINF:-1,FR: DISCOVERY SCIENCE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30003
+#EXTINF:-1,FR: DISNEY CHANNEL FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30002
+#EXTINF:-1,FR: DISNEY CINEMA FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30001
+#EXTINF:-1,FR: DISNEY JUNIOR FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/30000
+#EXTINF:-1,FR: DISNEY XD FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29999
+#EXTINF:-1,FR: E! ENTERTAINMENT FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29998
+#EXTINF:-1,FR: ELEVEN Sports 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29997
+#EXTINF:-1,FR: ELEVEN Sports 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29996
+#EXTINF:-1,FR: ELEVEN Sports 3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29995
+#EXTINF:-1,FR: ELLE GIRL HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29994
+#EXTINF:-1,FR: Equidia HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29993
+#EXTINF:-1,FR: Equidia Life HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29992
+#EXTINF:-1,FR: EQUIDIA LIVE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29991
+#EXTINF:-1,FR: EQUIPE 21 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29990
+#EXTINF:-1,FR: EURONEWS HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29989
+#EXTINF:-1,FR: EUROSPORT 1 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29988
+#EXTINF:-1,FR: EUROSPORT 2 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29987
+#EXTINF:-1,FR: EXTREME SPORTS HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29986
+#EXTINF:-1,FR: FASHION FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29985
+#EXTINF:-1,FR: Foot 24/24 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29984
+#EXTINF:-1,FR: FOX TV FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29983
+#EXTINF:-1,FR: France 2 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29982
+#EXTINF:-1,FR: France 24 ENG
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29978
+#EXTINF:-1,FR: France 24 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29977
+#EXTINF:-1,FR: France 3 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29981
+#EXTINF:-1,FR: FRANCE 4 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29980
+#EXTINF:-1,FR: FRANCE 5 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29979
+#EXTINF:-1,FR: France Info HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29976
+#EXTINF:-1,FR: FRANCE O FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29975
+#EXTINF:-1,FR: Francophonie 24
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29974
+#EXTINF:-1,FR: FTV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29973
+#EXTINF:-1,FR: GAME ONE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29972
+#EXTINF:-1,FR: GOLF  FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29970
+#EXTINF:-1,FR: GOLF CHANNEL FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29971
+#EXTINF:-1,FR: Gong Max
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29969
+#EXTINF:-1,FR: Gong TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29968
+#EXTINF:-1,FR: GRAND LILLE TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29967
+#EXTINF:-1,FR: GULLI FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29966
+#EXTINF:-1,FR: HD 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29965
+#EXTINF:-1,FR: HISTORIE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29964
+#EXTINF:-1,FR: I-24 NEWS HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29963
+#EXTINF:-1,FR: InfoSport  HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29962
+#EXTINF:-1,FR: iTELE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29961
+#EXTINF:-1,FR: J ONE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29960
+#EXTINF:-1,FR: KANAL D FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29959
+#EXTINF:-1,FR: KOMBAT SPORTS HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29958
+#EXTINF:-1,FR: KTO HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29957
+#EXTINF:-1,FR: L EQUIPE 21 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29956
+#EXTINF:-1,FR: La Chaine Normandie
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29955
+#EXTINF:-1,FR: LA Chaine Parlementaire HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29954
+#EXTINF:-1,FR: La Tele
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29953
+#EXTINF:-1,FR: LCI FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29952
+#EXTINF:-1,FR: LCP HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29951
+#EXTINF:-1,FR: LCP/PUBLIC SENAT
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29950
+#EXTINF:-1,FR: Leman Bleu
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29949
+#EXTINF:-1,FR: LEQUIPE 21HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29948
+#EXTINF:-1,FR: LFM TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29947
+#EXTINF:-1,FR: LUXE TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29946
+#EXTINF:-1,FR: M6 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29945
+#EXTINF:-1,FR: M6 Music HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29944
+#EXTINF:-1,FR: Ma Chaine Sport
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29943
+#EXTINF:-1,FR: MANGAS FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29942
+#EXTINF:-1,FR: MCM HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29941
+#EXTINF:-1,FR: MEZZO
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29940
+#EXTINF:-1,FR: MEZZO LIVE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29939
+#EXTINF:-1,FR: Motor Sport Tv HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29938
+#EXTINF:-1,FR: Movies 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29937
+#EXTINF:-1,FR: Movies 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29936
+#EXTINF:-1,FR: Movies 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29935
+#EXTINF:-1,FR: Movies 7
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29934
+#EXTINF:-1,FR: MTV BASE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29933
+#EXTINF:-1,FR: MTV FRANCE
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29932
+#EXTINF:-1,FR: MTV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29931
+#EXTINF:-1,FR: MTV HITS FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29930
+#EXTINF:-1,FR: MTV Music
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29929
+#EXTINF:-1,FR: Music Top HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29928
+#EXTINF:-1,FR: MY CUISINE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29927
+#EXTINF:-1,FR: My sports 4 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29926
+#EXTINF:-1,FR: My Sports 5 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29925
+#EXTINF:-1,FR: MySports 1 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29924
+#EXTINF:-1,FR: MySports 2 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29923
+#EXTINF:-1,FR: MySports 3 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29922
+#EXTINF:-1,FR: MySports 7 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29921
+#EXTINF:-1,FR: MySports 8 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29920
+#EXTINF:-1,FR: MySports 9 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29919
+#EXTINF:-1,FR: MySports FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29918
+#EXTINF:-1,FR: NAT GEO FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29917
+#EXTINF:-1,FR: NAT GEO WILD FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29916
+#EXTINF:-1,FR: Nautical Channel HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29915
+#EXTINF:-1,FR: NICK 4TEEN FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29914
+#EXTINF:-1,FR: NICK JR HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29913
+#EXTINF:-1,FR: NOLLYWOOD FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29912
+#EXTINF:-1,FR: NORMANDE TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29911
+#EXTINF:-1,FR: NOVELAS FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29910
+#EXTINF:-1,FR: NRJ 12 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29909
+#EXTINF:-1,FR: NRJ HITS HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29908
+#EXTINF:-1,FR: NT1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29907
+#EXTINF:-1,FR: NUMERO 23 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29906
+#EXTINF:-1,FR: OCS CHOC FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29905
+#EXTINF:-1,FR: OCS CITY FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29904
+#EXTINF:-1,FR: OCS GEANT FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29903
+#EXTINF:-1,FR: OCS Go Cine 1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29902
+#EXTINF:-1,FR: OCS Go Cine 2 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29901
+#EXTINF:-1,FR: OCS Go Cine 3 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29900
+#EXTINF:-1,FR: OCS Go Cine 5 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29899
+#EXTINF:-1,FR: OCS MAX FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29898
+#EXTINF:-1,FR: OL TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29897
+#EXTINF:-1,FR: ONE TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29896
+#EXTINF:-1,FR: Orange Cine Geants
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29895
+#EXTINF:-1,FR: Orange Cinema 1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29894
+#EXTINF:-1,FR: Orange Cinema 2 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29893
+#EXTINF:-1,FR: ORANGE CINEMA 3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29892
+#EXTINF:-1,FR: ORANGE CINEMA 4
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29891
+#EXTINF:-1,FR: ORANGE CINEMA 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29890
+#EXTINF:-1,FR: ORANGE CINEMA 6
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29889
+#EXTINF:-1,FR: Orange Cinema ACTION HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29888
+#EXTINF:-1,FR: Orange Cinema Aventure HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29887
+#EXTINF:-1,FR: Orange Cinema COMEDIE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29886
+#EXTINF:-1,FR: Orange Cinema DISNEY HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29885
+#EXTINF:-1,FR: Orange Cinema DOCUMENTAIRE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29884
+#EXTINF:-1,FR: Orange Cinema ENQUETE EXCLUSIVE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29883
+#EXTINF:-1,FR: Orange Cinema Horreur HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29882
+#EXTINF:-1,FR: ORANGE DISNEY 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29881
+#EXTINF:-1,FR: ORANGE DISNEY 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29880
+#EXTINF:-1,FR: ORANGE DISNEY 3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29879
+#EXTINF:-1,FR: ORANGE DISNEY 4
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29878
+#EXTINF:-1,FR: ORANGE DISNEY 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29877
+#EXTINF:-1,FR: ORANGE DISNEY 6
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29876
+#EXTINF:-1,FR: Orange Premium 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29875
+#EXTINF:-1,FR: Orange Premium 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29874
+#EXTINF:-1,FR: Orange Premium 3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29873
+#EXTINF:-1,FR: Orange Premium 4
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29872
+#EXTINF:-1,FR: Orange Premium 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29871
+#EXTINF:-1,FR: Orange Premium 6
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29870
+#EXTINF:-1,FR: Orange Premium 7
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29869
+#EXTINF:-1,FR: Orange Premium 8
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29868
+#EXTINF:-1,FR: Ouatch Tv
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29867
+#EXTINF:-1,FR: PARAMOUNT CHANNEL HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29866
+#EXTINF:-1,FR: PARAMOUNT DECALE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29865
+#EXTINF:-1,FR: PARIS PREMIERE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29864
+#EXTINF:-1,FR: PIWI FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29863
+#EXTINF:-1,FR: PLANET TURK
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29862
+#EXTINF:-1,FR: PLANETE  A&E HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29861
+#EXTINF:-1,FR: PLANETE  CI HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29860
+#EXTINF:-1,FR: PLANETE  HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29859
+#EXTINF:-1,FR: POWER TURK
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29858
+#EXTINF:-1,FR: PUBLIC SENAT
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29857
+#EXTINF:-1,FR: QVC HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29856
+#EXTINF:-1,FR: RFM TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29855
+#EXTINF:-1,FR: RMC Decouvert HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29854
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29853
+#EXTINF:-1,FR: RMC SPORT 2 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29852
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29851
+#EXTINF:-1,FR: RMC Sport 4 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29850
+#EXTINF:-1,World FR: RMC Sport Acess1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/38178
+#EXTINF:-1,World FR: RMC Sport Acess2 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/38177
+#EXTINF:-1,World FR: RMC Sport Acess3 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/38176
+#EXTINF:-1,World FR: RMC Sport Acess4 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/38175
+#EXTINF:-1,FR: RMC SPORT NEWS FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29849
+#EXTINF:-1,FR: Rouge HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29848
+#EXTINF:-1,FR: RT France
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29847
+#EXTINF:-1,FR: RTL TVI
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29846
+#EXTINF:-1,FR: RTL9 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29845
+#EXTINF:-1,FR: RTS Deux FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29844
+#EXTINF:-1,FR: RTS Un HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29843
+#EXTINF:-1,FR: SC HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29842
+#EXTINF:-1,FR: Science & Vie HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29841
+#EXTINF:-1,FR: SEASON FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29840
+#EXTINF:-1,FR: SERIE CLUB FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29839
+#EXTINF:-1,FR: SFR ACTION
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29838
+#EXTINF:-1,FR: SFR Comedie
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29837
+#EXTINF:-1,FR: SFR Horreur
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29836
+#EXTINF:-1,FR: SFR Sci-Fi
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29835
+#EXTINF:-1,FR: SFR Sport 1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29834
+#EXTINF:-1,FR: SFR SPORT 2 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29833
+#EXTINF:-1,FR: SFR SPORT 3 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29832
+#EXTINF:-1,FR: SFR SPORT 5 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29831
+#EXTINF:-1,FR: SHOW TV FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29830
+#EXTINF:-1,FR: STAR TV FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29829
+#EXTINF:-1,FR: SUNDANCE TV FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29828
+#EXTINF:-1,FR: SyFy FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29827
+#EXTINF:-1,FR: TCM CINEMA HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29826
+#EXTINF:-1,FR: Tele Bielingue
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29825
+#EXTINF:-1,FR: TELESUD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29824
+#EXTINF:-1,FR: TeleToon  HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29821
+#EXTINF:-1,FR: TELETOON 1 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29823
+#EXTINF:-1,FR: TELETOON HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29822
+#EXTINF:-1,FR: TEVA FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29820
+#EXTINF:-1,FR: TF1 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29819
+#EXTINF:-1,FR: TF1 SERIES FILMS HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29818
+#EXTINF:-1,FR: TFX FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29817
+#EXTINF:-1,FR: TIJI HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29816
+#EXTINF:-1,FR: TMC  1 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29815
+#EXTINF:-1,FR: TMC HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29814
+#EXTINF:-1,FR: TOONAMI FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29813
+#EXTINF:-1,FR: TOUTE HISTOIRE HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29812
+#EXTINF:-1,FR: Toute L histoire HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29811
+#EXTINF:-1,FR: TRACE AFRICA HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29810
+#EXTINF:-1,FR: Trace Sport Stars HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29809
+#EXTINF:-1,FR: Trace Tropical HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29808
+#EXTINF:-1,FR: TRACE URBAN FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29807
+#EXTINF:-1,FR: TREK FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29806
+#EXTINF:-1,FR: TRT 1 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29805
+#EXTINF:-1,FR: TV BREIZH FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29804
+#EXTINF:-1,FR: TV5 Europe HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29803
+#EXTINF:-1,FR: TV5 Monde HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29802
+#EXTINF:-1,FR: TV8 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29801
+#EXTINF:-1,FR: TV8 Mont Blanc
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29800
+#EXTINF:-1,FR: TVM3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29799
+#EXTINF:-1,FR: Ushuaia HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29798
+#EXTINF:-1,FR: VH1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29797
+#EXTINF:-1,FR: VH1 CLASSIC
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29796
+#EXTINF:-1,FR: VICELAND HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29795
+#EXTINF:-1,FR: VOSGES TV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29794
+#EXTINF:-1,FR: VOYAGE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29793
+#EXTINF:-1,FR: W9 FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29792
+#EXTINF:-1,FR: WARNER TV FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29791
+#EXTINF:-1,FR: WEO HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29790
+#EXTINF:-1,FR: ZOUZOU HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/29789
+#EXTINF:-1,US:: ESPN PLUS 01 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22420
+#EXTINF:-1,US:: ESPN PLUS 02 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22419
+#EXTINF:-1,US:: ESPN PLUS 03 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22418
+#EXTINF:-1,US:: ESPN PLUS 04 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22417
+#EXTINF:-1,US:: ESPN PLUS 05 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22416
+#EXTINF:-1,US:: ESPN PLUS 06 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22415
+#EXTINF:-1,US:: ESPN PLUS 07 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22414
+#EXTINF:-1,US:: ESPN PLUS 08 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22413
+#EXTINF:-1,US:: ESPN PLUS 09 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22412
+#EXTINF:-1,US:: ESPN PLUS 10 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22411
+#EXTINF:-1,US:: ESPN PLUS 11 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22410
+#EXTINF:-1,US:: ESPN PLUS 12 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22409
+#EXTINF:-1,US:: ESPN PLUS 13 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22408
+#EXTINF:-1,US:: ESPN PLUS 14 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22407
+#EXTINF:-1,US:: ESPN PLUS 15 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22406
+#EXTINF:-1,US:: ESPN PLUS 16 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22405
+#EXTINF:-1,US:: ESPN PLUS 17 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22404
+#EXTINF:-1,US:: ESPN PLUS 18 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22403
+#EXTINF:-1,US:: ESPN PLUS 19 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22402
+#EXTINF:-1,US:: ESPN PLUS 20 HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22401
+#EXTINF:-1,US: MLB Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1416
+#EXTINF:-1,US: NBA TV HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/1470
+#EXTINF:-1,US: NFL Network HD 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/11545
+#EXTINF:-1,US: NFL Network 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12184
+#EXTINF:-1,US: NFL NOW HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5311
+#EXTINF:-1,US: FNTSY Network HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/15166
+#EXTINF:-1,US: NFL Redzone HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3669
+#EXTINF:-1,US: NFL Redzone HD (backup)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/17135
+#EXTINF:-1,US: NBC GOLD FHD 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19230
+#EXTINF:-1,US: NBC GOLD FHD 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19231
+#EXTINF:-1,US: NBC GOLD FHD 3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19232
+#EXTINF:-1,US: NBC GOLD FHD 4
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19233
+#EXTINF:-1,US: NBC GOLD FHD 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19234
+#EXTINF:-1,US: NBC GOLD FHD 6
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19235
+#EXTINF:-1,US: NBC GOLD FHD 7
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19236
+#EXTINF:-1,UK: TSN 1 HD (3pm kick offs)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22989
+#EXTINF:-1,UK: TSN 2 HD (3pm kick offs)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22988
+#EXTINF:-1,UK: TSN 3 HD (3pm kick offs)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22987
+#EXTINF:-1,UK: TSN 4 HD (3pm kick offs)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22986
+#EXTINF:-1,UK: TSN 5 HD (3pm kick offs)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22985
+#EXTINF:-1,US: Fox Soccer Match Pass 1 FHD (Match Time Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/28556
+#EXTINF:-1,US: Fox Soccer Match Pass 3 FHD (Match Time Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/28555
+#EXTINF:-1,US: Fox Soccer Match Pass 4 FHD (Match Time Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/28554
+#EXTINF:-1,US: Fox Soccer Match Pass 5 FHD (Match time only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/28553
+#EXTINF:-1,UK| Sky Sports Premier League FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22992
+#EXTINF:-1,SCT : Aberdeen FC TV HD ( LIVE ON MATCHES )
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3600
+#EXTINF:-1,UK: ABERDEEN TV (Match time Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22972
+#EXTINF:-1,SCT : Celtic FC TV HD ( LIVE ON MATCHES )
+http://nitro.ltd:25461/Jeremy1/Jeremy1/3597
+#EXTINF:-1,PPV 1: Event 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36627
+#EXTINF:-1,PPV 2: Event 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36628
+#EXTINF:-1,PPV 3: Event SD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36629
+#EXTINF:-1,PPV 4: Event 1080
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36630
+#EXTINF:-1,PPV 5: Event 720
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36631
+#EXTINF:-1,PPV 6: Event SD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/36632
+#EXTINF:-1,PPV: UFC 1 Early Prelims
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41053
+#EXTINF:-1,PPV: UFC 2 Prelims
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41051
+#EXTINF:-1,PPV: UFC 3 Main Event
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41052
+#EXTINF:-1,PPV: UFC 4
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41050
+#EXTINF:-1,PPV: UFC 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41049
+#EXTINF:-1,PPV: UFC 6
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41048
+#EXTINF:-1,PPV: BOXING 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41047
+#EXTINF:-1,PPV: BOXING 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41046
+#EXTINF:-1,PPV: BOXING 3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41045
+#EXTINF:-1,PPV: BOXING 4
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41044
+#EXTINF:-1,PPV: BOXING 5
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41043
+#EXTINF:-1,PPV: BOXING 6
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41042
+#EXTINF:-1,PPV: EVENT 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41041
+#EXTINF:-1,PPV: EVENT 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41040
+#EXTINF:-1,PPV: MMA 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41037
+#EXTINF:-1,PPV: MMA 2
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41039
+#EXTINF:-1,PPV: MMA 3
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41038
+#EXTINF:-1,PPV: Willow 01 (Events Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41036
+#EXTINF:-1,PPV: Willow 02 (Events Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41035
+#EXTINF:-1,PPV: Willow 03 (Events Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41034
+#EXTINF:-1,PPV: Willow 04 (Events Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41033
+#EXTINF:-1,PPV: Willow 05 (Events Only)
+http://nitro.ltd:25461/Jeremy1/Jeremy1/41032
+#EXTINF:-1,PPV: ITV PPV HD 1
+http://nitro.ltd:25461/Jeremy1/Jeremy1/7952
+#EXTINF:-1,PPV: ITV Box Office FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/13128
+#EXTINF:-1,PPV: UFC FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/7954
+#EXTINF:-1,PPV : BT BOX OFFICE FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/7652
+#EXTINF:-1,UK: Sky Sports Box Office PPV
+http://nitro.ltd:25461/Jeremy1/Jeremy1/7955
+#EXTINF:-1,PPV: Sky Sports Main Event
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19746
+#EXTINF:-1,PPV: Boxnation FHD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/7653
+#EXTINF:-1,MX: UFC HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/16749
+#EXTINF:-1,CA: TSN 1  HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22324
+#EXTINF:-1,CA: TSN 2  HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22322
+#EXTINF:-1,CA: TSN 3  HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22320
+#EXTINF:-1,CA: TSN 4  HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22318
+#EXTINF:-1,CA: TSN 5  HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22316
+#EXTINF:-1,US: Music Top HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22775
+#EXTINF:-1,LA: RetroPlex HD Peliculas
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22773
+#EXTINF:-1,US: Showtime West HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22813
+#EXTINF:-1,US: HBO 2 HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22823
+#EXTINF:-1,US: HBO 2 West HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22822
+#EXTINF:-1,US: HBO Plus West HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22821
+#EXTINF:-1,US: HBO Signature HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22820
+#EXTINF:-1,US: Cinemax Action 2 HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22827
+#EXTINF:-1,US: Cinemax Action East HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22826
+#EXTINF:-1,US: Cinemax East HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22825
+#EXTINF:-1,US: Cinemax West HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22824
+#EXTINF:-1,US: MoreMax HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22818
+#EXTINF:-1,US: MovieMax HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22817
+#EXTINF:-1,US: OuterMax HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22815
+#EXTINF:-1,US: 5 StarMax HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22828
+#EXTINF:-1,US: Starz HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22793
+#EXTINF:-1,US: Starz Black HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22812
+#EXTINF:-1,US: Starz West HD 1080 Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22790
+#EXTINF:-1,US: Starz West HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22791
+#EXTINF:-1,US: Starz Cinema East HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22811
+#EXTINF:-1,US: Starz Cinema HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22810
+#EXTINF:-1,US: Starz Cinema West HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22809
+#EXTINF:-1,US: Starz Comedy HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22808
+#EXTINF:-1,US: Starz East HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22807
+#EXTINF:-1,US: Starz Edge HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22806
+#EXTINF:-1,US: Starz Edge West HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22805
+#EXTINF:-1,US: Starz Encore 2 East HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22804
+#EXTINF:-1,US: Starz Encore Action HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22803
+#EXTINF:-1,US: Starz Encore Black HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22802
+#EXTINF:-1,US: Starz Encore Classic HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22801
+#EXTINF:-1,US: Starz Encore East HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22800
+#EXTINF:-1,US: Starz Encore Family HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22799
+#EXTINF:-1,US: Starz Encore HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22798
+#EXTINF:-1,US: Starz Encore Suspense HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22797
+#EXTINF:-1,US: Starz Encore West HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22796
+#EXTINF:-1,US: Starz Encore Western HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22795
+#EXTINF:-1,US: Starz Family HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22794
+#EXTINF:-1,US: Starz Kids & Family HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22792
+#EXTINF:-1,US: IndiePlex HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22819
+#EXTINF:-1,US: MoviePlex HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22816
+#EXTINF:-1,US: RetroPlex HD Movies
+http://nitro.ltd:25461/Jeremy1/Jeremy1/22814
+#EXTINF:-1,MX: Azteca Deportes HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/19193
+#EXTINF:-1,MX: TDN HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/12592
+#EXTINF:-1,MX: Univision TDN HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/16325
+#EXTINF:-1,La: Univision Deportes HD
+http://nitro.ltd:25461/Jeremy1/Jeremy1/5312
