@@ -1,6 +1,7 @@
 
 @@ -USA
-#EXTM3Uhttp://client-proiptv.com:8080/get.php?username=EX-KINGiptvPKf&password=Gyh4AZD064gOIf58F&type=m3u
+#EXTM3U
+http://client-proiptv.com:8080/get.php?username=EX-KINGiptvPKf&password=Gyh4AZD064gOIf58F&type=m3u
  
 http://123iptv.nl:88/get.php?username=p6QIv0O94I&password=9oe5AVwKGP&type=m3u
  
