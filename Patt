@@ -3346,3 +3346,1222 @@ https://yuma-az.secure.footprint.net/egress/bhandler/yumaaz/streamb/playlist.m3u
 #EXTINF:-1 tvg-id="TNTInternational.ru" tvg-logo="https://i.imgur.com/l0RGbRI.png" group-title="Entertainment" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",Ð¢ÐÐ¢ International (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTM3U
+#EXTINF:-1,US: USA Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1
+#EXTINF:-1,US: SYFY
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3
+#EXTINF:-1,US: TNT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/7
+#EXTINF:-1,US: TBS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/8
+#EXTINF:-1,US: FX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/11
+#EXTINF:-1,US: A&E
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/12
+#EXTINF:-1,US: TLC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/13
+#EXTINF:-1,US: PARAMOUNT NETWORK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/16
+#EXTINF:-1,US: OXYGEN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/17
+#EXTINF:-1,US: TV LAND
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/18
+#EXTINF:-1,US: OWN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/20
+#EXTINF:-1,US: FXX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/22
+#EXTINF:-1,US: FREEFORM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/24
+#EXTINF:-1,US: FUSE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/25
+#EXTINF:-1,US: Comedy Central
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/27
+#EXTINF:-1,US: BET
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/28
+#EXTINF:-1,US: FOX News
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/36
+#EXTINF:-1,US: MSNBC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/37
+#EXTINF:-1,US: VH1
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/39
+#EXTINF:-1,US: CMT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/40
+#EXTINF:-1,US: Nickelodeon
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/42
+#EXTINF:-1,US: Cartoon Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/43
+#EXTINF:-1,US: Pop
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/44
+#EXTINF:-1,US: Nick Jr
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/45
+#EXTINF:-1,US: FXM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/46
+#EXTINF:-1,US: Showtime
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/47
+#EXTINF:-1,US: Sundance
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/48
+#EXTINF:-1,US: HBO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/49
+#EXTINF:-1,US: Lifetime
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/50
+#EXTINF:-1,US: IFC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/51
+#EXTINF:-1,US: HLN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/52
+#EXTINF:-1,US: HGV TV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/53
+#EXTINF:-1,US: Hallmark Drama
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/54
+#EXTINF:-1,US: Hallmark Channel
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/55
+#EXTINF:-1,US: Discovery
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/56
+#EXTINF:-1,US: Travel Channel HD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/59
+#EXTINF:-1,US: National Geographic
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/62
+#EXTINF:-1,US: NatGeo Wild
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63
+#EXTINF:-1,US: American Heroes
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64
+#EXTINF:-1,US: History channel
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65
+#EXTINF:-1,US: NBCSN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/67
+#EXTINF:-1,US: NESN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/69
+#EXTINF:-1,US: NFL NETWORK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/71
+#EXTINF:-1,US: The Golf Channel
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/72
+#EXTINF:-1,US: NBA TV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/75
+#EXTINF:-1,US: Fox Sports 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/76
+#EXTINF:-1,US: Fox Sports 1
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/77
+#EXTINF:-1,US: FOX Soccer plus
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/78
+#EXTINF:-1,US: ESPN 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/84
+#EXTINF:-1,US: ESPN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/85
+#EXTINF:-1,US: UNIVERSO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/88
+#EXTINF:-1,US: Tennis Channel HD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/89
+#EXTINF:-1,US: GSN HD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/93
+#EXTINF:-1,US: FOX Deportes HD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/94
+#EXTINF:-1,US: E!
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/95
+#EXTINF:-1,US: CNN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/96
+#EXTINF:-1,US: Bravo
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/97
+#EXTINF:-1,US: Travel Channel
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/98
+#EXTINF:-1,US: STARZ Kids & Family
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/99
+#EXTINF:-1,US: STARZ ENCORE Westerns
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/100
+#EXTINF:-1,US: STARZ ENCORE Family
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/101
+#EXTINF:-1,US: STARZ ENCORE Classic
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/102
+#EXTINF:-1,US: STARZ ENCORE Black
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/103
+#EXTINF:-1,US: STARZ Encore Action HD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/104
+#EXTINF:-1,US: Revolt
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/105
+#EXTINF:-1,US: Nicktoons
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/106
+#EXTINF:-1,US: MegaTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/108
+#EXTINF:-1,US: Investigation Discovery
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/110
+#EXTINF:-1,US: History en Espanol
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/111
+#EXTINF:-1,US: HBO Family East
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/112
+#EXTINF:-1,US: Galavision
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/113
+#EXTINF:-1,US: Epix Hits
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/114
+#EXTINF:-1,US: Epix 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/115
+#EXTINF:-1,US: Epix
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/116
+#EXTINF:-1,US: BET Her
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/120
+#EXTINF:-1,US:  HBO LATINO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/127
+#EXTINF:-1,US:  HBO FAMILY LATINO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/128
+#EXTINF:-1,US:  HBO 2 LATINO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/129
+#EXTINF:-1,US:  STARZ EDGE USA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/134
+#EXTINF:-1,US:  UNIVISION
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/138
+#EXTINF:-1,US:  UNIMAS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/139
+#EXTINF:-1,US: NHL Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/522
+#EXTINF:-1,US: WWE NETWORK 24/7
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/524
+#EXTINF:-1,UFC FIGHT PASS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/704
+#EXTINF:-1,KIDZ ONLY!
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/891
+#EXTINF:-1,TROPICALES
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/892
+#EXTINF:-1,ALTERNATIVE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/893
+#EXTINF:-1,HIT LIST
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/894
+#EXTINF:-1,MEXICANA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/895
+#EXTINF:-1,POP & COUNTRY
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/896
+#EXTINF:-1,POP HITS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/897
+#EXTINF:-1,RAP
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/898
+#EXTINF:-1,RAP 2K
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/899
+#EXTINF:-1,ROCK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/900
+#EXTINF:-1,TEEN BEATS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/901
+#EXTINF:-1,THROWBACK JAMZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/902
+#EXTINF:-1,DANCE EDM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/903
+#EXTINF:-1,HIP HOP & R & B
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/904
+#EXTINF:-1,POP LATINO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/905
+#EXTINF:-1,R&B SOUL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/906
+#EXTINF:-1,US: Telemundo Boston
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1081
+#EXTINF:-1,US: MSG PLUS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1638
+#EXTINF:-1,US: MSG PLUS 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1639
+#EXTINF:-1,US: STADIUM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1670
+#EXTINF:-1,US: CBS SPORTS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1674
+#EXTINF:-1,US: MTV 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1651
+#EXTINF:-1,US: MTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1650
+#EXTINF:-1,US: NBC Sports Bay Area
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1644
+#EXTINF:-1,US: NBC Sports California
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1645
+#EXTINF:-1,US: SPORTSMAN CHANNEL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1641
+#EXTINF:-1,US: Outdoor Channel
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1643
+#EXTINF:-1,US:  World Fishing Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1642
+#EXTINF:-1,US: Pac-12 Arizona
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1167
+#EXTINF:-1,US: Pac-12 Bay Area
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1168
+#EXTINF:-1,US: Pac-12 Los Angeles
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1169
+#EXTINF:-1,US: Pac-12 Mountain
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1170
+#EXTINF:-1,US: Pac-12 Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1171
+#EXTINF:-1,US: Pac-12 Oregon
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1172
+#EXTINF:-1,US: Pac-12 Washington
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1173
+#EXTINF:-1,US: Fox College Sports Atlantic
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1174
+#EXTINF:-1,US: Fox College Sports Central
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1175
+#EXTINF:-1,US: NBC Sports Northwest
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1647
+#EXTINF:-1,US: NBC Sports Philly
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1646
+#EXTINF:-1,US: OLYMPIC CHANNEL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1675
+#EXTINF:-1,US: NBC Sports Chicago
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1649
+#EXTINF:-1,US: THRILLERMAX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1957
+#EXTINF:-1,US: EPIX DRIVE-IN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1958
+#EXTINF:-1,US: INDIE PLEX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1960
+#EXTINF:-1,US: MSG
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1636
+#EXTINF:-1,US: MTV U
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1654
+#EXTINF:-1,US: MTV Live
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1653
+#EXTINF:-1,US: MTV Classic
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1652
+#EXTINF:-1,US: Hallmark Movies & Mysteries
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2171
+#EXTINF:-1,US: Bally Sports Southeast Plus HD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2249
+#EXTINF:-1,US: FOX SPORTS INDIANA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2250
+#EXTINF:-1,US: BET JAMS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1084
+#EXTINF:-1,US: BET Soul
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1085
+#EXTINF:-1,US: TUDN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1083
+#EXTINF:-1,US: MARQUEE SPORTS NETWORK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2624
+#EXTINF:-1,US: Eleven Sports Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2724
+#EXTINF:-1,US: Big Ten Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2725
+#EXTINF:-1,US: The Fight Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2738
+#EXTINF:-1,US: SportsNet NY
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2739
+#EXTINF:-1,US-2: Zona Futbol
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2740
+#EXTINF:-1,US-2: fubo Sports Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2741
+#EXTINF:-1,US: CINEMAX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2743
+#EXTINF:-1,US: Universal Kids
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2511
+#EXTINF:-1,US: Starz Encore Suspense
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3276
+#EXTINF:-1,US: Disney Channel
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3277
+#EXTINF:-1,US: Showtime Women
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3279
+#EXTINF:-1,US: Starz
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3280
+#EXTINF:-1,US: Showtime 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3281
+#EXTINF:-1,US: PixL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3283
+#EXTINF:-1,US: ESPNEWS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3284
+#EXTINF:-1,US: Showtime Family Zone
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3285
+#EXTINF:-1,US: RetroPlex
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3287
+#EXTINF:-1,US: HDNet Movies
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3289
+#EXTINF:-1,US: Showtime Showcase
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3290
+#EXTINF:-1,US: Showtime Next
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3291
+#EXTINF:-1,US: Disney Junior
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3292
+#EXTINF:-1,US: ESPNU
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3293
+#EXTINF:-1,US: Bloomberg Television
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3294
+#EXTINF:-1,US: ACC Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3295
+#EXTINF:-1,US: Starz Comedy
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3296
+#EXTINF:-1,US: MoviePlex
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3297
+#EXTINF:-1,US: DOGTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3298
+#EXTINF:-1,US: Showtime Extreme
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3299
+#EXTINF:-1,US: Starz Encore
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3300
+#EXTINF:-1,US: Disney XD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3301
+#EXTINF:-1,US: 5 StarMax
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3308
+#EXTINF:-1,MLB Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/62229
+#EXTINF:-1,US : TNT 
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64205
+#EXTINF:-1,US: HBO Zone
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64695
+#EXTINF:-1,US: HBO 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64697
+#EXTINF:-1,US: HBO Signature
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64698
+#EXTINF:-1,US: Turner Classic Movies
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64699
+#EXTINF:-1,US: COURT TV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64705
+#EXTINF:-1,US: COURT TV MYSTERY
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64706
+#EXTINF:-1,US: MOTOR TREND
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64717
+#EXTINF:-1,MUSICA URBANA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64718
+#EXTINF:-1,US: KTLA 5
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64878
+#EXTINF:-1,US: BOOMERANG
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64920
+#EXTINF:-1,US: AXS TV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64922
+#EXTINF:-1,US: REELZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64923
+#EXTINF:-1,US: PEOPLE TV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64924
+#EXTINF:-1,US: SONY MOVIE CHANNEL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64928
+#EXTINF:-1,US: PBS KIDS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64929
+#EXTINF:-1,US: HBO COMEDY
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65073
+#EXTINF:-1,US: HBO LATINO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65074
+#EXTINF:-1,US: SHOxBET
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65075
+#EXTINF:-1,US: ActionMax 
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65076
+#EXTINF:-1,US: MoreMax
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65077
+#EXTINF:-1,US: Starz in Black
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65078
+#EXTINF:-1,US: Starz Cinema
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65079
+#EXTINF:-1,US: StarzEncore EspaÃ±ol
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/65080
+#EXTINF:-1,US: SPECTRUM SPORTSNET HD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66636
+#EXTINF:-1,US: SPECTRUM SPORTSNET LA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66637
+#EXTINF:-1,US: AT&T SPORTSNET
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66639
+#EXTINF:-1,US: AT&T SPORTSNET ROCKY MOUNTAIN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66640
+#EXTINF:-1,US: BALLY SPORTS MIDWEST
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66643
+#EXTINF:-1,US: BALLY SPORTS DETROIT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66644
+#EXTINF:-1,US: BALLY SPORTS OHIO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66645
+#EXTINF:-1,US: BALLY SPORTS OKLAHOMA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66646
+#EXTINF:-1,US: BALLY SPORTS SOUTHEAST
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66647
+#EXTINF:-1,US: BALLY SPORTS SOUTHWEST
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66648
+#EXTINF:-1,US: BALLY SPORTS WEST
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66649
+#EXTINF:-1,US: BALLY SPORTS WISCONSIN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66650
+#EXTINF:-1,US: BALLY SPORTS SOCAL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66651
+#EXTINF:-1,US: AMC PRESENTS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66707
+#EXTINF:-1,US: ONE AMERICA NEWS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66711
+#EXTINF:-1,US: OVATION
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66712
+#EXTINF:-1,USA | ALTITUDE SPORTS 
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66714
+#EXTINF:-1,US: TVG NETWORK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66715
+#EXTINF:-1,US: OUTERMAX 
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/68401
+#EXTINF:-1,US: THE COWBOY CHANNEL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/68403
+#EXTINF:-1,US: OUTSIDE TV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/68408
+#EXTINF:-1,US: FYI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2457
+#EXTINF:-1,US: FOX Business Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2454
+#EXTINF:-1,US: CNBC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2432
+#EXTINF:-1,US: Cheddar Stream
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2428
+#EXTINF:-1,US: NBC Sports Washington
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1648
+#EXTINF:-1,US: SEC NETWORK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70104
+#EXTINF:-1,USA | College Baseball 01
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70471
+#EXTINF:-1,USA | College Baseball 02
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70472
+#EXTINF:-1,USA | College Baseball 03
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70473
+#EXTINF:-1,USA | College Baseball 04
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70474
+#EXTINF:-1,USA | College Baseball 05
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70475
+#EXTINF:-1,USA | College Baseball 06
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70476
+#EXTINF:-1,USA | College Baseball 07
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70477
+#EXTINF:-1,USA | College Baseball 08
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70478
+#EXTINF:-1,USA | College Baseball 09
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70479
+#EXTINF:-1,USA | College Baseball 10
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70480
+#EXTINF:-1,USA | College Baseball 11
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70481
+#EXTINF:-1,USA | College Baseball 12
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70482
+#EXTINF:-1,USA | College Baseball 13
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70483
+#EXTINF:-1,USA | College Baseball 14
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70484
+#EXTINF:-1,USA | College Baseball 15
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70485
+#EXTINF:-1,USA | College Baseball 16
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70486
+#EXTINF:-1,USA | College Baseball 17
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70487
+#EXTINF:-1,USA | College Baseball 18
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70488
+#EXTINF:-1,USA | College Baseball 19
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70489
+#EXTINF:-1,USA | College Baseball 20
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70490
+#EXTINF:-1,USA | College Baseball 21
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70491
+#EXTINF:-1,USA | College Baseball 22
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70492
+#EXTINF:-1,USA | College Baseball 23
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70493
+#EXTINF:-1,USA | College Baseball 24
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70494
+#EXTINF:-1,USA | College Baseball 25
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70495
+#EXTINF:-1,USA | College Baseball 26
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70496
+#EXTINF:-1,USA | College Baseball 27
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70497
+#EXTINF:-1,USA | College Baseball 28
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70498
+#EXTINF:-1,USA | College Baseball 29
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70499
+#EXTINF:-1,USA | College Baseball 30
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70500
+#EXTINF:-1,USA | College Baseball 31
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70501
+#EXTINF:-1,USA | College Baseball 32
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70502
+#EXTINF:-1,USA | College Baseball 33
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70503
+#EXTINF:-1,USA | College Baseball 34
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70504
+#EXTINF:-1,USA | College Baseball 35
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70505
+#EXTINF:-1,USA | College Baseball 36
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70506
+#EXTINF:-1,USA | College Baseball 37
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70507
+#EXTINF:-1,USA | College Baseball 38
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70508
+#EXTINF:-1,USA | College Baseball 39
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70509
+#EXTINF:-1,USA | College Baseball 40
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70510
+#EXTINF:-1,US: Newsy
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63818
+#EXTINF:-1,CBS - BOSTON MA WBZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1840
+#EXTINF:-1,CBS - DALLAS TX KTVT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1845
+#EXTINF:-1,CBS - DETROIT MI WWJ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1847
+#EXTINF:-1,CBS - LOS ANGELES CA KCBS -
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1851
+#EXTINF:-1,CBS - MIAMI FL WFOR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1852
+#EXTINF:-1,CBS - NEW YORK NY WCBS -
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1855
+#EXTINF:-1,CBS - PHILADELPHIA PA KYW
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1856
+#EXTINF:-1,CBS - PHOENIX AZ KPHO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1857
+#EXTINF:-1,CBS - SAN DIEGO CA KFMB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1860
+#EXTINF:-1,FOX - ATLANTA GA WAGA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1864
+#EXTINF:-1,FOX - DETROIT MI WJBK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1871
+#EXTINF:-1,FOX - MIAMI FL WSVN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1876
+#EXTINF:-1,FOX - SACRAMENTO CA KTXL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1882
+#EXTINF:-1,FOX - SAN DIEGO CA KSWB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1885
+#EXTINF:-1,FOX - SEATTLE WA KCPQ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1887
+#EXTINF:-1,NBC - ATLANTA GA WXIA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1889
+#EXTINF:-1,NBC - CHICAGO IL WMAQ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1893
+#EXTINF:-1,NBC - LOS ANGELES CA KNBC 
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1902
+#EXTINF:-1,NBC - MIAMI FL WTVJ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1903
+#EXTINF:-1,NBC - PHILADELPHIA PA WCAU
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1906
+#EXTINF:-1,NBC - SACRAMENTO CA KCRA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1910
+#EXTINF:-1,NBC - SAN DIEGO CA KNSD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1911
+#EXTINF:-1,REG- CBS BIRMINGHAM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2257
+#EXTINF:-1,REG- CW ATLANTA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2272
+#EXTINF:-1,REG- UNIVISION LOS ANGELES
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2275
+#EXTINF:-1,REG- CW SACRAMENTO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2276
+#EXTINF:-1,REG- TELEMUNDO SACRAMENTO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2277
+#EXTINF:-1,REG- CW SAN FRANCISCO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2278
+#EXTINF:-1,REG- TELEMUNDO DENVER
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2286
+#EXTINF:-1,REG- CBS JACKSONVILLE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2289
+#EXTINF:-1,REG- MY33 MIAMI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2292
+#EXTINF:-1,REG- UNIVISION MIAMI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2293
+#EXTINF:-1,REG- FOX TAMPA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2294
+#EXTINF:-1,REG- NBC TAMPA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2295
+#EXTINF:-1,REG- MY38 BOSTON
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2309
+#EXTINF:-1,REG- CW DETROIT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2313
+#EXTINF:-1,REG- FOX GRAND RAPIDS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2314
+#EXTINF:-1,US:  UNIMAS NEWARK, NJ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2318
+#EXTINF:-1,REG- UNIVISION PHILADELPHIA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2320
+#EXTINF:-1,REG- CBS LAS VEGAS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2321
+#EXTINF:-1,REG- CW PHILADELPHIA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2340
+#EXTINF:-1,REG- CBS CHARLESTON
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2346
+#EXTINF:-1,REG- FOX GREENVILLE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2351
+#EXTINF:-1,REG- CBS AUSTIN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2364
+#EXTINF:-1,REG- NBC SAN ANTONIO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2377
+#EXTINF:-1,REG- TELEMUNDO SAN ANTONIO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2378
+#EXTINF:-1,REG- FOX WASHINGTON D.C.
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2383
+#EXTINF:-1,REG- NBC BOSTON
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2391
+#EXTINF:-1,REG- CBS ATLANTA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2392
+#EXTINF:-1,REG- UNIVISION MIAMI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2393
+#EXTINF:-1,REG- UNIVISION NY
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2396
+#EXTINF:-1,REG- UNIVISION CLEVELAND
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2402
+#EXTINF:-1,REG- UNIMAS PHILADELPHIA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2405
+#EXTINF:-1,NBC 10 ALBANY, GA (WALB)
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3625
+#EXTINF:-1,AL | Birmingham | CBS WIAT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63844
+#EXTINF:-1,AL | Birmingham | FOX WBRC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63845
+#EXTINF:-1,AL | Birmingham | NBC WVTM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63846
+#EXTINF:-1,AL | Mobile | CBS WKRG
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63851
+#EXTINF:-1,AL | Mobile | FOX WALA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63852
+#EXTINF:-1,AL | Mobile | NBC WPMI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63853
+#EXTINF:-1,AL | Montgomery | NBC WSFA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63854
+#EXTINF:-1,AR | Little Rock | FOX KLRT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63860
+#EXTINF:-1,AR | Little Rock | NBC KARK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63861
+#EXTINF:-1,AZ | Phoenix | CBS KPHO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63867
+#EXTINF:-1,AZ | Phoenix | FOX KSAZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63868
+#EXTINF:-1,AZ | Phoenix | Telemundo KTAZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63869
+#EXTINF:-1,AZ | Tucson | FOX KMSB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63871
+#EXTINF:-1,AZ | Tucson | NBC KVOA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63872
+#EXTINF:-1,AZ | Tucson | Telemundo KHRR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63873
+#EXTINF:-1,CA | Fresno | NBC KSEE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63886
+#EXTINF:-1,CA | Los Angeles | CBS KCAL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63888
+#EXTINF:-1,CA | Los Angeles | FOX KTTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63890
+#EXTINF:-1,CA | Los Angeles | NBC KNBC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63892
+#EXTINF:-1,CA | San Francisco | CBS KPIX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63914
+#EXTINF:-1,CA | San Francisco | UNIVISION KDTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63916
+#EXTINF:-1,CA | San Jose | NBC KNTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63918
+#EXTINF:-1,CA | San Jose | Telemundo KSTS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63919
+#EXTINF:-1,CO | Colorado Springs | FOX KXRM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63928
+#EXTINF:-1,CO | Colorado Springs | Telemundo KRDO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63929
+#EXTINF:-1,CO | Denver | CBS KCNC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63932
+#EXTINF:-1,CO | Denver | FOX KDVR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63933
+#EXTINF:-1,CO | Denver | NBC KUSA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63934
+#EXTINF:-1,CO | Denver | Telemundo KDEN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63935
+#EXTINF:-1,CT | Hartford | CBS WFSB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63940
+#EXTINF:-1,CT | Hartford | FOX WTIC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63941
+#EXTINF:-1,CT | Hartford | Telemundo WRDM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63942
+#EXTINF:-1,FL | Fort Lauderdale | Telemundo WSCV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63948
+#EXTINF:-1,FL | Jacksonville | CBS WJAX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63954
+#EXTINF:-1,FL | Jacksonville | FOX WFOX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63955
+#EXTINF:-1,FL | Jacksonville | NBC WTLV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63956
+#EXTINF:-1,FL | Orlando | FOX WOFL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63965
+#EXTINF:-1,FL | Orlando | Telemundo WTMO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63967
+#EXTINF:-1,FL | Panama City | NBC WJHG
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/63970
+#EXTINF:-1,FL | St. Petersburg | CBS WTSP
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64055
+#EXTINF:-1,FL | Tampa | Telemundo WRMD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64061
+#EXTINF:-1,FL | West Palm Beach | NBC WPTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64064
+#EXTINF:-1,HI | Honolulu | CBS KGMB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64084
+#EXTINF:-1,HI | Honolulu | FOX KHON
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64085
+#EXTINF:-1,HI | Honolulu | NBC KHNL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64086
+#EXTINF:-1,IA | Des Moines | FOX KDSM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64093
+#EXTINF:-1,IA | Des Moines | NBC WHO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64094
+#EXTINF:-1,IA | Sioux City | NBC KTIV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64097
+#EXTINF:-1,ID | Boise | CBS KBOI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64101
+#EXTINF:-1,ID | Boise | NBC KTVB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64102
+#EXTINF:-1,IL | Chicago | CBS WBBM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64110
+#EXTINF:-1,IL | Chicago | FOX WFLD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64111
+#EXTINF:-1,IL | Chicago | NBC WMAQ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64112
+#EXTINF:-1,IL | Chicago | Telemundo WSNS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64113
+#EXTINF:-1,IN | Indianapolis | FOX WXIN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64127
+#EXTINF:-1,IN | Indianapolis | NBC WTHR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64128
+#EXTINF:-1,KY | Lexington | NBC WLEX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64143
+#EXTINF:-1,KY | Louisville | FOX WDRB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64145
+#EXTINF:-1,KY | Louisville | NBC WAVE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64146
+#EXTINF:-1,LA | Baton Rouge | FOX WGMB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64151
+#EXTINF:-1,LA | Baton Rouge | NBC WVLA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64152
+#EXTINF:-1,LA | Lafayette | FOX KADN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64155
+#EXTINF:-1,LA | Lafayette | NBC KLAF
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64156
+#EXTINF:-1,LA | New Orleans | CBS WWL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64158
+#EXTINF:-1,LA | New Orleans | NBC WDSU
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64159
+#EXTINF:-1,LA | New Orleans | | WVUE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64160
+#EXTINF:-1,MA | Boston | CBS WBZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64164
+#EXTINF:-1,MA | Boston | FOX WFXT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64165
+#EXTINF:-1,MA | Springfield | FOX WGGB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64171
+#EXTINF:-1,MA | Springfield | NBC WWLP
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64172
+#EXTINF:-1,MD | Baltimore | CBS WJZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64174
+#EXTINF:-1,MD | Baltimore | FOX WBFF
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64175
+#EXTINF:-1,MD | Baltimore | NBC WBAL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64176
+#EXTINF:-1,MI | Detroit | FOX WJBK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64188
+#EXTINF:-1,MI | Detroit | NBC WDIV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64189
+#EXTINF:-1,MI | Grand Rapids | FOX WXMI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64191
+#EXTINF:-1,MI | Traverse City | NBC WPBN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64199
+#EXTINF:-1,MN | Minneapolis | CBS WCCO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64200
+#EXTINF:-1,MN | Minneapolis | FOX KMSP
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64201
+#EXTINF:-1,MN | Minneapolis | NBC KARE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64393
+#EXTINF:-1,MO | Kansas City | CBS KCTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64397
+#EXTINF:-1,MO | Kansas City | FOX WDAF
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64398
+#EXTINF:-1,MO | Kansas City | NBC KSHB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64399
+#EXTINF:-1,MO | St. Louis | CBS KMOV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64407
+#EXTINF:-1,MS | Jackson | NBC WLBT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64416
+#EXTINF:-1,MT | Billings | NBC KULR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64419
+#EXTINF:-1,NC | Charlotte | NBC WCNC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64426
+#EXTINF:-1,NC | Raleigh | FOX WRAZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64431
+#EXTINF:-1,NC | Raleigh | NBC WRAL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64432
+#EXTINF:-1,NC | Washington | NBC WITN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64434
+#EXTINF:-1,NC | Wilmington | NBC WECT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64436
+#EXTINF:-1,NV | Las Vegas | CBS KLAS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64465
+#EXTINF:-1,NV | Las Vegas | NBC KSNV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64466
+#EXTINF:-1,NV | Reno | NBC KRNV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64470
+#EXTINF:-1,NY | Buffalo | CBS WIVB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64474
+#EXTINF:-1,NY | Buffalo | NBC WGRZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64476
+#EXTINF:-1,NY | New York | FOX WNYW
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64479
+#EXTINF:-1,NY | New York | NBC WNBC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64481
+#EXTINF:-1,NY | Rochester | NBC WHEC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64487
+#EXTINF:-1,OH | Cincinnati | CBS WKRC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64494
+#EXTINF:-1,OH | Cincinnati | NBC WLWT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64495
+#EXTINF:-1,OH | Cleveland | FOX WJW
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64496
+#EXTINF:-1,OH | Cleveland | NBC WKYC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64497
+#EXTINF:-1,OH | Columbus | CBS WBNS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64499
+#EXTINF:-1,OH | Columbus | NBC WCMH
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64501
+#EXTINF:-1,OH | Toledo | CBS WTOL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64508
+#EXTINF:-1,OH | Toledo | FOX WUPW
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64509
+#EXTINF:-1,OH | Toledo | NBC WNWO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64510
+#EXTINF:-1,OK | Oklahoma City | CBS KWTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64516
+#EXTINF:-1,OK | Oklahoma City | NBC KFOR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64518
+#EXTINF:-1,OK | Tulsa | NBC KJRH
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64521
+#EXTINF:-1,OK | Tulsa | Telemundo KUTU
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64522
+#EXTINF:-1,OK | Tulsa | | KOKI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64523
+#EXTINF:-1,OR | Eugene | FOX KLSR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64527
+#EXTINF:-1,OR | Portland | FOX KPTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64533
+#EXTINF:-1,PA | Philadelphia | FOX WTXF
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64543
+#EXTINF:-1,PA | Pittsburgh | CBS KDKA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64546
+#EXTINF:-1,PA | Pittsburgh | FOX WPGH
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64547
+#EXTINF:-1,PA | Pittsburgh | NBC WPXI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64548
+#EXTINF:-1,RI | Providence | FOX WNAC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64554
+#EXTINF:-1,RI | Providence | | WJAR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64557
+#EXTINF:-1,SC | Charleston | FOX WTAT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64559
+#EXTINF:-1,SC | Charleston | NBC WCBD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64560
+#EXTINF:-1,SC | Columbia | CBS WLTX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64561
+#EXTINF:-1,SC | Columbia | FOX WACH
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64562
+#EXTINF:-1,SC | Columbia | NBC WIS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64563
+#EXTINF:-1,SC | Myrtle Beach | FOX WFXB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64567
+#EXTINF:-1,SC | Myrtle Beach | NBC WMBF
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64568
+#EXTINF:-1,SD | Sioux Falls | NBC KDLT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64572
+#EXTINF:-1,TN | Knoxville | CBS WVLT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64577
+#EXTINF:-1,TN | Knoxville | FOX WTNZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64578
+#EXTINF:-1,TN | Knoxville | NBC WBIR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64579
+#EXTINF:-1,TN | Memphis | FOX WHBQ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64580
+#EXTINF:-1,TN | Memphis | NBC WMC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64581
+#EXTINF:-1,TN | Nashville | CBS WTVF
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64582
+#EXTINF:-1,TN | Nashville | NBC WSMV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64584
+#EXTINF:-1,TX | Amarillo | NBC KAMR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64589
+#EXTINF:-1,TX | Austin | FOX KTBC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64591
+#EXTINF:-1,TX | Austin | NBC KXAN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64592
+#EXTINF:-1,TX | Corpus Christi | NBC KRIS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64600
+#EXTINF:-1,TX | Dallas | FOX KDFW
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64602
+#EXTINF:-1,TX | Dallas | Telemundo KXTX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64603
+#EXTINF:-1,TX | El Paso | CBS KDBC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64605
+#EXTINF:-1,TX | El Paso | NBC KTSM
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64607
+#EXTINF:-1,TX | Fort Worth | CBS KTVT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64610
+#EXTINF:-1,TX | Fort Worth | NBC KXAS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64612
+#EXTINF:-1,TX | Galveston | Telemundo KTMD
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64614
+#EXTINF:-1,TX | Houston | CBS KHOU
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64617
+#EXTINF:-1,TX | Houston | FOX KRIV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64618
+#EXTINF:-1,TX | Houston | NBC KPRC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64620
+#EXTINF:-1,TX | San Antonio | CBS KENS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64633
+#EXTINF:-1,TX | San Antonio | FOX KABB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64634
+#EXTINF:-1,TX | San Antonio | UNIVISION KWEX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64637
+#EXTINF:-1,TX | Waco | FOX KWKT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64642
+#EXTINF:-1,UT | Salt Lake City | CBS KUTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64643
+#EXTINF:-1,UT | Salt Lake City | FOX KSTU
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64644
+#EXTINF:-1,VA | Portsmouth | NBC WAVY
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64648
+#EXTINF:-1,VA | Richmond | NBC WWBT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64650
+#EXTINF:-1,WA | Seattle | CBS KIRO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64658
+#EXTINF:-1,WA | Seattle | NBC KING
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64659
+#EXTINF:-1,WA | Tacoma | CW KSTW
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64662
+#EXTINF:-1,WA | Tacoma | FOX KCPQ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64663
+#EXTINF:-1,WA | Washington | CBS WUSA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64665
+#EXTINF:-1,WA | Washington | FOX WTTG
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64666
+#EXTINF:-1,WA | Washington | NBC WRC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64668
+#EXTINF:-1,WA | Washington | Telemundo WZDC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64669
+#EXTINF:-1,WA | Yakima | CBS KIMA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64670
+#EXTINF:-1,WI | Green Bay | NBC WGBA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64675
+#EXTINF:-1,WI | Madison | CBS WISC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64679
+#EXTINF:-1,WI | Milwaukee | CBS WDJT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64682
+#EXTINF:-1,WI | Milwaukee | NBC WTMJ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64684
+#EXTINF:-1,CW 44 Tampa, FL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64690
+#EXTINF:-1,CW 56 Boston, MA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64693
+#EXTINF:-1,CW 58 Nashville, TN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64694
+#EXTINF:-1,US: CBS DENVER
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1166
+#EXTINF:-1,US: Telemundo Miami
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66027
+#EXTINF:-1,US: LAFF MIAMI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/68409
+#EXTINF:-1,US: AMC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2417
+#EXTINF:-1,US: Animal Planet
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2419
+#EXTINF:-1,US: CNBC World
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2433
+#EXTINF:-1,US: Comet
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2439
+#EXTINF:-1,US: Cooking Channel
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2440
+#EXTINF:-1,US: Cozi
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2441
+#EXTINF:-1,US: Destination America
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2442
+#EXTINF:-1,US: Discovery Familia
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2446
+#EXTINF:-1,US: Discovery Family
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2447
+#EXTINF:-1,US: Discovery Life
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2448
+#EXTINF:-1,US: MAGNOLIA NETWORK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2449
+#EXTINF:-1,US: Great American Country
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2458
+#EXTINF:-1,US: INSP
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2467
+#EXTINF:-1,US: Lifetime Movie Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2470
+#EXTINF:-1,US: Science
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2487
+#EXTINF:-1,US: Smithsonian Channel (East)
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2488
+#EXTINF:-1,US: The Weather Channel
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2497
+#EXTINF:-1,US-2: truTV (East)
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2505
+#EXTINF:-1,US: Univision Network
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2512
+#EXTINF:-1,US-2: WE tv
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2520
+#EXTINF:-1,SuperSport 1
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2696
+#EXTINF:-1,SuperSport  2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2697
+#EXTINF:-1,SuperSport 3
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2698
+#EXTINF:-1,SuperSport 4
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2699
+#EXTINF:-1,SuperSport 5
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2700
+#EXTINF:-1,SuperSport 6
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2701
+#EXTINF:-1,SuperSport 7
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2702
+#EXTINF:-1,SuperSport 8
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2703
+#EXTINF:-1,SuperSport 9
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2704
+#EXTINF:-1,SuperSport 10
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2705
+#EXTINF:-1,SuperSport 11
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2706
+#EXTINF:-1,SuperSport 12
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2707
+#EXTINF:-1,SuperSport La Liga
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66605
+#EXTINF:-1,SuperSport Variety 3
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66606
+#EXTINF:-1,SuperSport Rugby
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66607
+#EXTINF:-1,SuperSport Cricket
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66608
+#EXTINF:-1,SuperSport Golf
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66609
+#EXTINF:-1,SuperSport Premier League
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66611
+#EXTINF:-1,SuperSport Grandstand
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66612
+#EXTINF:-1,SuperSport Variety 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66613
+#EXTINF:-1,SuperSport Action
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66614
+#EXTINF:-1,SuperSport Football
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66615
+#EXTINF:-1,SuperSport Variety 4
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66616
+#EXTINF:-1,SuperSport Blitz
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66617
+#EXTINF:-1,SuperSport MaXimo 1
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66618
+#EXTINF:-1,SuperSport Variety 1
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/68392
+#EXTINF:-1,SuperSport Tennis
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/68393
+#EXTINF:-1,SuperSport Motorsport
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/68394
+#EXTINF:-1,DIRTVISION 0
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70058
+#EXTINF:-1,DIRTVISION 1
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70059
+#EXTINF:-1,DIRTVISION 2
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70060
+#EXTINF:-1,DIRTVISION 3
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70061
+#EXTINF:-1,DIRTVISION 4
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/70677
+#EXTINF:-1,QVC (US)
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64339
+#EXTINF:-1,QVC 2 (US)
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64340
+#EXTINF:-1,ABC - BOSTON MA WCVB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1818
+#EXTINF:-1,ABC - CHICAGO IL WLS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1820
+#EXTINF:-1,ABC - DALLAS TX WFAA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1822
+#EXTINF:-1,ABC - DENVER CO KMGH
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1823
+#EXTINF:-1,ABC - HOUSTON TX KTRK
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1825
+#EXTINF:-1,ABC -: NEW YORK WABC 
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1829
+#EXTINF:-1,ABC - PHILADELPHIA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1830
+#EXTINF:-1,ABC - PITTSBURGH PA WTAE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1832
+#EXTINF:-1,ABC - SALT LAKE CITY UT KTVX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1833
+#EXTINF:-1,ABC - SAN ANTONIO TX KSAT
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1834
+#EXTINF:-1,ABC - SAN DIEGO CA KGTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1835
+#EXTINF:-1,ABC - SEATTLE WA KOMO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1837
+#EXTINF:-1,ABC - ST LOUIS MO KDNL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/1838
+#EXTINF:-1,ABC 10 MIAMI
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/2388
+#EXTINF:-1,ABC 10 KAKE Wichita
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3309
+#EXTINF:-1,ABC 12 WJRT Flint
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3310
+#EXTINF:-1,ABC 13 (WLOX) Gulfport
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3311
+#EXTINF:-1,ABC 25 Columbia (WOLO)
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3312
+#EXTINF:-1,ABC 27 (WTXL) Tallahassee
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3313
+#EXTINF:-1,ABC 5 Cleveland WEWS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3314
+#EXTINF:-1,ABC 53 WLAJ Lansing
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3315
+#EXTINF:-1,ABC 7 KOAT New Mexico
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3316
+#EXTINF:-1,ABC 9 (WCPO) Cincinnati
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3317
+#EXTINF:-1,ABC 9 WTVC Chattanooga
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3318
+#EXTINF:-1,ABC Atlanta WSB
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3319
+#EXTINF:-1,ABC Austin KVUE
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3320
+#EXTINF:-1,ABC Baltimore WMAR
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3321
+#EXTINF:-1,ABC Charlotte WSOC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3322
+#EXTINF:-1,ABC Columbus WSYX
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3323
+#EXTINF:-1,ABC Connecticut
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3324
+#EXTINF:-1,ABC Detroit WXYZ
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3325
+#EXTINF:-1,ABC Kansas City KMBC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3326
+#EXTINF:-1,ABC Los Angeles KABC
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3327
+#EXTINF:-1,ABC Louisville WHAS
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3328
+#EXTINF:-1,ABC Milwaukee WISN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3329
+#EXTINF:-1,ABC Nashville WKRN
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3330
+#EXTINF:-1,ABC Phoenix KNXV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3331
+#EXTINF:-1,ABC Portland KATU
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3332
+#EXTINF:-1,ABC Sacramento KXTV
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3333
+#EXTINF:-1,ABC Saint Paul KSTP
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3334
+#EXTINF:-1,ABC San Francisco KGO
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3335
+#EXTINF:-1,ABC13 (KTNV) Las Vegas
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3337
+#EXTINF:-1,ABC2 (WBAY) Green Bay
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3338
+#EXTINF:-1,ABC2 (WBRZ) Baton Rouge
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3339
+#EXTINF:-1,ABC25 (WJXX) Jacksonville
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3340
+#EXTINF:-1,ABC3 (WSIL) Illinois
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3341
+#EXTINF:-1,ABC33 (KSPR) Missouri
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3342
+#EXTINF:-1,ABC4 (WCIV) Charleston
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3343
+#EXTINF:-1,ABC5 (KOCO) Oklahoma City
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3344
+#EXTINF:-1,ABC68 (WABM) Birmingham
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3345
+#EXTINF:-1,ABC7 (KVIA) El Paso
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3346
+#EXTINF:-1,ABC7 (WKBW) Buffalo
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3347
+#EXTINF:-1,ABC8 (KTUL) Tulsa
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3348
+#EXTINF:-1,ABC8 (WCHS) Charleston
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3349
+#EXTINF:-1,ABC8 (WRIC) Richmond
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/3350
+#EXTINF:-1,ABC 32 Montgomery, AL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64686
+#EXTINF:-1,ABC 30 Fresno, CA
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64687
+#EXTINF:-1,ABC 28 Tampa, FL
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64688
+#EXTINF:-1,ABC 36 Lexington, KY
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/64691
+#EXTINF:-1,NAUGHTY 01
+http://ttv.bz:80/vg-th-mayor/wHe1hTRZYP/66028
